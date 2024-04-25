@@ -1,0 +1,8 @@
+αλλαγες στο dataset
+
+μπηκε or αντι για κομμα σε cell για σωστη μορφοποιηση ctr+ f azura
+removed dlc characters
+added green and red
+started creating the dataset in excel because python was taking too long
+didnt use sections that needed verification
+idk if i should put fighting
