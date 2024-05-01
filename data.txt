@@ -9,3 +9,4 @@ idk if i should put fighting (i did)
 changed the greetings and goodbyes sheet to no include or na dhave seperate dialogues
 changed the dropped armor dialogues to have the players responce
 started marriage dialogues(there are a lot)
+half finished marriage and then the rest of the generic, also just started guards
