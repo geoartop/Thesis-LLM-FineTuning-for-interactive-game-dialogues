@@ -1,0 +1,164 @@
+[
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"Werewolf!\"",
+        "Event": "Player being a werewolf in front of an NPC",
+        "Condition": "the Player having transformed into a werewolf"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"It's a werewolf! To arms! To arms!\"",
+        "Event": "Player being a werewolf in front of an NPC",
+        "Condition": "the Player having transformed into a werewolf"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"By the gods! It..it can't be!\"",
+        "Event": "Player being a werewolf in front of an NPC",
+        "Condition": "the Player having transformed into a werewolf"
+    },
+    {
+        "Speaker": "MaleCommoner",
+        "Dialogue": "\"Come on! You monster!\"",
+        "Event": "Player being a werewolf in front of an NPC",
+        "Condition": "the Player having transformed into a werewolf"
+    },
+    {
+        "Speaker": "MaleCommonerAccented",
+        "Dialogue": "\"Come on! You monster!\"",
+        "Event": "Player being a werewolf in front of an NPC",
+        "Condition": "the Player having transformed into a werewolf"
+    },
+    {
+        "Speaker": "FemaleCommoner",
+        "Dialogue": "\"Come on! You monster!\"",
+        "Event": "Player being a werewolf in front of an NPC",
+        "Condition": "the Player having transformed into a werewolf"
+    },
+    {
+        "Speaker": "MaleEvenToned",
+        "Dialogue": "\"Come on! You monster!\"",
+        "Event": "Player being a werewolf in front of an NPC",
+        "Condition": "the Player having transformed into a werewolf"
+    },
+    {
+        "Speaker": "MaleEvenTonedAccented",
+        "Dialogue": "\"Come on! You monster!\"",
+        "Event": "Player being a werewolf in front of an NPC",
+        "Condition": "the Player having transformed into a werewolf"
+    },
+    {
+        "Speaker": "FemaleEvenToned",
+        "Dialogue": "\"Come on! You monster!\"",
+        "Event": "Player being a werewolf in front of an NPC",
+        "Condition": "the Player having transformed into a werewolf"
+    },
+    {
+        "Speaker": "MaleNord",
+        "Dialogue": "\"Come on! You monster!\"",
+        "Event": "Player being a werewolf in front of an NPC",
+        "Condition": "the Player having transformed into a werewolf"
+    },
+    {
+        "Speaker": "FemaleNord",
+        "Dialogue": "\"Come on! You monster!\"",
+        "Event": "Player being a werewolf in front of an NPC",
+        "Condition": "the Player having transformed into a werewolf"
+    },
+    {
+        "Speaker": "MaleCommoner",
+        "Dialogue": "\"Die, you filthy beast!\"",
+        "Event": "Player being a werewolf in front of an NPC",
+        "Condition": "the Player having transformed into a werewolf"
+    },
+    {
+        "Speaker": "MaleCommonerAccented",
+        "Dialogue": "\"Die, you filthy beast!\"",
+        "Event": "Player being a werewolf in front of an NPC",
+        "Condition": "the Player having transformed into a werewolf"
+    },
+    {
+        "Speaker": "FemaleCommoner",
+        "Dialogue": "\"Die, you filthy beast!\"",
+        "Event": "Player being a werewolf in front of an NPC",
+        "Condition": "the Player having transformed into a werewolf"
+    },
+    {
+        "Speaker": "MaleEvenToned",
+        "Dialogue": "\"Die, you filthy beast!\"",
+        "Event": "Player being a werewolf in front of an NPC",
+        "Condition": "the Player having transformed into a werewolf"
+    },
+    {
+        "Speaker": "MaleEvenTonedAccented",
+        "Dialogue": "\"Die, you filthy beast!\"",
+        "Event": "Player being a werewolf in front of an NPC",
+        "Condition": "the Player having transformed into a werewolf"
+    },
+    {
+        "Speaker": "FemaleEvenToned",
+        "Dialogue": "\"Die, you filthy beast!\"",
+        "Event": "Player being a werewolf in front of an NPC",
+        "Condition": "the Player having transformed into a werewolf"
+    },
+    {
+        "Speaker": "MaleNord",
+        "Dialogue": "\"Die, you filthy beast!\"",
+        "Event": "Player being a werewolf in front of an NPC",
+        "Condition": "the Player having transformed into a werewolf"
+    },
+    {
+        "Speaker": "FemaleNord",
+        "Dialogue": "\"Die, you filthy beast!\"",
+        "Event": "Player being a werewolf in front of an NPC",
+        "Condition": "the Player having transformed into a werewolf"
+    },
+    {
+        "Speaker": "MaleCommoner",
+        "Dialogue": "\"Werewolf! Kill the monster!\"",
+        "Event": "Player being a werewolf in front of an NPC",
+        "Condition": "the Player having transformed into a werewolf"
+    },
+    {
+        "Speaker": "MaleCommonerAccented",
+        "Dialogue": "\"Werewolf! Kill the monster!\"",
+        "Event": "Player being a werewolf in front of an NPC",
+        "Condition": "the Player having transformed into a werewolf"
+    },
+    {
+        "Speaker": "FemaleCommoner",
+        "Dialogue": "\"Werewolf! Kill the monster!\"",
+        "Event": "Player being a werewolf in front of an NPC",
+        "Condition": "the Player having transformed into a werewolf"
+    },
+    {
+        "Speaker": "MaleEvenToned",
+        "Dialogue": "\"Werewolf! Kill the monster!\"",
+        "Event": "Player being a werewolf in front of an NPC",
+        "Condition": "the Player having transformed into a werewolf"
+    },
+    {
+        "Speaker": "MaleEvenTonedAccented",
+        "Dialogue": "\"Werewolf! Kill the monster!\"",
+        "Event": "Player being a werewolf in front of an NPC",
+        "Condition": "the Player having transformed into a werewolf"
+    },
+    {
+        "Speaker": "FemaleEvenToned",
+        "Dialogue": "\"Werewolf! Kill the monster!\"",
+        "Event": "Player being a werewolf in front of an NPC",
+        "Condition": "the Player having transformed into a werewolf"
+    },
+    {
+        "Speaker": "MaleNord",
+        "Dialogue": "\"Werewolf! Kill the monster!\"",
+        "Event": "Player being a werewolf in front of an NPC",
+        "Condition": "the Player having transformed into a werewolf"
+    },
+    {
+        "Speaker": "FemaleNord",
+        "Dialogue": "\"Werewolf! Kill the monster!\"",
+        "Event": "Player being a werewolf in front of an NPC",
+        "Condition": "the Player having transformed into a werewolf"
+    }
+]

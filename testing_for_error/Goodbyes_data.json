@@ -1,0 +1,137 @@
+[
+    {
+        "Speaker": "Any",
+        "Dialogue": "\"Until next time.\"",
+        "Event": "Goodbye"
+    },
+    {
+        "Speaker": "Any",
+        "Dialogue": "\"Hmm hmm.\"",
+        "Event": "Goodbye"
+    },
+    {
+        "Speaker": "Any",
+        "Dialogue": "\"All right, then.\"",
+        "Event": "Goodbye"
+    },
+    {
+        "Speaker": "MaleCommander",
+        "Dialogue": "\"I'll take my leave, then.\"",
+        "Event": "Goodbye"
+    },
+    {
+        "Speaker": "MaleNordCommander",
+        "Dialogue": "\"I'll take my leave, then.\"",
+        "Event": "Goodbye"
+    },
+    {
+        "Speaker": "FemaleCommander",
+        "Dialogue": "\"I'll take my leave, then.\"",
+        "Event": "Goodbye"
+    },
+    {
+        "Speaker": "MaleCondescending",
+        "Dialogue": "\"Now if you'll excuse me...\"",
+        "Event": "Goodbye"
+    },
+    {
+        "Speaker": "FemaleCondescending",
+        "Dialogue": "Now if you'll excuse me...",
+        "Event": "Goodbye"
+    },
+    {
+        "Speaker": "MaleDarkElf",
+        "Dialogue": "\"Safe travels.\"",
+        "Event": "Goodbye"
+    },
+    {
+        "Speaker": "FemaleDarkElf",
+        "Dialogue": "\"Safe travels.\"",
+        "Event": "Goodbye"
+    },
+    {
+        "Speaker": "MaleDrunk",
+        "Dialogue": "\"Yeah yeah...\"",
+        "Event": "Goodbye"
+    },
+    {
+        "Speaker": "MaleEvenToned",
+        "Dialogue": "\"Farewell.\"",
+        "Event": "Goodbye"
+    },
+    {
+        "Speaker": "MaleEvenTonedAccented",
+        "Dialogue": "\"Farewell.\"",
+        "Event": "Goodbye"
+    },
+    {
+        "Speaker": "FemaleEvenToned",
+        "Dialogue": "\"Farewell.\"",
+        "Event": "Goodbye"
+    },
+    {
+        "Speaker": "MaleKhajiit",
+        "Dialogue": "\"Swift hunting.\"",
+        "Event": "Goodbye"
+    },
+    {
+        "Speaker": "FemaleKhajiit",
+        "Dialogue": "\"Swift hunting.\"",
+        "Event": "Goodbye"
+    },
+    {
+        "Speaker": "MaleKhajiit",
+        "Dialogue": "\"May you walk on warm sands.\"",
+        "Event": "Goodbye"
+    },
+    {
+        "Speaker": "FemaleKhajiit",
+        "Dialogue": "\"May you walk on warm sands.\"",
+        "Event": "Goodbye"
+    },
+    {
+        "Speaker": "MaleNord",
+        "Dialogue": "\"Aye.\"",
+        "Event": "Goodbye"
+    },
+    {
+        "Speaker": "FemaleNord",
+        "Dialogue": "\"Aye.\"",
+        "Event": "Goodbye"
+    },
+    {
+        "Speaker": "MaleOldKindly",
+        "Dialogue": "\"Take care, now.\"",
+        "Event": "Goodbye"
+    },
+    {
+        "Speaker": "FemaleOldKindly",
+        "Dialogue": "\"Take care, now.\"",
+        "Event": "Goodbye"
+    },
+    {
+        "Speaker": "MaleOrc",
+        "Dialogue": "\"Fight well.\"",
+        "Event": "Goodbye"
+    },
+    {
+        "Speaker": "FemaleOrc",
+        "Dialogue": "\"Fight well.\"",
+        "Event": "Goodbye"
+    },
+    {
+        "Speaker": "FemaleSultry",
+        "Dialogue": "\"It's been a pleasure.\"",
+        "Event": "Goodbye"
+    },
+    {
+        "Speaker": "FemaleSultry",
+        "Dialogue": "\"See you around.\"",
+        "Event": "Goodbye"
+    },
+    {
+        "Speaker": "MaleYoungEager",
+        "Dialogue": "\"I'd better get going.\"",
+        "Event": "Goodbye"
+    }
+]

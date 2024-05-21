@@ -1,0 +1,470 @@
+[
+    {
+        "Speaker": "FemaleOrc",
+        "Dialogue": "\"What are you doing here, outlander? We don't deal with your kind.\"",
+        "Event": "the Player entering an Orc Stronghold",
+        "Condition": "the Player is not a blood-kin"
+    },
+    {
+        "Speaker": "FemaleOrc",
+        "Dialogue": "\"This is our stronghold. Leave.\"",
+        "Event": "the Player entering an Orc Stronghold",
+        "Condition": "the Player is not a blood-kin"
+    },
+    {
+        "Speaker": "FemaleOrc",
+        "Dialogue": "\"Outsiders. Nothing but trouble.\"",
+        "Event": "the Player entering an Orc Stronghold",
+        "Condition": "the Player is not a blood-kin"
+    },
+    {
+        "Speaker": "FemaleOrc",
+        "Dialogue": "\"Malacath blesses us with this land. It's not for your kind.\"",
+        "Event": "the Player entering an Orc Stronghold",
+        "Condition": "the Player is not a blood-kin"
+    },
+    {
+        "Speaker": "FemaleOrc",
+        "Dialogue": "\"This stronghold is for the Orcs. Leave. Now.\"",
+        "Event": "the Player entering an Orc Stronghold",
+        "Condition": "the Player is not a blood-kin"
+    },
+    {
+        "Speaker": "FemaleOrc",
+        "Dialogue": "\"We don't know you, and we don't want you here.\"",
+        "Event": "the Player entering an Orc Stronghold",
+        "Condition": "the Player is not a blood-kin"
+    },
+    {
+        "Speaker": "FemaleOrc",
+        "Dialogue": "\"Leave, outlander.\"",
+        "Event": "the Player entering an Orc Stronghold",
+        "Condition": "the Player is not a blood-kin"
+    },
+    {
+        "Speaker": "FemaleOrc",
+        "Dialogue": "\"You've no right to be here. This place is for Orcs. And Orcs alone.\"",
+        "Event": "the Player entering an Orc Stronghold",
+        "Condition": "the Player is not a blood-kin"
+    },
+    {
+        "Speaker": "FemaleOrc",
+        "Dialogue": "\"Outlanders should learn to not wander where they don't belong.\"",
+        "Event": "the Player entering an Orc Stronghold",
+        "Condition": "the Player is not a blood-kin"
+    },
+    {
+        "Speaker": "FemaleOrc",
+        "Dialogue": "\"You have no business in our stronghold, outlander.\"",
+        "Event": "the Player entering an Orc Stronghold",
+        "Condition": "the Player is not a blood-kin"
+    },
+    {
+        "Speaker": "FemaleOrc",
+        "Dialogue": "\"Malacath blesses this land for the Orcs. And the Orcs alone.\"",
+        "Event": "the Player entering an Orc Stronghold",
+        "Condition": "the Player is not a blood-kin"
+    },
+    {
+        "Speaker": "FemaleOrc",
+        "Dialogue": "\"We won't kill you, outlander, but we don't want you here.\"",
+        "Event": "the Player entering an Orc Stronghold",
+        "Condition": "the Player is not a blood-kin"
+    },
+    {
+        "Speaker": "MaleOrc",
+        "Dialogue": "\"What are you doing here, outlander? We don't deal with your kind.\"",
+        "Event": "the Player entering an Orc Stronghold",
+        "Condition": "the Player is not a blood-kin"
+    },
+    {
+        "Speaker": "MaleOrc",
+        "Dialogue": "\"This is our stronghold. Leave.\"",
+        "Event": "the Player entering an Orc Stronghold",
+        "Condition": "the Player is not a blood-kin"
+    },
+    {
+        "Speaker": "MaleOrc",
+        "Dialogue": "\"Outsiders. Nothing but trouble.\"",
+        "Event": "the Player entering an Orc Stronghold",
+        "Condition": "the Player is not a blood-kin"
+    },
+    {
+        "Speaker": "MaleOrc",
+        "Dialogue": "\"Malacath blesses us with this land. It's not for your kind.\"",
+        "Event": "the Player entering an Orc Stronghold",
+        "Condition": "the Player is not a blood-kin"
+    },
+    {
+        "Speaker": "MaleOrc",
+        "Dialogue": "\"This stronghold is for the Orcs. Leave. Now.\"",
+        "Event": "the Player entering an Orc Stronghold",
+        "Condition": "the Player is not a blood-kin"
+    },
+    {
+        "Speaker": "MaleOrc",
+        "Dialogue": "\"We don't know you, and we don't want you here.\"",
+        "Event": "the Player entering an Orc Stronghold",
+        "Condition": "the Player is not a blood-kin"
+    },
+    {
+        "Speaker": "MaleOrc",
+        "Dialogue": "\"Leave, outlander.\"",
+        "Event": "the Player entering an Orc Stronghold",
+        "Condition": "the Player is not a blood-kin"
+    },
+    {
+        "Speaker": "MaleOrc",
+        "Dialogue": "\"You've no right to be here. This place is for Orcs. And Orcs alone.\"",
+        "Event": "the Player entering an Orc Stronghold",
+        "Condition": "the Player is not a blood-kin"
+    },
+    {
+        "Speaker": "MaleOrc",
+        "Dialogue": "\"Outlanders should learn to not wander where they don't belong.\"",
+        "Event": "the Player entering an Orc Stronghold",
+        "Condition": "the Player is not a blood-kin"
+    },
+    {
+        "Speaker": "MaleOrc",
+        "Dialogue": "\"You have no business in our stronghold, outlander.\"",
+        "Event": "the Player entering an Orc Stronghold",
+        "Condition": "the Player is not a blood-kin"
+    },
+    {
+        "Speaker": "MaleOrc",
+        "Dialogue": "\"Malacath blesses this land for the Orcs. And the Orcs alone.\"",
+        "Event": "the Player entering an Orc Stronghold",
+        "Condition": "the Player is not a blood-kin"
+    },
+    {
+        "Speaker": "MaleOrc",
+        "Dialogue": "\"We won't kill you, outlander, but we don't want you here.\"",
+        "Event": "the Player entering an Orc Stronghold",
+        "Condition": "the Player is not a blood-kin"
+    },
+    {
+        "Speaker": "OrcMiner",
+        "Dialogue": "\"I'm here to mine, outlander. So unless you want to dig, get out.\"",
+        "Event": "the Player talking to a miner Orc",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "OrcMiner",
+        "Dialogue": "\"I have metal to dig.\"",
+        "Event": "the Player talking to a miner Orc",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "OrcMiner",
+        "Dialogue": "\"Malacath has given me the task to mine. Good ore brings strength to our people.\"",
+        "Event": "the Player talking to a miner Orc",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "OrcMiner",
+        "Dialogue": "\"Every Orc learns the heavy labor of mining. All spend years in the caves.\"",
+        "Event": "the Player talking to a miner Orc",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "OrcMiner",
+        "Dialogue": "\"The mines are hard, but Malacath rewards those who rise to the challenge.\"",
+        "Event": "the Player talking to a miner Orc",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "MaleKhajiit",
+        "Dialogue": "\"The roads of Skyrim lead to many dangers.\"",
+        "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
+        "Condition": "the Khajiit is a guard or a merchant"
+    },
+    {
+        "Speaker": "MaleKhajiit",
+        "Dialogue": "\"The warm sand of Elsweyr is far away from here.\"",
+        "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
+        "Condition": "the Khajiit is a guard or a merchant"
+    },
+    {
+        "Speaker": "MaleKhajiit",
+        "Dialogue": "\"The longer we travel the roads of Skyrim, the more empty this land seems.\"",
+        "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
+        "Condition": "the Khajiit is a guard or a merchant"
+    },
+    {
+        "Speaker": "MaleKhajiit",
+        "Dialogue": "\"The wind blows bitter cold in this place.\"",
+        "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
+        "Condition": "the Khajiit is a guard or a merchant"
+    },
+    {
+        "Speaker": "MaleKhajiit",
+        "Dialogue": "\"The road makes this one weary.\"",
+        "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
+        "Condition": "the Khajiit is a guard or a merchant"
+    },
+    {
+        "Speaker": "MaleKhajiit",
+        "Dialogue": "We are creatures of the desert. The north wind chills us to the bones.\"",
+        "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
+        "Condition": "the Khajiit is a guard or a merchant"
+    },
+    {
+        "Speaker": "MaleKhajiit",
+        "Dialogue": "\"Khajiit welcomes you, and also your coin.\"",
+        "Event": "the Player greeting a merchant on the Khajiit Caraban",
+        "Condition": "the Khajiit is a merchant"
+    },
+    {
+        "Speaker": "MaleKhajiit",
+        "Dialogue": "\"Do you seek to make a purchase?\"",
+        "Event": "the Player greeting a merchant on the Khajiit Caraban",
+        "Condition": "the Khajiit is a merchant"
+    },
+    {
+        "Speaker": "MaleKhajiit",
+        "Dialogue": "\"Khajiit has wares, if you have coin.\"",
+        "Event": "the Player greeting a merchant on the Khajiit Caraban",
+        "Condition": "the Khajiit is a merchant"
+    },
+    {
+        "Speaker": "MaleKhajiit",
+        "Dialogue": "\"Fortune smiles upon this meeting.\"",
+        "Event": "the Player greeting a merchant on the Khajiit Caraban",
+        "Condition": "the Khajiit is a merchant"
+    },
+    {
+        "Speaker": "MaleKhajiit",
+        "Dialogue": "\"Welcome to you.\"",
+        "Event": "the Player greeting a merchant on the Khajiit Caraban",
+        "Condition": "the Khajiit is a merchant"
+    },
+    {
+        "Speaker": "MaleKhajiit",
+        "Dialogue": "\"Warm sands, friend. How may this one serve you?\"",
+        "Event": "the Player greeting a merchant on the Khajiit Caraban",
+        "Condition": "the Khajiit is a merchant"
+    },
+    {
+        "Speaker": "MaleKhajiit",
+        "Dialogue": "Tools, wares and weapons, all for sale at fair prices.\"",
+        "Event": "a Khajiit merchant shouting to grab the players attention",
+        "Condition": "the Khajiit is a merchant"
+    },
+    {
+        "Speaker": "MaleKhajiit",
+        "Dialogue": "\"Goods and wares of all kinds, and all can be yours!\"",
+        "Event": "a Khajiit merchant shouting to grab the players attention",
+        "Condition": "the Khajiit is a merchant"
+    },
+    {
+        "Speaker": "MaleKhajiit",
+        "Dialogue": "\"Come! Come and see what goods I offer.\"",
+        "Event": "a Khajiit merchant shouting to grab the players attention",
+        "Condition": "the Khajiit is a merchant"
+    },
+    {
+        "Speaker": "MaleKhajiit",
+        "Dialogue": "\"Far have I traveled to bring you these fine goods. Come and see what I offer.\"",
+        "Event": "a Khajiit merchant shouting to grab the players attention",
+        "Condition": "the Khajiit is a merchant"
+    },
+    {
+        "Speaker": "MaleKhajiit",
+        "Dialogue": "\"If you have come to see our wares, speak to the others.\"",
+        "Event": "the Player greeting a Khajiit Guard on the Khajit Caraban",
+        "Condition": "the Khajiit is a guard"
+    },
+    {
+        "Speaker": "MaleKhajiit",
+        "Dialogue": "\"Khajiit is ready for any troublemakers.\"",
+        "Event": "the Player greeting a Khajiit Guard on the Khajit Caraban",
+        "Condition": "the Khajiit is a guard"
+    },
+    {
+        "Speaker": "MaleKhajiit",
+        "Dialogue": "\"Khajiit is always watching for thieves and pickpockets.\"",
+        "Event": "the Player greeting a Khajiit Guard on the Khajit Caraban",
+        "Condition": "the Khajiit is a guard"
+    },
+    {
+        "Speaker": "MaleKhajiit",
+        "Dialogue": "\"Bring your coins, but do not bring trouble.\"",
+        "Event": "the Player greeting a Khajiit Guard on the Khajit Caraban",
+        "Condition": "the Khajiit is a guard"
+    },
+    {
+        "Speaker": "MaleKhajiit",
+        "Dialogue": "\"This Khajiit guards the others.\"",
+        "Event": "the Player greeting a Khajiit Guard on the Khajit Caraban",
+        "Condition": "the Khajiit is a guard"
+    },
+    {
+        "Speaker": "MaleKhajiit",
+        "Dialogue": "\"Speak to one of the others if you wish to buy something.\"",
+        "Event": "the Player greeting a Khajiit Guard on the Khajit Caraban",
+        "Condition": "the Khajiit is a guard"
+    },
+    {
+        "Speaker": "FemaleKhajiit",
+        "Dialogue": "\"The roads of Skyrim lead to many dangers.\"",
+        "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
+        "Condition": "the Khajiit is a guard or a merchant"
+    },
+    {
+        "Speaker": "FemaleKhajiit",
+        "Dialogue": "\"The warm sand of Elsweyr is far away from here.\"",
+        "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
+        "Condition": "the Khajiit is a guard or a merchant"
+    },
+    {
+        "Speaker": "FemaleKhajiit",
+        "Dialogue": "\"The longer we travel the roads of Skyrim, the more empty this land seems.\"",
+        "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
+        "Condition": "the Khajiit is a guard or a merchant"
+    },
+    {
+        "Speaker": "FemaleKhajiit",
+        "Dialogue": "\"The wind blows bitter cold in this place.\"",
+        "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
+        "Condition": "the Khajiit is a guard or a merchant"
+    },
+    {
+        "Speaker": "FemaleKhajiit",
+        "Dialogue": "\"The road makes this one weary.\"",
+        "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
+        "Condition": "the Khajiit is a guard or a merchant"
+    },
+    {
+        "Speaker": "FemaleKhajiit",
+        "Dialogue": "\"A welcome to you, fellow traveler.\"",
+        "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
+        "Condition": "the Khajiit is a guard or a merchant"
+    },
+    {
+        "Speaker": "FemaleKhajiit",
+        "Dialogue": "\"The air is so clear in Skyrim, one can see forever.\"",
+        "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
+        "Condition": "the Khajiit is a guard or a merchant"
+    },
+    {
+        "Speaker": "FemaleKhajiit",
+        "Dialogue": "\"It is a strange sight, the white flakes that sometimes fall from the sky.\"",
+        "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
+        "Condition": "the Khajiit is a guard or a merchant"
+    },
+    {
+        "Speaker": "FemaleKhajiit",
+        "Dialogue": "\"A peaceful greeting to you.\"",
+        "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
+        "Condition": "the Khajiit is a guard or a merchant"
+    },
+    {
+        "Speaker": "FemaleKhajiit",
+        "Dialogue": "\"How high the mountains of Skyrim rise!\"",
+        "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
+        "Condition": "the Khajiit is a guard or a merchant"
+    },
+    {
+        "Speaker": "FemaleKhajiit",
+        "Dialogue": "\"There is much beauty in this place.\"",
+        "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
+        "Condition": "the Khajiit is a guard or a merchant"
+    },
+    {
+        "Speaker": "FemaleKhajiit",
+        "Dialogue": "\"Please, come and browse our goods.\"",
+        "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
+        "Condition": "the Khajiit is a merchant"
+    },
+    {
+        "Speaker": "FemaleKhajiit",
+        "Dialogue": "\"May your bed be warm and your food sweet.\"",
+        "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
+        "Condition": "the Khajiit is a merchant"
+    },
+    {
+        "Speaker": "FemaleKhajiit",
+        "Dialogue": "\"You honor Khajiit with your presence.\"",
+        "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
+        "Condition": "the Khajiit is a merchant"
+    },
+    {
+        "Speaker": "FemaleKhajiit",
+        "Dialogue": "\"Many fine things are here for you, friend.\"",
+        "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
+        "Condition": "the Khajiit is a merchant"
+    },
+    {
+        "Speaker": "FemaleKhajiit",
+        "Dialogue": "\"Come and see what is for sale, traveler.\"",
+        "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
+        "Condition": "the Khajiit is a merchant"
+    },
+    {
+        "Speaker": "FemaleKhajiit",
+        "Dialogue": "\"May the sun warm your path, friend.\"",
+        "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
+        "Condition": "the Khajiit is a merchant"
+    },
+    {
+        "Speaker": "FemaleKhajiit",
+        "Dialogue": "\"Tools, wares and weapons, all for sale at fair prices.\"",
+        "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
+        "Condition": "the Khajiit is a merchant"
+    },
+    {
+        "Speaker": "FemaleKhajiit",
+        "Dialogue": "\"Goods and wares of all kinds, and all can be yours!\"",
+        "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
+        "Condition": "the Khajiit is a merchant"
+    },
+    {
+        "Speaker": "FemaleKhajiit",
+        "Dialogue": "\"Come! Come and see what goods I offer.\"",
+        "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
+        "Condition": "the Khajiit is a merchant"
+    },
+    {
+        "Speaker": "FemaleKhajiit",
+        "Dialogue": "\"Far have I traveled to bring you these fine goods. Come and see what I offer.\"",
+        "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
+        "Condition": "the Khajiit is a merchant"
+    },
+    {
+        "Speaker": "FemaleKhajiit",
+        "Dialogue": "\"There is no trust for Khajiit in this place.\"",
+        "Event": "the Player greeting a Khajiit Guard on the Khajit Caraban",
+        "Condition": "the Khajiit is a guard"
+    },
+    {
+        "Speaker": "FemaleKhajiit",
+        "Dialogue": "\"Khajiit are not welcome in the cities, so we make our camps outside the walls.\"",
+        "Event": "the Player greeting a Khajiit Guard on the Khajit Caraban",
+        "Condition": "the Khajiit is a guard"
+    },
+    {
+        "Speaker": "FemaleKhajiit",
+        "Dialogue": "\"Some come to buy, but others come to steal. Khajiit shows no mercy to thieves.\"",
+        "Event": "the Player greeting a Khajiit Guard on the Khajit Caraban",
+        "Condition": "the Khajiit is a guard"
+    },
+    {
+        "Speaker": "FemaleKhajiit",
+        "Dialogue": "\"Blessings of the moons upon you, traveler.\"",
+        "Event": "the Player greeting a Khajiit Guard on the Khajit Caraban",
+        "Condition": "the Khajiit is a guard"
+    },
+    {
+        "Speaker": "FemaleKhajiit",
+        "Dialogue": "\"Khajiit is just a guard, and has no wares to sell.\"",
+        "Event": "the Player greeting a Khajiit Guard on the Khajit Caraban",
+        "Condition": "the Khajiit is a guard"
+    },
+    {
+        "Speaker": "FemaleKhajiit",
+        "Dialogue": "\"Welcome to Khajiit's humble camp.\"",
+        "Event": "the Player greeting a Khajiit Guard on the Khajit Caraban",
+        "Condition": "the Khajiit is a guard"
+    }
+]

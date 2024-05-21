@@ -1,0 +1,812 @@
+[
+    {
+        "Speaker": "MaleArgonian",
+        "Dialogue": "\"Have you spoken to the Temple of Mara, yet? I'm so excited.\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has not arranged the wedding yet"
+    },
+    {
+        "Speaker": "FemaleArgonian",
+        "Dialogue": "\"Have you spoken to the Temple of Mara, yet? I'm so excited.\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has not arranged the wedding yet"
+    },
+    {
+        "Speaker": "MaleCondescending",
+        "Dialogue": "\"Now shouldn't you be off arranging our wedding day? Don't keep me waiting.\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has not arranged the wedding yet"
+    },
+    {
+        "Speaker": "FemaleElfHaughty",
+        "Dialogue": "\"Now shouldn't you be off arranging our wedding day? Don't keep me waiting.\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has not arranged the wedding yet"
+    },
+    {
+        "Speaker": "FemaleCondescending",
+        "Dialogue": "\"Now shouldn't you be off arranging our wedding day? Don't keep me waiting.\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has not arranged the wedding yet"
+    },
+    {
+        "Speaker": "FemaleShrill",
+        "Dialogue": "\"Now shouldn't you be off arranging our wedding day? Don't keep me waiting.\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has not arranged the wedding yet"
+    },
+    {
+        "Speaker": "MaleCoward",
+        "Dialogue": "\"Now shouldn't you be off arranging our wedding day? Don't keep me waiting.\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has not arranged the wedding yet"
+    },
+    {
+        "Speaker": "FemaleCoward",
+        "Dialogue": "\"Now shouldn't you be off arranging our wedding day? Don't keep me waiting.\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has not arranged the wedding yet"
+    },
+    {
+        "Speaker": "MaleSlyCynical",
+        "Dialogue": "\"Now shouldn't you be off arranging our wedding day? Don't keep me waiting.\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has not arranged the wedding yet"
+    },
+    {
+        "Speaker": "FemaleSultry",
+        "Dialogue": "\"Now shouldn't you be off arranging our wedding day? Don't keep me waiting.\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has not arranged the wedding yet"
+    },
+    {
+        "Speaker": "MaleDrunk",
+        "Dialogue": "\"Hey, shouldn't you tell the Temple of Mara that we're getting married? Be hard to have a wedding without a priest.\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has not arranged the wedding yet"
+    },
+    {
+        "Speaker": "MaleCommoner",
+        "Dialogue": "You should arrange the ceremony at the Temple of Mara right away. I can't wait.\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has not arranged the wedding yet"
+    },
+    {
+        "Speaker": "MaleEvenTonedAccented",
+        "Dialogue": "You should arrange the ceremony at the Temple of Mara right away. I can't wait.\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has not arranged the wedding yet"
+    },
+    {
+        "Speaker": "MaleCommonerAccented",
+        "Dialogue": "You should arrange the ceremony at the Temple of Mara right away. I can't wait.\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has not arranged the wedding yet"
+    },
+    {
+        "Speaker": "FemaleEvenToned",
+        "Dialogue": "You should arrange the ceremony at the Temple of Mara right away. I can't wait.\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has not arranged the wedding yet"
+    },
+    {
+        "Speaker": "FemaleCommoner",
+        "Dialogue": "You should arrange the ceremony at the Temple of Mara right away. I can't wait.\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has not arranged the wedding yet"
+    },
+    {
+        "Speaker": "MaleYoungEager",
+        "Dialogue": "You should arrange the ceremony at the Temple of Mara right away. I can't wait.\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has not arranged the wedding yet"
+    },
+    {
+        "Speaker": "MaleEvenToned",
+        "Dialogue": "You should arrange the ceremony at the Temple of Mara right away. I can't wait.\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has not arranged the wedding yet"
+    },
+    {
+        "Speaker": "FemaleYoungEager",
+        "Dialogue": "You should arrange the ceremony at the Temple of Mara right away. I can't wait.\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has not arranged the wedding yet"
+    },
+    {
+        "Speaker": "MaleNord",
+        "Dialogue": "\"You go ahead and arrange the wedding ceremony when you're ready.\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has not arranged the wedding yet"
+    },
+    {
+        "Speaker": "FemaleNord",
+        "Dialogue": "\"You go ahead and arrange the wedding ceremony when you're ready.\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has not arranged the wedding yet"
+    },
+    {
+        "Speaker": "MaleOrc",
+        "Dialogue": "\"You should speak to the priest in the Temple of Mara to arrange the ceremony. No sense waiting.\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has not arranged the wedding yet"
+    },
+    {
+        "Speaker": "FemaleOrc",
+        "Dialogue": "\"You should speak to the priest in the Temple of Mara to arrange the ceremony. No sense waiting.\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has not arranged the wedding yet"
+    },
+    {
+        "Speaker": "MaleBrute",
+        "Dialogue": "\"You should tell the priest we're getting married. They'll take things from there.\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has not arranged the wedding yet"
+    },
+    {
+        "Speaker": "FemaleCommander",
+        "Dialogue": "\"You should tell the priest we're getting married. They'll take things from there.\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has not arranged the wedding yet"
+    },
+    {
+        "Speaker": "MaleDarkElf",
+        "Dialogue": "\"You should tell the priest we're getting married. They'll take things from there.\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has not arranged the wedding yet"
+    },
+    {
+        "Speaker": "FemaleDarkElf",
+        "Dialogue": "\"You should tell the priest we're getting married. They'll take things from there.\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has not arranged the wedding yet"
+    },
+    {
+        "Speaker": "MaleArgonian",
+        "Dialogue": "Our wedding is soon, under Mara's loving eyes. It'll be perfect.\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has arranged the wedding"
+    },
+    {
+        "Speaker": "FemaleArgonian",
+        "Dialogue": "Our wedding is soon, under Mara's loving eyes. It'll be perfect.\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has arranged the wedding"
+    },
+    {
+        "Speaker": "MaleCondescending",
+        "Dialogue": "\"I'm looking forward to our wedding. You and me....\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has arranged the wedding"
+    },
+    {
+        "Speaker": "FemaleElfHaughty",
+        "Dialogue": "\"I'm looking forward to our wedding. You and me....\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has arranged the wedding"
+    },
+    {
+        "Speaker": "FemaleCondescending",
+        "Dialogue": "\"I'm looking forward to our wedding. You and me....\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has arranged the wedding"
+    },
+    {
+        "Speaker": "FemaleShrill",
+        "Dialogue": "\"I'm looking forward to our wedding. You and me....\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has arranged the wedding"
+    },
+    {
+        "Speaker": "MaleCoward",
+        "Dialogue": "\"I'm looking forward to our wedding. You and me....\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has arranged the wedding"
+    },
+    {
+        "Speaker": "FemaleCoward",
+        "Dialogue": "\"I'm looking forward to our wedding. You and me....\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has arranged the wedding"
+    },
+    {
+        "Speaker": "MaleSlyCynical",
+        "Dialogue": "\"I'm looking forward to our wedding. You and me....\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has arranged the wedding"
+    },
+    {
+        "Speaker": "FemaleSultry",
+        "Dialogue": "\"I'm looking forward to our wedding. You and me....\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has arranged the wedding"
+    },
+    {
+        "Speaker": "MaleDrunk",
+        "Dialogue": "\"We have our wedding soon, don't we? That's right, we do!\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has arranged the wedding"
+    },
+    {
+        "Speaker": "MaleCommoner",
+        "Dialogue": "\"I'll see you at our wedding!\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has arranged the wedding"
+    },
+    {
+        "Speaker": "MaleEvenTonedAccented",
+        "Dialogue": "\"I'll see you at our wedding!\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has arranged the wedding"
+    },
+    {
+        "Speaker": "MaleCommonerAccented",
+        "Dialogue": "\"I'll see you at our wedding!\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has arranged the wedding"
+    },
+    {
+        "Speaker": "FemaleEvenToned",
+        "Dialogue": "\"I'll see you at our wedding!\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has arranged the wedding"
+    },
+    {
+        "Speaker": "FemaleCommoner",
+        "Dialogue": "\"I'll see you at our wedding!\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has arranged the wedding"
+    },
+    {
+        "Speaker": "MaleYoungEager",
+        "Dialogue": "\"I'll see you at our wedding!\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has arranged the wedding"
+    },
+    {
+        "Speaker": "MaleEvenToned",
+        "Dialogue": "\"I'll see you at our wedding!\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has arranged the wedding"
+    },
+    {
+        "Speaker": "FemaleYoungEager",
+        "Dialogue": "\"I'll see you at our wedding!\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has arranged the wedding"
+    },
+    {
+        "Speaker": "MaleNord",
+        "Dialogue": "\"Our wedding is soon. I'll see you then!\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has arranged the wedding"
+    },
+    {
+        "Speaker": "FemaleNord",
+        "Dialogue": "\"Our wedding is soon. I'll see you then!\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has arranged the wedding"
+    },
+    {
+        "Speaker": "MaleOrc",
+        "Dialogue": "Never thought I'd get married under a Nord god. But with you, it feels right.\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has arranged the wedding"
+    },
+    {
+        "Speaker": "FemaleOrc",
+        "Dialogue": "Never thought I'd get married under a Nord god. But with you, it feels right.\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has arranged the wedding"
+    },
+    {
+        "Speaker": "MaleBrute",
+        "Dialogue": "\"The wedding is soon. It'll be a good day.\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has arranged the wedding"
+    },
+    {
+        "Speaker": "FemaleCommander",
+        "Dialogue": "\"The wedding is soon. It'll be a good day.\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has arranged the wedding"
+    },
+    {
+        "Speaker": "MaleDarkElf",
+        "Dialogue": "\"The wedding is soon. It'll be a good day.\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has arranged the wedding"
+    },
+    {
+        "Speaker": "FemaleDarkElf",
+        "Dialogue": "\"The wedding is soon. It'll be a good day.\"",
+        "Event": "the wedding arrangements between an NPC and the Player",
+        "Condition": "the Player has arranged the wedding"
+    },
+    {
+        "Speaker": "MaleArgonian",
+        "Dialogue": "\"I never would have dreamed I would be getting married in the Temple of Mara.\"",
+        "Event": "the wedding ceremony between the Player and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "FemaleArgonian",
+        "Dialogue": "\"I never would have dreamed I would be getting married in the Temple of Mara.\"",
+        "Event": "the wedding ceremony between the Player and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "MaleCondescending",
+        "Dialogue": "It's a simple ceremony, but it'll do. You're here. That's enough.\"",
+        "Event": "the wedding ceremony between the Player and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "FemaleElfHaughty",
+        "Dialogue": "It's a simple ceremony, but it'll do. You're here. That's enough.\"",
+        "Event": "the wedding ceremony between the Player and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "FemaleCondescending",
+        "Dialogue": "It's a simple ceremony, but it'll do. You're here. That's enough.\"",
+        "Event": "the wedding ceremony between the Player and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "FemaleShrill",
+        "Dialogue": "It's a simple ceremony, but it'll do. You're here. That's enough.\"",
+        "Event": "the wedding ceremony between the Player and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "MaleCoward",
+        "Dialogue": "It's a simple ceremony, but it'll do. You're here. That's enough.\"",
+        "Event": "the wedding ceremony between the Player and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "FemaleCoward",
+        "Dialogue": "It's a simple ceremony, but it'll do. You're here. That's enough.\"",
+        "Event": "the wedding ceremony between the Player and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "MaleSlyCynical",
+        "Dialogue": "It's a simple ceremony, but it'll do. You're here. That's enough.\"",
+        "Event": "the wedding ceremony between the Player and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "FemaleSultry",
+        "Dialogue": "It's a simple ceremony, but it'll do. You're here. That's enough.\"",
+        "Event": "the wedding ceremony between the Player and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "MaleDrunk",
+        "Dialogue": "\"Weddings always make me cry. What am I supposed to do now that I'm the one getting married?\"",
+        "Event": "the wedding ceremony between the Player and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "MaleCommoner",
+        "Dialogue": "\"It's our wedding day. I feel like all of Skyrim is focused on just the two of us.\"",
+        "Event": "the wedding ceremony between the Player and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "MaleEvenTonedAccented",
+        "Dialogue": "\"It's our wedding day. I feel like all of Skyrim is focused on just the two of us.\"",
+        "Event": "the wedding ceremony between the Player and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "MaleCommonerAccented",
+        "Dialogue": "\"It's our wedding day. I feel like all of Skyrim is focused on just the two of us.\"",
+        "Event": "the wedding ceremony between the Player and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "FemaleEvenToned",
+        "Dialogue": "\"It's our wedding day. I feel like all of Skyrim is focused on just the two of us.\"",
+        "Event": "the wedding ceremony between the Player and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "FemaleCommoner",
+        "Dialogue": "\"It's our wedding day. I feel like all of Skyrim is focused on just the two of us.\"",
+        "Event": "the wedding ceremony between the Player and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "MaleYoungEager",
+        "Dialogue": "\"It's our wedding day. I feel like all of Skyrim is focused on just the two of us.\"",
+        "Event": "the wedding ceremony between the Player and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "MaleEvenToned",
+        "Dialogue": "\"It's our wedding day. I feel like all of Skyrim is focused on just the two of us.\"",
+        "Event": "the wedding ceremony between the Player and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "FemaleYoungEager",
+        "Dialogue": "\"It's our wedding day. I feel like all of Skyrim is focused on just the two of us.\"",
+        "Event": "the wedding ceremony between the Player and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "MaleNord",
+        "Dialogue": "\"This is a fine wedding. And to think, it's for us.\"",
+        "Event": "the wedding ceremony between the Player and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "FemaleNord",
+        "Dialogue": "\"This is a fine wedding. And to think, it's for us.\"",
+        "Event": "the wedding ceremony between the Player and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "MaleOrc",
+        "Dialogue": "\"This ceremony is so different from an Orc marriage. Less blood.\"",
+        "Event": "the wedding ceremony between the Player and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "FemaleOrc",
+        "Dialogue": "\"This ceremony is so different from an Orc marriage. Less blood.\"",
+        "Event": "the wedding ceremony between the Player and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "MaleBrute",
+        "Dialogue": "\"Who would have thought I would be getting married?\"",
+        "Event": "the wedding ceremony between the Player and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "FemaleCommander",
+        "Dialogue": "\"Who would have thought I would be getting married?\"",
+        "Event": "the wedding ceremony between the Player and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "MaleDarkElf",
+        "Dialogue": "\"Who would have thought I would be getting married?\"",
+        "Event": "the wedding ceremony between the Player and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "FemaleDarkElf",
+        "Dialogue": "\"Who would have thought I would be getting married?\"",
+        "Event": "the wedding ceremony between the Player and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "MaleArgonian",
+        "Dialogue": "\"You should leave. Now.\"",
+        "Event": "the Player calling off the wedding between them and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "FemaleArgonian",
+        "Dialogue": "\"You should leave. Now.\"",
+        "Event": "the Player calling off the wedding between them and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "MaleCondescending",
+        "Dialogue": "\"You're abandoning me? Me? I never want to see you ever again.\"",
+        "Event": "the Player calling off the wedding between them and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "FemaleElfHaughty",
+        "Dialogue": "\"You're abandoning me? Me? I never want to see you ever again.\"",
+        "Event": "the Player calling off the wedding between them and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "FemaleCondescending",
+        "Dialogue": "\"You're abandoning me? Me? I never want to see you ever again.\"",
+        "Event": "the Player calling off the wedding between them and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "FemaleShrill",
+        "Dialogue": "\"You're abandoning me? Me? I never want to see you ever again.\"",
+        "Event": "the Player calling off the wedding between them and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "MaleCoward",
+        "Dialogue": "\"You're abandoning me? Me? I never want to see you ever again.\"",
+        "Event": "the Player calling off the wedding between them and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "FemaleCoward",
+        "Dialogue": "\"You're abandoning me? Me? I never want to see you ever again.\"",
+        "Event": "the Player calling off the wedding between them and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "MaleSlyCynical",
+        "Dialogue": "\"You're abandoning me? Me? I never want to see you ever again.\"",
+        "Event": "the Player calling off the wedding between them and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "FemaleSultry",
+        "Dialogue": "\"You're abandoning me? Me? I never want to see you ever again.\"",
+        "Event": "the Player calling off the wedding between them and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "MaleDrunk",
+        "Dialogue": "\"Get out. Leave me alone!\"",
+        "Event": "the Player calling off the wedding between them and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "MaleCommoner",
+        "Dialogue": "\"How could you? Just go.\"",
+        "Event": "the Player calling off the wedding between them and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "MaleEvenTonedAccented",
+        "Dialogue": "\"How could you? Just go.\"",
+        "Event": "the Player calling off the wedding between them and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "MaleCommonerAccented",
+        "Dialogue": "\"How could you? Just go.\"",
+        "Event": "the Player calling off the wedding between them and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "FemaleEvenToned",
+        "Dialogue": "\"How could you? Just go.\"",
+        "Event": "the Player calling off the wedding between them and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "FemaleCommoner",
+        "Dialogue": "\"How could you? Just go.\"",
+        "Event": "the Player calling off the wedding between them and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "MaleYoungEager",
+        "Dialogue": "\"How could you? Just go.\"",
+        "Event": "the Player calling off the wedding between them and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "MaleEvenToned",
+        "Dialogue": "\"How could you? Just go.\"",
+        "Event": "the Player calling off the wedding between them and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "FemaleYoungEager",
+        "Dialogue": "\"How could you? Just go.\"",
+        "Event": "the Player calling off the wedding between them and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "MaleNord",
+        "Dialogue": "I don't want to see you ever again.\"",
+        "Event": "the Player calling off the wedding between them and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "FemaleNord",
+        "Dialogue": "I don't want to see you ever again.\"",
+        "Event": "the Player calling off the wedding between them and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "MaleOrc",
+        "Dialogue": "\"Get away from me. Liar!\"",
+        "Event": "the Player calling off the wedding between them and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "FemaleOrc",
+        "Dialogue": "\"Get away from me. Liar!\"",
+        "Event": "the Player calling off the wedding between them and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "MaleBrute",
+        "Dialogue": "\"Get out of my sight.\"",
+        "Event": "the Player calling off the wedding between them and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "FemaleCommander",
+        "Dialogue": "\"Get out of my sight.\"",
+        "Event": "the Player calling off the wedding between them and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "MaleDarkElf",
+        "Dialogue": "\"Get out of my sight.\"",
+        "Event": "the Player calling off the wedding between them and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "FemaleDarkElf",
+        "Dialogue": "\"Get out of my sight.\"",
+        "Event": "the Player calling off the wedding between them and the NPC",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "MaleArgonian",
+        "Dialogue": "\"And why should I speak with you? You broke my heart.\"",
+        "Event": "the Player taking to the npc they were supposed to marry after the cancelled wedding",
+        "Condition": "the wedding has been cancelled"
+    },
+    {
+        "Speaker": "FemaleArgonian",
+        "Dialogue": "\"And why should I speak with you? You broke my heart.\"",
+        "Event": "the Player taking to the npc they were supposed to marry after the cancelled wedding",
+        "Condition": "the wedding has been cancelled"
+    },
+    {
+        "Speaker": "MaleCondescending",
+        "Dialogue": "\"Look at you. Come crawling back, after everything you've done to me?\"",
+        "Event": "the Player taking to the npc they were supposed to marry after the cancelled wedding",
+        "Condition": "the wedding has been cancelled"
+    },
+    {
+        "Speaker": "FemaleElfHaughty",
+        "Dialogue": "\"Look at you. Come crawling back, after everything you've done to me?\"",
+        "Event": "the Player taking to the npc they were supposed to marry after the cancelled wedding",
+        "Condition": "the wedding has been cancelled"
+    },
+    {
+        "Speaker": "FemaleCondescending",
+        "Dialogue": "\"Look at you. Come crawling back, after everything you've done to me?\"",
+        "Event": "the Player taking to the npc they were supposed to marry after the cancelled wedding",
+        "Condition": "the wedding has been cancelled"
+    },
+    {
+        "Speaker": "FemaleShrill",
+        "Dialogue": "\"Look at you. Come crawling back, after everything you've done to me?\"",
+        "Event": "the Player taking to the npc they were supposed to marry after the cancelled wedding",
+        "Condition": "the wedding has been cancelled"
+    },
+    {
+        "Speaker": "MaleCoward",
+        "Dialogue": "\"Look at you. Come crawling back, after everything you've done to me?\"",
+        "Event": "the Player taking to the npc they were supposed to marry after the cancelled wedding",
+        "Condition": "the wedding has been cancelled"
+    },
+    {
+        "Speaker": "FemaleCoward",
+        "Dialogue": "\"Look at you. Come crawling back, after everything you've done to me?\"",
+        "Event": "the Player taking to the npc they were supposed to marry after the cancelled wedding",
+        "Condition": "the wedding has been cancelled"
+    },
+    {
+        "Speaker": "MaleSlyCynical",
+        "Dialogue": "\"Look at you. Come crawling back, after everything you've done to me?\"",
+        "Event": "the Player taking to the npc they were supposed to marry after the cancelled wedding",
+        "Condition": "the wedding has been cancelled"
+    },
+    {
+        "Speaker": "FemaleSultry",
+        "Dialogue": "\"Look at you. Come crawling back, after everything you've done to me?\"",
+        "Event": "the Player taking to the npc they were supposed to marry after the cancelled wedding",
+        "Condition": "the wedding has been cancelled"
+    },
+    {
+        "Speaker": "MaleDrunk",
+        "Dialogue": "\"You. You should just go. I don't have enough ale to stomach talking to you.\"",
+        "Event": "the Player taking to the npc they were supposed to marry after the cancelled wedding",
+        "Condition": "the wedding has been cancelled"
+    },
+    {
+        "Speaker": "MaleCommoner",
+        "Dialogue": "\"I can't believe you're speaking to me, after what you've done. You broke my heart.\"",
+        "Event": "the Player taking to the npc they were supposed to marry after the cancelled wedding",
+        "Condition": "the wedding has been cancelled"
+    },
+    {
+        "Speaker": "MaleEvenTonedAccented",
+        "Dialogue": "\"I can't believe you're speaking to me, after what you've done. You broke my heart.\"",
+        "Event": "the Player taking to the npc they were supposed to marry after the cancelled wedding",
+        "Condition": "the wedding has been cancelled"
+    },
+    {
+        "Speaker": "MaleCommonerAccented",
+        "Dialogue": "\"I can't believe you're speaking to me, after what you've done. You broke my heart.\"",
+        "Event": "the Player taking to the npc they were supposed to marry after the cancelled wedding",
+        "Condition": "the wedding has been cancelled"
+    },
+    {
+        "Speaker": "FemaleEvenToned",
+        "Dialogue": "\"I can't believe you're speaking to me, after what you've done. You broke my heart.\"",
+        "Event": "the Player taking to the npc they were supposed to marry after the cancelled wedding",
+        "Condition": "the wedding has been cancelled"
+    },
+    {
+        "Speaker": "FemaleCommoner",
+        "Dialogue": "\"I can't believe you're speaking to me, after what you've done. You broke my heart.\"",
+        "Event": "the Player taking to the npc they were supposed to marry after the cancelled wedding",
+        "Condition": "the wedding has been cancelled"
+    },
+    {
+        "Speaker": "MaleYoungEager",
+        "Dialogue": "\"I can't believe you're speaking to me, after what you've done. You broke my heart.\"",
+        "Event": "the Player taking to the npc they were supposed to marry after the cancelled wedding",
+        "Condition": "the wedding has been cancelled"
+    },
+    {
+        "Speaker": "MaleEvenToned",
+        "Dialogue": "\"I can't believe you're speaking to me, after what you've done. You broke my heart.\"",
+        "Event": "the Player taking to the npc they were supposed to marry after the cancelled wedding",
+        "Condition": "the wedding has been cancelled"
+    },
+    {
+        "Speaker": "FemaleYoungEager",
+        "Dialogue": "\"I can't believe you're speaking to me, after what you've done. You broke my heart.\"",
+        "Event": "the Player taking to the npc they were supposed to marry after the cancelled wedding",
+        "Condition": "the wedding has been cancelled"
+    },
+    {
+        "Speaker": "MaleNord",
+        "Dialogue": "\"We have nothing to talk about. I can't believe what you did to me.\"",
+        "Event": "the Player taking to the npc they were supposed to marry after the cancelled wedding",
+        "Condition": "the wedding has been cancelled"
+    },
+    {
+        "Speaker": "FemaleNord",
+        "Dialogue": "\"We have nothing to talk about. I can't believe what you did to me.\"",
+        "Event": "the Player taking to the npc they were supposed to marry after the cancelled wedding",
+        "Condition": "the wedding has been cancelled"
+    },
+    {
+        "Speaker": "MaleOrc",
+        "Dialogue": "\"Your words are cheap. Why should I speak to you after what you've done?\"",
+        "Event": "the Player taking to the npc they were supposed to marry after the cancelled wedding",
+        "Condition": "the wedding has been cancelled"
+    },
+    {
+        "Speaker": "FemaleOrc",
+        "Dialogue": "\"Your words are cheap. Why should I speak to you after what you've done?\"",
+        "Event": "the Player taking to the npc they were supposed to marry after the cancelled wedding",
+        "Condition": "the wedding has been cancelled"
+    },
+    {
+        "Speaker": "MaleBrute",
+        "Dialogue": "\"What do you want? There's no words left to say to each other.\"",
+        "Event": "the Player taking to the npc they were supposed to marry after the cancelled wedding",
+        "Condition": "the wedding has been cancelled"
+    },
+    {
+        "Speaker": "FemaleCommander",
+        "Dialogue": "\"What do you want? There's no words left to say to each other.\"",
+        "Event": "the Player taking to the npc they were supposed to marry after the cancelled wedding",
+        "Condition": "the wedding has been cancelled"
+    },
+    {
+        "Speaker": "MaleDarkElf",
+        "Dialogue": "\"What do you want? There's no words left to say to each other.\"",
+        "Event": "the Player taking to the npc they were supposed to marry after the cancelled wedding",
+        "Condition": "the wedding has been cancelled"
+    },
+    {
+        "Speaker": "FemaleDarkElf",
+        "Dialogue": "\"What do you want? There's no words left to say to each other.\"",
+        "Event": "the Player taking to the npc they were supposed to marry after the cancelled wedding",
+        "Condition": "the wedding has been cancelled"
+    }
+]

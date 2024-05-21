@@ -1,0 +1,272 @@
+[
+    {
+        "Speaker": "FemaleCommoner",
+        "Dialogue": "\"Beg pardon. You dropped some armor over there. Don't suppose you'd mind if I... took it?\"",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "nan"
+    },
+    {
+        "Speaker": "MaleCommoner",
+        "Dialogue": "\"Pardon. I saw you toss a piece of armor. You wouldn't mind if I take it, then?\"",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "nan"
+    },
+    {
+        "Speaker": "MaleCommonerAccented",
+        "Dialogue": "\"Pardon. I saw you toss a piece of armor. You wouldn't mind if I take it, then?\"",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "nan"
+    },
+    {
+        "Speaker": "FemaleCoward",
+        "Dialogue": "\"Umm... You dropped a piece armor over there. I was kind of hoping that I could, you know, have it?\"",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "nan"
+    },
+    {
+        "Speaker": "MaleCoward",
+        "Dialogue": "\"Couldn't help but notice, that, um... you dropped some armor. Just wanted to check with you before I took it. Is that all right?\"",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "nan"
+    },
+    {
+        "Speaker": "FemaleYoungEager",
+        "Dialogue": "\"Excuse me. I'm assuming that armor you got rid of wasn't an accident, but just in case, I wanted to make sure I could take it.\"",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "nan"
+    },
+    {
+        "Speaker": "MaleYoungEager",
+        "Dialogue": "\"If you're not going use that armor you dropped... do you mind if I take it?\"",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "nan"
+    },
+    {
+        "Speaker": "MaleBrute",
+        "Dialogue": "\"That armor you got rid of. I can have it, yeah?\"",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "nan"
+    },
+    {
+        "Speaker": "MaleDrunk",
+        "Dialogue": "\"Hey. That armor. You got rid of it, yeah? I can take it, no problem?\"",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "nan"
+    },
+    {
+        "Speaker": "Player",
+        "Dialogue": "Consider it yours.",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "\"Beg pardon. You dropped some armor over there. Don't suppose you'd mind if I... took it?\""
+    },
+    {
+        "Speaker": "Player",
+        "Dialogue": "Consider it yours.",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "\"Pardon. I saw you toss a piece of armor. You wouldn't mind if I take it, then?\""
+    },
+    {
+        "Speaker": "Player",
+        "Dialogue": "Consider it yours.",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "\"Pardon. I saw you toss a piece of armor. You wouldn't mind if I take it, then?\""
+    },
+    {
+        "Speaker": "Player",
+        "Dialogue": "Consider it yours.",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "\"Umm... You dropped a piece armor over there. I was kind of hoping that I could, you know, have it?\""
+    },
+    {
+        "Speaker": "Player",
+        "Dialogue": "Consider it yours.",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "\"Couldn't help but notice, that, um... you dropped some armor. Just wanted to check with you before I took it. Is that all right?\""
+    },
+    {
+        "Speaker": "Player",
+        "Dialogue": "Consider it yours.",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "\"Excuse me. I'm assuming that armor you got rid of wasn't an accident, but just in case, I wanted to make sure I could take it.\""
+    },
+    {
+        "Speaker": "Player",
+        "Dialogue": "Consider it yours.",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "\"If you're not going use that armor you dropped... do you mind if I take it?\""
+    },
+    {
+        "Speaker": "Player",
+        "Dialogue": "Consider it yours.",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "\"That armor you got rid of. I can have it, yeah?\""
+    },
+    {
+        "Speaker": "Player",
+        "Dialogue": "Consider it yours.",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "\"Hey. That armor. You got rid of it, yeah? I can take it, no problem?\""
+    },
+    {
+        "Speaker": "Player",
+        "Dialogue": "It's mine. Don't touch it",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "\"Beg pardon. You dropped some armor over there. Don't suppose you'd mind if I... took it?\""
+    },
+    {
+        "Speaker": "Player",
+        "Dialogue": "It's mine. Don't touch it",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "\"Pardon. I saw you toss a piece of armor. You wouldn't mind if I take it, then?\""
+    },
+    {
+        "Speaker": "Player",
+        "Dialogue": "It's mine. Don't touch it",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "\"Pardon. I saw you toss a piece of armor. You wouldn't mind if I take it, then?\""
+    },
+    {
+        "Speaker": "Player",
+        "Dialogue": "It's mine. Don't touch it",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "\"Umm... You dropped a piece armor over there. I was kind of hoping that I could, you know, have it?\""
+    },
+    {
+        "Speaker": "Player",
+        "Dialogue": "It's mine. Don't touch it",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "\"Couldn't help but notice, that, um... you dropped some armor. Just wanted to check with you before I took it. Is that all right?\""
+    },
+    {
+        "Speaker": "Player",
+        "Dialogue": "It's mine. Don't touch it",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "\"Excuse me. I'm assuming that armor you got rid of wasn't an accident, but just in case, I wanted to make sure I could take it.\""
+    },
+    {
+        "Speaker": "Player",
+        "Dialogue": "It's mine. Don't touch it",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "\"If you're not going use that armor you dropped... do you mind if I take it?\""
+    },
+    {
+        "Speaker": "Player",
+        "Dialogue": "It's mine. Don't touch it",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "\"That armor you got rid of. I can have it, yeah?\""
+    },
+    {
+        "Speaker": "Player",
+        "Dialogue": "It's mine. Don't touch it",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "\"Hey. That armor. You got rid of it, yeah? I can take it, no problem?\""
+    },
+    {
+        "Speaker": "FemaleCommoner",
+        "Dialogue": "\"That's great. I owe you one. Thanks!\"",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "Consider it yours."
+    },
+    {
+        "Speaker": "MaleCommoner",
+        "Dialogue": "\"My thanks!\"",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "Consider it yours."
+    },
+    {
+        "Speaker": "MaleCommonerAccented",
+        "Dialogue": "\"My thanks!\"",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "Consider it yours."
+    },
+    {
+        "Speaker": "FemaleCoward",
+        "Dialogue": "\"Oh, well, um... thank you.\"",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "Consider it yours."
+    },
+    {
+        "Speaker": "MaleCoward",
+        "Dialogue": "\"Well great! Let's see anyone try to hurt me now...\"",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "Consider it yours."
+    },
+    {
+        "Speaker": "FemaleYoungEager",
+        "Dialogue": "\"Thanks! I'm going to go put it on right now.\"",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "Consider it yours."
+    },
+    {
+        "Speaker": "MaleYoungEager",
+        "Dialogue": "\"I'm going to go get it right now and wear it. Many thanks!\"",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "Consider it yours."
+    },
+    {
+        "Speaker": "MaleBrute",
+        "Dialogue": "\"Mighty decent of you.\"",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "Consider it yours."
+    },
+    {
+        "Speaker": "MaleDrunk",
+        "Dialogue": "\"Best luck I've had all day.\"",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "Consider it yours."
+    },
+    {
+        "Speaker": "FemaleCommoner",
+        "Dialogue": "\"Oh. Well, you should probably go get it before someone steals it.\"",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "\"It's mine. Don't touch it.\""
+    },
+    {
+        "Speaker": "MaleCommoner",
+        "Dialogue": "\"You dropped it by mistake? Well, if I was you, I'd go grab it now before somebody does.\"",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "\"It's mine. Don't touch it.\""
+    },
+    {
+        "Speaker": "MaleCommonerAccented",
+        "Dialogue": "\"You dropped it by mistake? Well, if I was you, I'd go grab it now before somebody does.\"",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "\"It's mine. Don't touch it.\""
+    },
+    {
+        "Speaker": "FemaleCoward",
+        "Dialogue": "\"Well... you probably should go collect it before someone else does, shouldn't you?\"",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "\"It's mine. Don't touch it.\""
+    },
+    {
+        "Speaker": "MaleCoward",
+        "Dialogue": "\"Aww. I thought you were done with it.\"",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "\"It's mine. Don't touch it.\""
+    },
+    {
+        "Speaker": "FemaleYoungEager",
+        "Dialogue": "\"Oh... well. Never mind then.\"",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "\"It's mine. Don't touch it.\""
+    },
+    {
+        "Speaker": "MaleYoungEager",
+        "Dialogue": "\"Well, you'd better go pick it up then, before someone snatches it.\"",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "\"It's mine. Don't touch it.\""
+    },
+    {
+        "Speaker": "MaleBrute",
+        "Dialogue": "\"Well what did you go dropping it for? Got my hopes up for nothin'...\"",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "\"It's mine. Don't touch it.\""
+    },
+    {
+        "Speaker": "MaleDrunk",
+        "Dialogue": "\"Well... fine. I wasn't really gonna do anything with it anyway. Hmph.\"",
+        "Event": "NPC asking for the Player's dropped armor",
+        "Response_to": "\"It's mine. Don't touch it.\""
+    }
+]

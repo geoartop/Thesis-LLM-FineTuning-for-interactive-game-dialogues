@@ -1,0 +1,362 @@
+[
+    {
+        "Speaker": "FemaleChild",
+        "Dialogue": "\"Hey! You dropped this back there.\"",
+        "Event": "an NPC returning the Player's dropped item"
+    },
+    {
+        "Speaker": "MaleChild",
+        "Dialogue": "\"I think you dropped this! Good thing I brought it to you, huh?\"",
+        "Event": "an NPC returning the Player's dropped item"
+    },
+    {
+        "Speaker": "FemaleCommoner",
+        "Dialogue": "\"You left this back there. Figured you'd be wantin' it. Here ya go.\"",
+        "Event": "an NPC returning the Player's dropped item"
+    },
+    {
+        "Speaker": "MaleCommoner",
+        "Dialogue": "\"You should take more care, leaving things lying about. Here.\"",
+        "Event": "an NPC returning the Player's dropped item"
+    },
+    {
+        "Speaker": "FemaleOldKindly",
+        "Dialogue": "\"I think you accidentally mislaid this, dear. Here you go.\"",
+        "Event": "an NPC returning the Player's dropped item"
+    },
+    {
+        "Speaker": "MaleOldKindly",
+        "Dialogue": "\"Excuse me. You misplaced this, I believe? There you go. Take care now.\"",
+        "Event": "an NPC returning the Player's dropped item"
+    },
+    {
+        "Speaker": "MaleYoungEager",
+        "Dialogue": "\"You left this over there. You're lucky - someone else might have kept it for himself. Here you go.\"",
+        "Event": "an NPC returning the Player's dropped item"
+    },
+    {
+        "Speaker": "FemaleYoungEager",
+        "Dialogue": "\"You dropped this. Good thing I found it and not someone else, otherwise you might have lost it for good.\"",
+        "Event": "an NPC returning the Player's dropped item"
+    },
+    {
+        "Speaker": "MaleBrute",
+        "Dialogue": "\"You left this over there. You want it back, right? Here.\"",
+        "Event": "an NPC returning the Player's dropped item"
+    },
+    {
+        "Speaker": "MaleCommonerAccented",
+        "Dialogue": "You should take more care, leaving things lying about. Here.",
+        "Event": "an NPC returning the Player's dropped item"
+    },
+    {
+        "Speaker": "FemaleChild",
+        "Dialogue": "Ouch! Hey!",
+        "Event": "the Player bumping into an NPC"
+    },
+    {
+        "Speaker": "MaleChild",
+        "Dialogue": "Ouch! Hey!",
+        "Event": "the Player bumping into an NPC"
+    },
+    {
+        "Speaker": "MaleDrunk",
+        "Dialogue": "Woah!",
+        "Event": "the Player bumping into an NPC"
+    },
+    {
+        "Speaker": "FemaleSultry",
+        "Dialogue": "Oaf",
+        "Event": "the Player bumping into an NPC"
+    },
+    {
+        "Speaker": "FemaleSultry",
+        "Dialogue": "Oaf",
+        "Event": "the Player bumping into an NPC"
+    },
+    {
+        "Speaker": "Orc",
+        "Dialogue": "Hey!",
+        "Event": "the Player bumping into an NPC"
+    },
+    {
+        "Speaker": "Orc",
+        "Dialogue": "Hey!",
+        "Event": "the Player bumping into an NPC"
+    },
+    {
+        "Speaker": "Khajiit",
+        "Dialogue": "Careful!",
+        "Event": "the Player bumping into an NPC"
+    },
+    {
+        "Speaker": "MaleYoungEager",
+        "Dialogue": "Whoops.",
+        "Event": "the Player bumping into an NPC"
+    },
+    {
+        "Speaker": "Argonian",
+        "Dialogue": "Mind the way.",
+        "Event": "the Player bumping into an NPC"
+    },
+    {
+        "Speaker": "OldKindly",
+        "Dialogue": "Excuse me.",
+        "Event": "the Player bumping into an NPC"
+    },
+    {
+        "Speaker": "Dunmer",
+        "Dialogue": "What the?",
+        "Event": "the Player bumping into an NPC"
+    },
+    {
+        "Speaker": "MaleSlyCynical",
+        "Dialogue": "What the?",
+        "Event": "the Player bumping into an NPC"
+    },
+    {
+        "Speaker": "Coward",
+        "Dialogue": "Uh, sorry.",
+        "Event": "the Player bumping into an NPC"
+    },
+    {
+        "Speaker": "Any",
+        "Dialogue": "What's the hurry?",
+        "Event": "the Player bumping into an NPC"
+    },
+    {
+        "Speaker": "Commander",
+        "Dialogue": "Mind yourself.",
+        "Event": "the Player bumping into an NPC"
+    },
+    {
+        "Speaker": "ElfHaughty",
+        "Dialogue": "Watch it!",
+        "Event": "the Player bumping into an NPC"
+    },
+    {
+        "Speaker": "OldGrumpy",
+        "Dialogue": "Watch it!",
+        "Event": "the Player bumping into an NPC"
+    },
+    {
+        "Speaker": "FemaleCondescending",
+        "Dialogue": "Watch it!",
+        "Event": "the Player bumping into an NPC"
+    },
+    {
+        "Speaker": "MaleNord",
+        "Dialogue": "Oh.",
+        "Event": "the Player bumping into an NPC"
+    },
+    {
+        "Speaker": "EvenToned",
+        "Dialogue": "Oh.",
+        "Event": "the Player bumping into an NPC"
+    },
+    {
+        "Speaker": "MaleEvenTonedAccented",
+        "Dialogue": "Oh.",
+        "Event": "the Player bumping into an NPC"
+    },
+    {
+        "Speaker": "Commoner",
+        "Dialogue": "Oh.",
+        "Event": "the Player bumping into an NPC"
+    },
+    {
+        "Speaker": "MaleCommonerAccented",
+        "Dialogue": "Oh.",
+        "Event": "the Player bumping into an NPC"
+    },
+    {
+        "Speaker": "FemaleArgonian",
+        "Dialogue": "\"It should put on some coverings.\"",
+        "Event": "the Player walking around naked in frond of an NPC"
+    },
+    {
+        "Speaker": "MaleArgonian",
+        "Dialogue": "\"It should be embarrassed to be uncovered so.\"",
+        "Event": "the Player walking around naked in frond of an NPC"
+    },
+    {
+        "Speaker": "MaleBrute",
+        "Dialogue": "\"Umm. You got no clothes. You should get some.\"",
+        "Event": "the Player walking around naked in frond of an NPC"
+    },
+    {
+        "Speaker": "FemaleChild",
+        "Dialogue": "\"You're naked!\"",
+        "Event": "the Player walking around naked in frond of an NPC"
+    },
+    {
+        "Speaker": "MaleChild",
+        "Dialogue": "\"Naked. Naked, naked, naked!\"",
+        "Event": "the Player walking around naked in frond of an NPC"
+    },
+    {
+        "Speaker": "FemaleCommander",
+        "Dialogue": "\"Put on some clothes, you damned fool.\"",
+        "Event": "the Player walking around naked in frond of an NPC"
+    },
+    {
+        "Speaker": "MaleCommander",
+        "Dialogue": "\"Dress yourself.\"",
+        "Event": "the Player walking around naked in frond of an NPC"
+    },
+    {
+        "Speaker": "FemaleCommoner",
+        "Dialogue": "\"You ought to cover your... unmentionables.\"",
+        "Event": "the Player walking around naked in frond of an NPC"
+    },
+    {
+        "Speaker": "MaleCommoner",
+        "Dialogue": "\"Ought put on some clothes. Bound to upset some people...\"",
+        "Event": "the Player walking around naked in frond of an NPC"
+    },
+    {
+        "Speaker": "MaleCommonerAccented",
+        "Dialogue": "\"Ought put on some clothes. Bound to upset some people...\"",
+        "Event": "the Player walking around naked in frond of an NPC"
+    },
+    {
+        "Speaker": "FemaleCondescending",
+        "Dialogue": "\"Even rags would be preferable to your current wardrobe. Or lack thereof...\"",
+        "Event": "the Player walking around naked in frond of an NPC"
+    },
+    {
+        "Speaker": "MaleCondescending",
+        "Dialogue": "\"Put on a cloth sack at the very least. You're making me... unseasonably warm...\"",
+        "Event": "the Player walking around naked in frond of an NPC"
+    },
+    {
+        "Speaker": "FemaleCoward",
+        "Dialogue": "\"Careful. They might put you away if you don't at least put on some pants.\"",
+        "Event": "the Player walking around naked in frond of an NPC"
+    },
+    {
+        "Speaker": "MaleCoward",
+        "Dialogue": "\"Aren't you... embarrassed?\"",
+        "Event": "the Player walking around naked in frond of an NPC"
+    },
+    {
+        "Speaker": "FemaleDarkElf",
+        "Dialogue": "\"I've seen enough. Put on some clothes.\"",
+        "Event": "the Player walking around naked in frond of an NPC"
+    },
+    {
+        "Speaker": "MaleDarkElf",
+        "Dialogue": "\"You aren't as attractive as you'd like to believe.\"",
+        "Event": "the Player walking around naked in frond of an NPC"
+    },
+    {
+        "Speaker": "MaleDrunk",
+        "Dialogue": "\"Either I'm drunk, or you're naked. Possibly both.\"",
+        "Event": "the Player walking around naked in frond of an NPC"
+    },
+    {
+        "Speaker": "FemaleElfHaughty",
+        "Dialogue": "\"Really. We aren't interested in seeing all that. Remove yourself until you are properly attired!\"",
+        "Event": "the Player walking around naked in frond of an NPC"
+    },
+    {
+        "Speaker": "MaleElfHaughty",
+        "Dialogue": "\"Cover yourself. Have you no shame?\"",
+        "Event": "the Player walking around naked in frond of an NPC"
+    },
+    {
+        "Speaker": "FemaleEvenToned",
+        "Dialogue": "\"You might consider putting on... something. Anything.\"",
+        "Event": "the Player walking around naked in frond of an NPC"
+    },
+    {
+        "Speaker": "MaleEvenToned",
+        "Dialogue": "\"Next time, you might want to get dressed before leaving the house.\"",
+        "Event": "the Player walking around naked in frond of an NPC"
+    },
+    {
+        "Speaker": "MaleEvenTonedAccented",
+        "Dialogue": "\"Next time, you might want to get dressed before leaving the house.\"",
+        "Event": "the Player walking around naked in frond of an NPC"
+    },
+    {
+        "Speaker": "FemaleKhajiit",
+        "Dialogue": "\"This one wonders - do you have no clothes, or just like the feel of the wind?\"",
+        "Event": "the Player walking around naked in frond of an NPC"
+    },
+    {
+        "Speaker": "MaleKhajiit",
+        "Dialogue": "\"This one suggests donning some apparel.\"",
+        "Event": "the Player walking around naked in frond of an NPC"
+    },
+    {
+        "Speaker": "FemaleNord",
+        "Dialogue": "\"Gonna get cold tonight. Might want to at least cover your delicates.\"",
+        "Event": "the Player walking around naked in frond of an NPC"
+    },
+    {
+        "Speaker": "MaleNord",
+        "Dialogue": "\"Ysmir's beard, you're going to freeze to death...\"",
+        "Event": "the Player walking around naked in frond of an NPC"
+    },
+    {
+        "Speaker": "FemaleOldGrumpy",
+        "Dialogue": "\"Please. Remove your naked obscenity from the company of civilized folk.\"",
+        "Event": "the Player walking around naked in frond of an NPC"
+    },
+    {
+        "Speaker": "MaleOldGrumpy",
+        "Dialogue": "\"Put on some damn clothes already!\"",
+        "Event": "the Player walking around naked in frond of an NPC"
+    },
+    {
+        "Speaker": "FemaleOldKindly",
+        "Dialogue": "\"Dear. You really ought to put some clothes on. You're embarrassing yourself.\"",
+        "Event": "the Player walking around naked in frond of an NPC"
+    },
+    {
+        "Speaker": "MaleOldKindly",
+        "Dialogue": "\"You really should put on some clothes, you know.\"",
+        "Event": "the Player walking around naked in frond of an NPC"
+    },
+    {
+        "Speaker": "FemaleOrc",
+        "Dialogue": "\"Enough already. Put on some clothes. You're making people nervous.\"",
+        "Event": "the Player walking around naked in frond of an NPC"
+    },
+    {
+        "Speaker": "MaleOrc",
+        "Dialogue": "\"All right, we've all seen enough. Put on some clothes.\"",
+        "Event": "the Player walking around naked in frond of an NPC"
+    },
+    {
+        "Speaker": "FemaleShrill",
+        "Dialogue": "\"You're naked!\"",
+        "Event": "the Player walking around naked in frond of an NPC"
+    },
+    {
+        "Speaker": "MaleSlyCynical",
+        "Dialogue": "\"The way you walk around at home is your own business. When you're at home...\"",
+        "Event": "the Player walking around naked in frond of an NPC"
+    },
+    {
+        "Speaker": "MaleSoldier",
+        "Dialogue": "\"What are you, some kind of barbarian? Don't care for armor?\"",
+        "Event": "the Player walking around naked in frond of an NPC"
+    },
+    {
+        "Speaker": "FemaleSultry",
+        "Dialogue": "\"You must either be crazy or supremely confident to go walking around with no clothes on...\"",
+        "Event": "the Player walking around naked in frond of an NPC"
+    },
+    {
+        "Speaker": "FemaleYoungEager",
+        "Dialogue": "\"Not sure you should be walking around naked.\"",
+        "Event": "the Player walking around naked in frond of an NPC"
+    },
+    {
+        "Speaker": "MaleYoungEager",
+        "Dialogue": "\"It's probably not a good idea to walk around naked like that.\"",
+        "Event": "the Player walking around naked in frond of an NPC"
+    }
+]

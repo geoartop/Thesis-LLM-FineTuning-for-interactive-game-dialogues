@@ -1,0 +1,128 @@
+[
+    {
+        "Speaker": "Stormcloak Guard",
+        "Dialogue": "\"The Imperials think us lawless beasts. I am proof of their ignorance.\"",
+        "Event": "the Player interacting with a Stormcloak guard",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "Stormcloak Guard",
+        "Dialogue": "\"The Imperials think we need their laws. Pffft.\"",
+        "Event": "the Player interacting with a Stormcloak guard",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "Stormcloak Guard",
+        "Dialogue": "\"The Empire didn't think we could take the Reach, but here we are.\"",
+        "Event": "the Player interacting with a Stormcloak guard",
+        "Condition": "the Stormcloaks control Markarth"
+    },
+    {
+        "Speaker": "Stormcloak Guard",
+        "Dialogue": "\"We couldn't have taken this city without you, sir.\"*",
+        "Event": "the Player interacting with a Stormcloak guard",
+        "Condition": "the Stormcloaks control Solitude"
+    },
+    {
+        "Speaker": "Stormcloak Guard",
+        "Dialogue": "\"Solitude is as glorious as they said it was. Nothing like Falkreath where I grew up.\"",
+        "Event": "the Player interacting with a Stormcloak guard",
+        "Condition": "the Stormcloaks control Solitude"
+    },
+    {
+        "Speaker": "Stormcloak Guard",
+        "Dialogue": "\"It's too bad they executed Roggvir before we got here.\"",
+        "Event": "the Player interacting with a Stormcloak guard",
+        "Condition": "the Stormcloaks control Solitude"
+    },
+    {
+        "Speaker": "Stormcloak Guard",
+        "Dialogue": "\"We won't give up this port to the Imperials without a fight, don't you worry.\"",
+        "Event": "the Player interacting with a Stormcloak guard",
+        "Condition": "the Stormcloaks control Dawnstar"
+    },
+    {
+        "Speaker": "Stormcloak Guard",
+        "Dialogue": "\"Winterhold belongs to Skyrim, not the Imperials, or the Mages.\"",
+        "Event": "the Player interacting with a Stormcloak guard",
+        "Condition": "the Stormcloaks control Winterhold"
+    },
+    {
+        "Speaker": "Stormcloak Guard",
+        "Dialogue": "\"I grew up hearing songs about Eyldi the Bear! She wrestled a storm out of the sky!\"",
+        "Event": "the Player interacting with a Stormcloak guard",
+        "Condition": "the Stormcloaks control Falkreath"
+    },
+    {
+        "Speaker": "Stormcloak Guard",
+        "Dialogue": "\"You don't seem to realize there's a war on. What you are is a damn Imperial spy!\"",
+        "Event": "the Player interacting with a Stormcloak guard",
+        "Condition": "the Player is wearing Imperial uniform"
+    },
+    {
+        "Speaker": "Stormcloak Guard",
+        "Dialogue": "\"You've got a lot of nerve, walking around here dressed like an Imperial Legionnaire.\"",
+        "Event": "the Player interacting with a Stormcloak guard",
+        "Condition": "the Player is wearing Imperial uniform"
+    },
+    {
+        "Speaker": "Imperial Guard",
+        "Dialogue": "\"Let's see those Stormcloaks try to break into this canyon.\"",
+        "Event": "the Player interacting with an Imperial guard",
+        "Condition": "the Empire controls Markarth"
+    },
+    {
+        "Speaker": "Imperial Guard",
+        "Dialogue": "\"This city still reeks with the stench of the Stormcloaks. Makes me sick to my stomach.\"",
+        "Event": "the Player interacting with an Imperial guard",
+        "Condition": "the Empire controls Riften"
+    },
+    {
+        "Speaker": "Imperial Guard",
+        "Dialogue": "\"Why we bothered to capture Riften I'll never understand. Just look at this place.\"",
+        "Event": "the Player interacting with an Imperial guard",
+        "Condition": "the Empire controls Riften"
+    },
+    {
+        "Speaker": "Imperial Guard",
+        "Dialogue": "\"Now that the Empire's arrived in Riften, we've finally established a launching point into Morrowind... Just in case.\"",
+        "Event": "the Player interacting with an Imperial guard",
+        "Condition": "the Empire controls Riften"
+    },
+    {
+        "Speaker": "Imperial Guard",
+        "Dialogue": "\"Seems like capturing Riften is turning out to be more of a hassle than a benefit. But what do I know?\"",
+        "Event": "the Player interacting with an Imperial guard",
+        "Condition": "the Empire controls Riften"
+    },
+    {
+        "Speaker": "Imperial Guard",
+        "Dialogue": "\"Dawnstar is the last port of call before Solitude. Damn rebels aren't taking it.\"",
+        "Event": "the Player interacting with an Imperial guard",
+        "Condition": "the Empire controls Dawnstar"
+    },
+    {
+        "Speaker": "Imperial Guard",
+        "Dialogue": "\"Don't worry about those Stormcloaks. You're safe from them here. As if they'd want the place anyway.\"",
+        "Event": "the Player interacting with an Imperial guard",
+        "Condition": "the Empire controls Winterhold"
+    },
+    {
+        "Speaker": "Imperial Guard",
+        "Dialogue": "\"Just my luck, stuck in the sticks with this crazy old woman.\"",
+        "Event": "the Player interacting with an Imperial guard",
+        "Condition": "the Empire controls Falkreath"
+    },
+    {
+        "Speaker": "Imperial Guard",
+        "Dialogue": "\"Is that right? Here's how the Legion deals with rebel scum like you.\"",
+        "Event": "the Player interacting with an Imperial guard",
+        "Condition": "the Player is wearing Stormcloak uniform"
+    },
+    {
+        "Speaker": "Imperial Guard",
+        "Dialogue": "\"What do you think you're doing, walking around dressed like a damn Stormcloak traitor?\"",
+        "Event": "the Player interacting with an Imperial guard",
+        "Condition": "the Player is wearing Stormcloak uniform"
+    }
+]

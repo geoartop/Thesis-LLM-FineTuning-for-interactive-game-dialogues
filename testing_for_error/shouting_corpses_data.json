@@ -1,0 +1,437 @@
+[
+    {
+        "Speaker": "Any",
+        "Dialogue": "\"How did you do that?\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "Any",
+        "Dialogue": "\"What was that?\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "MaleChild",
+        "Dialogue": "\"Are you a Greybeard?\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "FemaleChild",
+        "Dialogue": "\"Are you a Greybeard?\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "MaleCommander",
+        "Dialogue": "\"That sound... it's deafening!\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "FemaleCommander",
+        "Dialogue": "\"That sound... it's deafening!\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "MaleNordCommander",
+        "Dialogue": "\"That sound... it's deafening!\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "MaleCommander",
+        "Dialogue": "What in Arkay's name was that?",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "FemaleCommander",
+        "Dialogue": "What in Arkay's name was that?",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "MaleNordCommander",
+        "Dialogue": "What in Arkay's name was that?",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "MaleDarkElf",
+        "Dialogue": "\"The Voice? Here?\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "FemaleDarkElf",
+        "Dialogue": "\"The Voice? Here?\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "MaleDarkElf",
+        "Dialogue": "That sound could bring mountains down!",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "FemaleDarkElf",
+        "Dialogue": "That sound could bring mountains down!",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "MaleElfHaughty",
+        "Dialogue": "\"What sort of power was that?\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "FemaleElfHaughty",
+        "Dialogue": "\"What sort of power was that?\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "MaleElfHaughty",
+        "Dialogue": "That was amazing!",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "FemaleElfHaughty",
+        "Dialogue": "That was amazing!",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "MaleEvenToned",
+        "Dialogue": "\"Are you Dragonborn?\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "MaleEvenTonedAccented",
+        "Dialogue": "\"Are you Dragonborn?\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "FemaleEvenToned",
+        "Dialogue": "\"Are you Dragonborn?\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "MaleEvenToned",
+        "Dialogue": "\"By the gods, is that the Voice?\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "MaleEvenTonedAccented",
+        "Dialogue": "\"By the gods, is that the Voice?\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "FemaleEvenToned",
+        "Dialogue": "\"By the gods, is that the Voice?\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "MaleKhajiit",
+        "Dialogue": "\"Louder than the roar of the Mane, that is!\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "FemaleKhajiit",
+        "Dialogue": "\"Louder than the roar of the Mane, that is!\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "MaleKhajiit",
+        "Dialogue": "\"S'rendarr's mercy!\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "FemaleKhajiit",
+        "Dialogue": "\"S'rendarr's mercy!\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "MaleNord",
+        "Dialogue": "\"Dragonborn!\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "FemaleNord",
+        "Dialogue": "\"Dragonborn!\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "MaleNord",
+        "Dialogue": "\"Shor's blood, the Thu'um!\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "FemaleNord",
+        "Dialogue": "\"Shor's blood, the Thu'um!\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "MaleOrc",
+        "Dialogue": "\"You have a mighty voice!\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "FemaleOrc",
+        "Dialogue": "\"You have a mighty voice!\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "MaleOrc",
+        "Dialogue": "\"That voice is power!\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "FemaleOrc",
+        "Dialogue": "\"That voice is power!\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "MaleSoldier",
+        "Dialogue": "\"Could that be... the Voice?\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "MaleSoldier",
+        "Dialogue": "\"Those words have such power!\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "MaleYoungEager",
+        "Dialogue": "\"Wow!\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "FemaleYoungEager",
+        "Dialogue": "\"Wow!\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "MaleYoungEager",
+        "Dialogue": "\"That must be the Voice!\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "FemaleYoungEager",
+        "Dialogue": "\"That must be the Voice!\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "MaleDrunk",
+        "Dialogue": "\"Did anyone else hear that?\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "MaleDrunk",
+        "Dialogue": "\"By the gods, my ears...\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "FemaleSultry",
+        "Dialogue": "\"That gave me the shivers!\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "FemaleSultry",
+        "Dialogue": "\"Now that's a real man!\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "MaleCoward",
+        "Dialogue": "\"Oh gods, my ears!\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "MaleOldGrumpy",
+        "Dialogue": "\"Not so loud!\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "FemaleOldGrumpy",
+        "Dialogue": "\"Not so loud!\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "FemaleShrill",
+        "Dialogue": "\"Not so loud!\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "MaleSlyCynical",
+        "Dialogue": "\"Not so loud!\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "MaleOldKindly or",
+        "Dialogue": "\"I haven't heard a true shout in generations!\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "FemaleOldKindly",
+        "Dialogue": "\"I haven't heard a true shout in generations!\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "MaleOldKindly or",
+        "Dialogue": "\"Now that's the true Voice!\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "FemaleOldKindly",
+        "Dialogue": "\"Now that's the true Voice!\"",
+        "Event": "the Player dragon shouting"
+    },
+    {
+        "Speaker": "Any",
+        "Dialogue": "\"Oh no! By the gods! This can't be happening!\"",
+        "Event": "an NPC spotting a dead corpse"
+    },
+    {
+        "Speaker": "MaleArgonian",
+        "Dialogue": "\"Hsss! Dead. Who did this?\"",
+        "Event": "an NPC spotting a dead corpse"
+    },
+    {
+        "Speaker": "MaleBandit",
+        "Dialogue": "\"What...? Whoever did this, you're dead. You hear me? Dead!\"",
+        "Event": "an NPC spotting a dead corpse"
+    },
+    {
+        "Speaker": "MaleForsworn",
+        "Dialogue": "\"Kill one of us, and three more will take their place. The Forsworn are unstoppable.\"",
+        "Event": "an NPC spotting a dead corpse"
+    },
+    {
+        "Speaker": "MaleGuard",
+        "Dialogue": "\"We've got a murderer on the loose...\"",
+        "Event": "an NPC spotting a dead corpse"
+    },
+    {
+        "Speaker": "MaleUniqueGhost",
+        "Dialogue": "\"Your body lies dead, but your soul has joined our ranks...\"",
+        "Event": "an NPC spotting a dead corpse"
+    },
+    {
+        "Speaker": "FemaleUniqueGhost",
+        "Dialogue": "\"Your body lies dead, but your soul has joined our ranks...\"",
+        "Event": "an NPC spotting a dead corpse"
+    },
+    {
+        "Speaker": "MaleSoldier",
+        "Dialogue": "\"Damn. We've got trouble.\"",
+        "Event": "an NPC spotting a dead corpse"
+    },
+    {
+        "Speaker": "MaleNord",
+        "Dialogue": "\"Sovngarde take your soul. I'll avenge your body.\"",
+        "Event": "an NPC spotting a dead corpse"
+    },
+    {
+        "Speaker": "FemaleNord",
+        "Dialogue": "\"By Ysmir! There's a killer about.\"",
+        "Event": "an NPC spotting a dead corpse"
+    },
+    {
+        "Speaker": "MaleSlyCynical",
+        "Dialogue": "\"Well now, this is unexpected...\"",
+        "Event": "an NPC spotting a dead corpse"
+    },
+    {
+        "Speaker": "MaleKhajiit",
+        "Dialogue": "\"I'll claw the eyes out of whoever did this!\"",
+        "Event": "an NPC spotting a dead corpse"
+    },
+    {
+        "Speaker": "FemaleSultry",
+        "Dialogue": "\"Dead! Someone's going to pay for this.\"",
+        "Event": "an NPC spotting a dead corpse"
+    },
+    {
+        "Speaker": "MaleYoungEager",
+        "Dialogue": "\"No...\"",
+        "Event": "an NPC spotting a dead corpse"
+    },
+    {
+        "Speaker": "FemaleYoungEager",
+        "Dialogue": "\"No...\"",
+        "Event": "an NPC spotting a dead corpse"
+    },
+    {
+        "Speaker": "MaleCommander",
+        "Dialogue": "\"Damn it, this will not stand!\"",
+        "Event": "an NPC spotting a dead corpse"
+    },
+    {
+        "Speaker": "MaleNordCommander",
+        "Dialogue": "\"Damn it, this will not stand!\"",
+        "Event": "an NPC spotting a dead corpse"
+    },
+    {
+        "Speaker": "FemaleCommander",
+        "Dialogue": "\"Damn it, this will not stand!\"",
+        "Event": "an NPC spotting a dead corpse"
+    },
+    {
+        "Speaker": "MaleCommoner",
+        "Dialogue": "\"What...? No... No, this can't be happening...\"",
+        "Event": "an NPC spotting a dead corpse"
+    },
+    {
+        "Speaker": "MaleCommonerAccented",
+        "Dialogue": "\"What...? No... No, this can't be happening...\"",
+        "Event": "an NPC spotting a dead corpse"
+    },
+    {
+        "Speaker": "FemaleCommoner",
+        "Dialogue": "\"What...? No... No, this can't be happening...\"",
+        "Event": "an NPC spotting a dead corpse"
+    },
+    {
+        "Speaker": "MaleCondescending",
+        "Dialogue": "\"A...a body! How absolutely terrible.\"",
+        "Event": "an NPC spotting a dead corpse"
+    },
+    {
+        "Speaker": "FemaleCondescending",
+        "Dialogue": "\"A...a body! How absolutely terrible.\"",
+        "Event": "an NPC spotting a dead corpse"
+    },
+    {
+        "Speaker": "FemaleShrill",
+        "Dialogue": "\"A...a body! How absolutely terrible.\"",
+        "Event": "an NPC spotting a dead corpse"
+    },
+    {
+        "Speaker": "MaleDarkElf",
+        "Dialogue": "\"Murdered? By Azura, who would do such a thing?\"",
+        "Event": "an NPC spotting a dead corpse"
+    },
+    {
+        "Speaker": "FemaleDarkElf",
+        "Dialogue": "\"Murdered? By Azura, who would do such a thing?\"",
+        "Event": "an NPC spotting a dead corpse"
+    },
+    {
+        "Speaker": "MaleElfHaughty",
+        "Dialogue": "\"What? Someone will suffer for this injustice.\"",
+        "Event": "an NPC spotting a dead corpse"
+    },
+    {
+        "Speaker": "FemaleElfHaughty",
+        "Dialogue": "\"What? Someone will suffer for this injustice.\"",
+        "Event": "an NPC spotting a dead corpse"
+    },
+    {
+        "Speaker": "MaleEvenToned",
+        "Dialogue": "\"I'm going to find whoever did this, and when I do...\"",
+        "Event": "an NPC spotting a dead corpse"
+    },
+    {
+        "Speaker": "MaleEvenTonedAccented",
+        "Dialogue": "\"I'm going to find whoever did this, and when I do...\"",
+        "Event": "an NPC spotting a dead corpse"
+    },
+    {
+        "Speaker": "MaleOrc",
+        "Dialogue": "\"Hmph. Looks like we got a cutthroat skulkin' around...\"",
+        "Event": "an NPC spotting a dead corpse"
+    },
+    {
+        "Speaker": "FemaleOrc",
+        "Dialogue": "\"Ain't nothing pretty about a corpse. No matter how fresh.\"",
+        "Event": "an NPC spotting a dead corpse"
+    }
+]

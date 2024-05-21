@@ -1,0 +1,359 @@
+[
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"Pigsticker like that's not going to get you far. Best visit the blacksmith.\"",
+        "Event": "Guard reacting to Player's weapon",
+        "Condition": "nan",
+        "Equipment": "Iron Sword"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"That iron sword's pretty undependable. You should try steel.\"",
+        "Event": "Guard reacting to Player's weapon",
+        "Condition": "nan",
+        "Equipment": "Iron Sword"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"Iron sword, huh? What are you killing, butterflies?\"",
+        "Event": "Guard reacting to Player's weapon",
+        "Condition": "nan",
+        "Equipment": "Iron Sword"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"Favor a steel sword, do ya? Good choice for slashing or stabbing.\"",
+        "Event": "Guard reacting to Player's weapon",
+        "Condition": "nan",
+        "Equipment": "Steel Sword"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"Why the Elven blade, hmm? Nord steel not good enough for you?\"",
+        "Event": "Guard reacting to Player's weapon",
+        "Condition": "nan",
+        "Equipment": "Elven Sword"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"Aye, now that there's a beautiful sword. Like a sliver of midnight.\"",
+        "Event": "Guard reacting to Player's weapon",
+        "Condition": "nan",
+        "Equipment": "Ebony Sword"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"Takes a fair bit of strength to carry a greatsword like that. But can you use it?\"",
+        "Event": "Guard reacting to Player's weapon",
+        "Condition": "nan",
+        "Equipment": "Greatsword"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"Some advice, friend. That armor won't offer much protection in a real fight.\"",
+        "Event": "Guard reacting to Player's apparel",
+        "Condition": "nan",
+        "Equipment": "Hide Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"You wear the armor of a brigand. Best not cause any trouble on my watch.\"",
+        "Event": "Guard reacting to Player's apparel",
+        "Condition": "nan",
+        "Equipment": "Studded Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"Fancy the leather armor, huh? Something to be said for going light.\"",
+        "Event": "Guard reacting to Player's apparel",
+        "Condition": "nan",
+        "Equipment": "Leather Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"That's fine scale armor you've got on there. Shiny.\"",
+        "Event": "Guard reacting to Player's apparel",
+        "Condition": "nan",
+        "Equipment": "Scaled Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"That's good armor you've got there, friend. Iron, solid and true.\"",
+        "Event": "Guard reacting to Player's apparel",
+        "Condition": "nan",
+        "Equipment": "Iron Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"Hmph. You wear that armor well. Iron may be simple, but it'll stop enough to keep you in the fight.\"",
+        "Event": "Guard reacting to Player's apparel",
+        "Condition": "nan",
+        "Equipment": "Iron Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"You wear the armor of a mercenary. Now that's the life.\"",
+        "Event": "Guard reacting to Player's apparel",
+        "Condition": "nan",
+        "Equipment": "Banded Iron Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"Aye, now that's some fine armor. Good old-fashioned steel.\"",
+        "Event": "Guard reacting to Player's apparel",
+        "Condition": "nan",
+        "Equipment": "Steel Armor or Steel Plate Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"Fine armor you've got there. Dwarven make, am I right?\"",
+        "Event": "Guard reacting to Player's apparel",
+        "Condition": "nan",
+        "Equipment": "Dwarven Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"Ah, steel plate. Now that's a solid choice of armor.\"",
+        "Event": "Guard reacting to Player's apparel",
+        "Condition": "nan",
+        "Equipment": "Steel Plate Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"Orcish armor, hmm? Had me a set of that once. Ugly and strong, like those that forged it.\"",
+        "Event": "Guard reacting to Player's apparel",
+        "Condition": "nan",
+        "Equipment": "Orcish Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"Ebony armor. By Ysmir, 'tis a wondrous sight.\"",
+        "Event": "Guard reacting to Player's apparel",
+        "Condition": "nan",
+        "Equipment": "Ebony Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"Is your armor made of... dragon bones? By the gods, what I wouldn't do for a set of that.\"",
+        "Event": "Guard reacting to Player's apparel",
+        "Condition": "nan",
+        "Equipment": "Dragonplate Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"Is your armor made of... dragon scales? By the gods, what I wouldn't do for a set of that.\"",
+        "Event": "Guard reacting to Player's apparel",
+        "Condition": "nan",
+        "Equipment": "Dragonscale Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"You come talking to me wearing Imperial armor? You got stew for brains?\"",
+        "Event": "Guard reacting to Player's apparel",
+        "Condition": "the guard speaking is a Stormcloak Guard",
+        "Equipment": "Imperial Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"That's some fine Imperial armor you've got there.\"",
+        "Event": "Guard reacting to Player's apparel",
+        "Condition": "the guard speaking is a Imperial Guard",
+        "Equipment": "Imperial Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"For your sake, I hope your [sic] took that armor from a dead Imperial scout...\"",
+        "Event": "Guard reacting to Player's apparel",
+        "Condition": "the guard speaking is a Stormcloak Guard",
+        "Equipment": "Imperial Light Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"Judging by your armor, I'd say you're an Imperial scout. If so, well met.\"",
+        "Event": "Guard reacting to Player's apparel",
+        "Condition": "the guard speaking is a Imperial Guard",
+        "Equipment": "Imperial Light Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"That armor... Are you one of the Emperor's protectors? Can't say I envy you that job.\"",
+        "Event": "Guard reacting to Player's apparel",
+        "Condition": "the emperor is alive",
+        "Equipment": "Penitus Oculatus Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"That armor... Are you one of the Emperor's protectors? Not very good at your job, are you?\"",
+        "Event": "Guard reacting to Player's apparel",
+        "Condition": "the emperor is alive",
+        "Equipment": "Penitus Oculatus Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"You wear that Stormcloak armor well, friend.\"",
+        "Event": "Guard reacting to Player's apparel",
+        "Condition": "the guard speaking is a Stormcloak Guard",
+        "Equipment": "Stormcloak Cuirass"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"That Stormcloak armor's getting on my nerves...\"",
+        "Event": "Guard reacting to Player's apparel",
+        "Condition": "the guard speaking is an Imperial Guard",
+        "Equipment": "Stormcloak Cuirass"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"You wear the armor of the bear, my friend. A fine choice.\"",
+        "Event": "Guard reacting to Player's apparel",
+        "Condition": "the guard speaking is a Stormcloak Guard",
+        "Equipment": "Stormcloak Officer Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"You dare strut around here, wearing that filthy Stormcloak hide?\"",
+        "Event": "Guard reacting to Player's apparel",
+        "Condition": "the guard speaking is an Imperial Guard",
+        "Equipment": "Stormcloak Officer Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"Ugh. That armor stinks of death. You been grave robbing?\"",
+        "Event": "Guard reacting to Player's apparel",
+        "Condition": "nan",
+        "Equipment": "Ancient Nord Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"You wear the garb of a true Nord. I salute you.\"",
+        "Event": "Guard reacting to Player's artifacts and unique items",
+        "Condition": "nan",
+        "Equipment": "Wolf Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "*gasp* \"You wield... Azura's Star? How... how can such a thing be possible?\"",
+        "Event": "Guard reacting to Player's artifacts and unique items",
+        "Condition": "nan",
+        "Equipment": "Azura's Star"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"By Shor, is that... is that Azura's Star? How did you come to possess such a rare treasure?\"",
+        "Event": "Guard reacting to Player's artifacts and unique items",
+        "Condition": "the Player carries the item",
+        "Equipment": "Azura's Star"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"Ah, Aegisbane. Sigil of Clan Shatter-Shield. But didn't that get stolen awhile back? Hmph. Must be rememberin' wrong.\"",
+        "Event": "Guard reacting to Player's artifacts and unique items",
+        "Condition": "the guard reacts only in the Windhelm region",
+        "Equipment": "Aegisbane"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"That hammer... Why that's Aegisbane, heirloom of Clan Shatter-Shield! Last I heard, it was stolen by a couple of swindlers. Alain and... Muiri. Yeah.\"",
+        "Event": "Guard reacting to Player's artifacts and unique items",
+        "Condition": "the guard reacts only in the Windhelm region",
+        "Equipment": "Aegisbane"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"No.. get that accursed mace away from me...\"",
+        "Event": "Guard reacting to Player's artifacts and unique items",
+        "Condition": "nan",
+        "Equipment": "Mace of Molag Bal"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"That mace... get it away from me. Get it away...\"",
+        "Event": "Guard reacting to Player's artifacts and unique items",
+        "Condition": "nan",
+        "Equipment": "Mace of Molag Bal"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"Who did you have to kill to get that blade?\"",
+        "Event": "Guard reacting to Player's artifacts and unique items",
+        "Condition": "nan",
+        "Equipment": "Mehrunes Razor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"That armor... it's like nothing I've ever seen. Like forged midnight...\"",
+        "Event": "Guard reacting to Player's artifacts and unique items",
+        "Condition": "nan",
+        "Equipment": "Nightingale Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"Ugh. Your breath is foul. What've you been eating?\"",
+        "Event": "Guard reacting to Player's artifacts and unique items",
+        "Condition": "nan",
+        "Equipment": "Ring of Namira"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"'Tis a wicked axe you wield there, friend. That blade looks sharp enough to cut through a god.\"",
+        "Event": "Guard reacting to Player's artifacts and unique items",
+        "Condition": "nan",
+        "Equipment": "The Rueful Axe"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"What manner of staff is that? Such a horror...\"",
+        "Event": "Guard reacting to Player's artifacts and unique items",
+        "Condition": "nan",
+        "Equipment": "Skull of Corruption"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"What a foul and unnatural weapon you wield. Never have I seen its like.\"",
+        "Event": "Guard reacting to Player's artifacts and unique items",
+        "Condition": "nan",
+        "Equipment": "Skull of Corruption"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"Ah, now that's a fine shield. And not mere Dwarven... is it?\"",
+        "Event": "Guard reacting to Player's artifacts and unique items",
+        "Condition": "nan",
+        "Equipment": "Spellbreaker"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"Your shield... Dwarf-make, is it not? But yet it seems so much... more.\"",
+        "Event": "Guard reacting to Player's artifacts and unique items",
+        "Condition": "nan",
+        "Equipment": "Spellbreaker"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"I know Thieves Guild armor when I see it. You're not fooling anyone.\"",
+        "Event": "Guard reacting to Player's artifacts and unique items",
+        "Condition": "nan",
+        "Equipment": "Thieves Guild Armor or Guild Master's Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"Try to hide it all you want. I know you're in the Thieves Guild... and so do the other guards.\"",
+        "Event": "Guard reacting to Player's artifacts and unique items",
+        "Condition": "the player is a member of Thieves Guild",
+        "Equipment": "Thieves Guild Armor or Guild Master's Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "\"What do you aim to do with that hammer, friend? Knock down a house?\"",
+        "Event": "Guard reacting to Player's artifacts and unique items",
+        "Condition": "nan",
+        "Equipment": "Volendrung"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "*whistles* \"That is one... big hammer.\"",
+        "Event": "Guard reacting to Player's artifacts and unique items",
+        "Condition": "nan",
+        "Equipment": "Volendrung"
+    }
+]

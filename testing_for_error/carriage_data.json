@@ -1,0 +1,230 @@
+[
+    {
+        "Speaker": "Carriage Driver",
+        "Dialogue": "\"Watch out!\"",
+        "Event": "the Player is riding a Carriage anywhere in the world",
+        "Condition": "the Player is in combat"
+    },
+    {
+        "Speaker": "Carriage Driver",
+        "Dialogue": "\"Gee up, there!\"",
+        "Event": "the Player is riding a Carriage anywhere in the world",
+        "Condition": "the Player is in combat"
+    },
+    {
+        "Speaker": "Carriage Driver",
+        "Dialogue": "\"Come on now, old girl.\"",
+        "Event": "the Player is riding a Carriage anywhere in the world",
+        "Condition": "the Player is in combat"
+    },
+    {
+        "Speaker": "Carriage Driver",
+        "Dialogue": "\"Look out!\"",
+        "Event": "the Player is riding a Carriage anywhere in the world",
+        "Condition": "the Player is in combat"
+    },
+    {
+        "Speaker": "Carriage Driver",
+        "Dialogue": "\"Steady, old girl.\"",
+        "Event": "the Player is riding a Carriage anywhere in the world",
+        "Condition": "the Player is in combat"
+    },
+    {
+        "Speaker": "Carriage Driver",
+        "Dialogue": "\"Gee up, there.\"",
+        "Event": "the Player is riding a Carriage anywhere in the world",
+        "Condition": "the Player is in combat"
+    },
+    {
+        "Speaker": "Carriage Driver",
+        "Dialogue": "\"Nice weather for a ride. Hope it lasts.\"",
+        "Event": "the Player is riding a Carriage anywhere in the world",
+        "Condition": "the weather is pleasant"
+    },
+    {
+        "Speaker": "Carriage Driver",
+        "Dialogue": "\"Couldn't ask for better weather.\"",
+        "Event": "the Player is riding a Carriage anywhere in the world",
+        "Condition": "the weather is pleasant"
+    },
+    {
+        "Speaker": "Carriage Driver",
+        "Dialogue": "\"Sun feels good, hmm?\"",
+        "Event": "the Player is riding a Carriage anywhere in the world",
+        "Condition": "it is during the day, from 6am to 6pm, and the weather is pleasant"
+    },
+    {
+        "Speaker": "Carriage Driver",
+        "Dialogue": "\"It's almost getting downright hot out now.\"",
+        "Event": "the Player is riding a Carriage anywhere in the world",
+        "Condition": "it is during the day, from 6am to 6pm, and the weather is pleasant"
+    },
+    {
+        "Speaker": "Carriage Driver",
+        "Dialogue": "\"This'll clear up soon, I'm sure of it.\"",
+        "Event": "the Player is riding a Carriage anywhere in the world",
+        "Condition": "it is raining"
+    },
+    {
+        "Speaker": "Carriage Driver",
+        "Dialogue": "\"Why is it always raining?\"",
+        "Event": "the Player is riding a Carriage anywhere in the world",
+        "Condition": "it is raining"
+    },
+    {
+        "Speaker": "Carriage Driver",
+        "Dialogue": "\"This rain will stop eventually. Always does.\"",
+        "Event": "the Player is riding a Carriage anywhere in the world",
+        "Condition": "it is raining"
+    },
+    {
+        "Speaker": "Carriage Driver",
+        "Dialogue": "\"Hope you're not getting too wet back there.\"",
+        "Event": "the Player is riding a Carriage anywhere in the world",
+        "Condition": "it is raining"
+    },
+    {
+        "Speaker": "Carriage Driver",
+        "Dialogue": "\"Better bundle up. This may keep up for a while.\"",
+        "Event": "the Player is riding a Carriage anywhere in the world",
+        "Condition": "it is snowing"
+    },
+    {
+        "Speaker": "Carriage Driver",
+        "Dialogue": "\"A little snow never stopped me, don't worry.\"",
+        "Event": "the Player is riding a Carriage anywhere in the world",
+        "Condition": "it is snowing"
+    },
+    {
+        "Speaker": "Carriage Driver",
+        "Dialogue": "\"There once was a hero named Ragnar the Red, who came riding to Whiterun from ole Rorikstead!\"",
+        "Event": "the Player is riding a Carriage anywhere in the world",
+        "Condition": "the Player is not a Khajiit"
+    },
+    {
+        "Speaker": "Carriage Driver",
+        "Dialogue": "\"You ever met one of them cats? - kah-jeet, I think they call themselves. I hear there's whole countries full of them down south.\"",
+        "Event": "the Player is riding a Carriage anywhere in the world",
+        "Condition": "the Player is not a Khajiit"
+    },
+    {
+        "Speaker": "Carriage Driver",
+        "Dialogue": "\"Ever been to Markarth? Some say it was built by the dwarves. I don't believe a word of it though.\"",
+        "Event": "the Player is riding a Carriage in Markath",
+        "Condition": "the Player has not visited Markarth before"
+    },
+    {
+        "Speaker": "Carriage Driver",
+        "Dialogue": "\"If you don't mind a piece of advice, I'd stay out of trouble in Markarth. They'll toss you in the Cidhna Mine, and you'll never get out.\"",
+        "Event": "the Player is riding a Carriage in Markath",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "Carriage Driver",
+        "Dialogue": "\"You'll want to watch out for the Forsworn if you do any travelling around the Reach. Bloodthirsty bastards, them.\"",
+        "Event": "the Player is riding a Carriage in Markath",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "Carriage Driver",
+        "Dialogue": "\"You picked quite a day for a trip to Markarth.\"",
+        "Event": "the Player is riding a Carriage in Markath",
+        "Condition": "it is snowing"
+    },
+    {
+        "Speaker": "Carriage Driver",
+        "Dialogue": "\"If you've never been to Riften, be sure to visit the Black-Briar meadery. A few mugs of that and you'll forget all about the long trip.\"",
+        "Event": "the Player is riding a Carriage in Riften",
+        "Condition": "the Player has not visited Riften before"
+    },
+    {
+        "Speaker": "Carriage Driver",
+        "Dialogue": "\"You'll want to watch yourself in Riften. A lot of ways to get yourself in trouble in that town.\"",
+        "Event": "the Player is riding a Carriage in Riften",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "Carriage Driver",
+        "Dialogue": "\"I might have to stop and get myself a pint of Black-Briar mead while I'm in Riften. Almost worth the trip all by itself.\"",
+        "Event": "the Player is riding a Carriage in Riften",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "Carriage Driver",
+        "Dialogue": "\"You might run into some of them lizard-folk in Riften. Quite a few of them work the docks there, not sure why. Like swimming in the lake, maybe.\"",
+        "Event": "the Player is riding a Carriage in Riften",
+        "Condition": "the Player is not an Argonian"
+    },
+    {
+        "Speaker": "Carriage Driver",
+        "Dialogue": "\"I swear it rains like this every time I go to Riften.\"",
+        "Event": "the Player is riding a Carriage in Riften",
+        "Condition": "it is raining"
+    },
+    {
+        "Speaker": "Carriage Driver",
+        "Dialogue": "\"First time to Solitude? Beautiful old city. Capital of Skyrim, but I'm sure you already knew that.\"",
+        "Event": "the Player is riding a Carriage in Solitude",
+        "Condition": "the Player has not visited Solitude before"
+    },
+    {
+        "Speaker": "Carriage Driver",
+        "Dialogue": "\"Solitude's famous for it's Bards College. Worth a visit if you've never been. Some of them can sing just as pretty as a lark.\"",
+        "Event": "the Player is riding a Carriage in Solitude",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "Carriage Driver",
+        "Dialogue": "\"Solitude's a big port town, you know? Full of sailors and their tales of far away lands. Most of 'em's foreigners and liars, of course.\"",
+        "Event": "the Player is riding a Carriage in Solitude",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "Carriage Driver",
+        "Dialogue": "\"You picked quite a day for a trip to Solitude.\"",
+        "Event": "the Player is riding a Carriage in Solitude",
+        "Condition": "it is snowing"
+    },
+    {
+        "Speaker": "Carriage Driver",
+        "Dialogue": "\"Never been to Whiterun before? The Jarl's palace is something to see. Dragonsreach they call it. Big old dragon skull hanging on the wall.\"",
+        "Event": "the Player is riding a Carriage in Whiterun",
+        "Condition": "the Player has not visited Whiterun before"
+    },
+    {
+        "Speaker": "Carriage Driver",
+        "Dialogue": "\"When I'm in Whiterun, I always visit the Gildergreen. Never hurts to pay your respects to Lady Kynareth, particularly in my line of work.\"",
+        "Event": "the Player is riding a Carriage in Whiterun",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "Carriage Driver",
+        "Dialogue": "\"I bet you'll be glad to get to Whiterun and get out of this weather.\"",
+        "Event": "the Player is riding a Carriage in Whiterun",
+        "Condition": "it is snowing"
+    },
+    {
+        "Speaker": "Carriage Driver",
+        "Dialogue": "\"Ever been to Windhelm? Oldest city in Skyrim, by some accounts. They say the big old palace there was built by Ysgramor himself.\"",
+        "Event": "the Player is riding a Carriage in Windhelm",
+        "Condition": "the Player has not  visited Windhelm before"
+    },
+    {
+        "Speaker": "Carriage Driver",
+        "Dialogue": "\"Windhelm's a bit cold for my tastes. And I ain't talking about the weather. You're not from Windhelm, are you?\"",
+        "Event": "the Player is riding a Carriage in Windhelm",
+        "Condition": "nan"
+    },
+    {
+        "Speaker": "Carriage Driver",
+        "Dialogue": "\"You'll find Windhelm's full of dark elves. The kind from Morrowind, you know. Not that I have anything against them, long as they keep to themselves.\"",
+        "Event": "the Player is riding a Carriage in Windhelm",
+        "Condition": "the Player is not a Dark Elf"
+    },
+    {
+        "Speaker": "Carriage Driver",
+        "Dialogue": "\"Better get used to it. Snows most all the time in Windhelm.\"",
+        "Event": "the Player is riding a Carriage in Windhelm",
+        "Condition": "it is snowing"
+    }
+]
