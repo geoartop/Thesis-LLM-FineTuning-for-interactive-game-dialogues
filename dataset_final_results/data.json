@@ -1177,164 +1177,164 @@
     {
         "Speaker": "Guard",
         "Dialogue": "\"Werewolf!\"",
-        "Event": "Player being a werewolf in front of an NPC",
-        "Condition": "the Player having transformed into a werewolf"
+        "Event": "the Player being a werewolf in front of an NPC",
+        "Condition": "the Player has transformed into a werewolf"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"It's a werewolf! To arms! To arms!\"",
-        "Event": "Player being a werewolf in front of an NPC",
-        "Condition": "the Player having transformed into a werewolf"
+        "Event": "the Player being a werewolf in front of an NPC",
+        "Condition": "the Player has transformed into a werewolf"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"By the gods! It..it can't be!\"",
-        "Event": "Player being a werewolf in front of an NPC",
-        "Condition": "the Player having transformed into a werewolf"
+        "Event": "the Player being a werewolf in front of an NPC",
+        "Condition": "the Player has transformed into a werewolf"
     },
     {
         "Speaker": "MaleCommoner",
         "Dialogue": "\"Come on! You monster!\"",
-        "Event": "Player being a werewolf in front of an NPC",
-        "Condition": "the Player having transformed into a werewolf"
+        "Event": "the Player being a werewolf in front of an NPC",
+        "Condition": "the Player has transformed into a werewolf"
     },
     {
         "Speaker": "MaleCommonerAccented",
         "Dialogue": "\"Come on! You monster!\"",
-        "Event": "Player being a werewolf in front of an NPC",
-        "Condition": "the Player having transformed into a werewolf"
+        "Event": "the Player being a werewolf in front of an NPC",
+        "Condition": "the Player has transformed into a werewolf"
     },
     {
         "Speaker": "FemaleCommoner",
         "Dialogue": "\"Come on! You monster!\"",
-        "Event": "Player being a werewolf in front of an NPC",
-        "Condition": "the Player having transformed into a werewolf"
+        "Event": "the Player being a werewolf in front of an NPC",
+        "Condition": "the Player has transformed into a werewolf"
     },
     {
         "Speaker": "MaleEvenToned",
         "Dialogue": "\"Come on! You monster!\"",
-        "Event": "Player being a werewolf in front of an NPC",
-        "Condition": "the Player having transformed into a werewolf"
+        "Event": "the Player being a werewolf in front of an NPC",
+        "Condition": "the Player has transformed into a werewolf"
     },
     {
         "Speaker": "MaleEvenTonedAccented",
         "Dialogue": "\"Come on! You monster!\"",
-        "Event": "Player being a werewolf in front of an NPC",
-        "Condition": "the Player having transformed into a werewolf"
+        "Event": "the Player being a werewolf in front of an NPC",
+        "Condition": "the Player has transformed into a werewolf"
     },
     {
         "Speaker": "FemaleEvenToned",
         "Dialogue": "\"Come on! You monster!\"",
-        "Event": "Player being a werewolf in front of an NPC",
-        "Condition": "the Player having transformed into a werewolf"
+        "Event": "the Player being a werewolf in front of an NPC",
+        "Condition": "the Player has transformed into a werewolf"
     },
     {
         "Speaker": "MaleNord",
         "Dialogue": "\"Come on! You monster!\"",
-        "Event": "Player being a werewolf in front of an NPC",
-        "Condition": "the Player having transformed into a werewolf"
+        "Event": "the Player being a werewolf in front of an NPC",
+        "Condition": "the Player has transformed into a werewolf"
     },
     {
         "Speaker": "FemaleNord",
         "Dialogue": "\"Come on! You monster!\"",
-        "Event": "Player being a werewolf in front of an NPC",
-        "Condition": "the Player having transformed into a werewolf"
+        "Event": "the Player being a werewolf in front of an NPC",
+        "Condition": "the Player has transformed into a werewolf"
     },
     {
         "Speaker": "MaleCommoner",
         "Dialogue": "\"Die, you filthy beast!\"",
-        "Event": "Player being a werewolf in front of an NPC",
-        "Condition": "the Player having transformed into a werewolf"
+        "Event": "the Player being a werewolf in front of an NPC",
+        "Condition": "the Player has transformed into a werewolf"
     },
     {
         "Speaker": "MaleCommonerAccented",
         "Dialogue": "\"Die, you filthy beast!\"",
-        "Event": "Player being a werewolf in front of an NPC",
-        "Condition": "the Player having transformed into a werewolf"
+        "Event": "the Player being a werewolf in front of an NPC",
+        "Condition": "the Player has transformed into a werewolf"
     },
     {
         "Speaker": "FemaleCommoner",
         "Dialogue": "\"Die, you filthy beast!\"",
-        "Event": "Player being a werewolf in front of an NPC",
-        "Condition": "the Player having transformed into a werewolf"
+        "Event": "the Player being a werewolf in front of an NPC",
+        "Condition": "the Player has transformed into a werewolf"
     },
     {
         "Speaker": "MaleEvenToned",
         "Dialogue": "\"Die, you filthy beast!\"",
-        "Event": "Player being a werewolf in front of an NPC",
-        "Condition": "the Player having transformed into a werewolf"
+        "Event": "the Player being a werewolf in front of an NPC",
+        "Condition": "the Player has transformed into a werewolf"
     },
     {
         "Speaker": "MaleEvenTonedAccented",
         "Dialogue": "\"Die, you filthy beast!\"",
-        "Event": "Player being a werewolf in front of an NPC",
-        "Condition": "the Player having transformed into a werewolf"
+        "Event": "the Player being a werewolf in front of an NPC",
+        "Condition": "the Player has transformed into a werewolf"
     },
     {
         "Speaker": "FemaleEvenToned",
         "Dialogue": "\"Die, you filthy beast!\"",
-        "Event": "Player being a werewolf in front of an NPC",
-        "Condition": "the Player having transformed into a werewolf"
+        "Event": "the Player being a werewolf in front of an NPC",
+        "Condition": "the Player has transformed into a werewolf"
     },
     {
         "Speaker": "MaleNord",
         "Dialogue": "\"Die, you filthy beast!\"",
-        "Event": "Player being a werewolf in front of an NPC",
-        "Condition": "the Player having transformed into a werewolf"
+        "Event": "the Player being a werewolf in front of an NPC",
+        "Condition": "the Player has transformed into a werewolf"
     },
     {
         "Speaker": "FemaleNord",
         "Dialogue": "\"Die, you filthy beast!\"",
-        "Event": "Player being a werewolf in front of an NPC",
-        "Condition": "the Player having transformed into a werewolf"
+        "Event": "the Player being a werewolf in front of an NPC",
+        "Condition": "the Player has transformed into a werewolf"
     },
     {
         "Speaker": "MaleCommoner",
         "Dialogue": "\"Werewolf! Kill the monster!\"",
-        "Event": "Player being a werewolf in front of an NPC",
-        "Condition": "the Player having transformed into a werewolf"
+        "Event": "the Player being a werewolf in front of an NPC",
+        "Condition": "the Player has transformed into a werewolf"
     },
     {
         "Speaker": "MaleCommonerAccented",
         "Dialogue": "\"Werewolf! Kill the monster!\"",
-        "Event": "Player being a werewolf in front of an NPC",
-        "Condition": "the Player having transformed into a werewolf"
+        "Event": "the Player being a werewolf in front of an NPC",
+        "Condition": "the Player has transformed into a werewolf"
     },
     {
         "Speaker": "FemaleCommoner",
         "Dialogue": "\"Werewolf! Kill the monster!\"",
-        "Event": "Player being a werewolf in front of an NPC",
-        "Condition": "the Player having transformed into a werewolf"
+        "Event": "the Player being a werewolf in front of an NPC",
+        "Condition": "the Player has transformed into a werewolf"
     },
     {
         "Speaker": "MaleEvenToned",
         "Dialogue": "\"Werewolf! Kill the monster!\"",
-        "Event": "Player being a werewolf in front of an NPC",
-        "Condition": "the Player having transformed into a werewolf"
+        "Event": "the Player being a werewolf in front of an NPC",
+        "Condition": "the Player has transformed into a werewolf"
     },
     {
         "Speaker": "MaleEvenTonedAccented",
         "Dialogue": "\"Werewolf! Kill the monster!\"",
-        "Event": "Player being a werewolf in front of an NPC",
-        "Condition": "the Player having transformed into a werewolf"
+        "Event": "the Player being a werewolf in front of an NPC",
+        "Condition": "the Player has transformed into a werewolf"
     },
     {
         "Speaker": "FemaleEvenToned",
         "Dialogue": "\"Werewolf! Kill the monster!\"",
-        "Event": "Player being a werewolf in front of an NPC",
-        "Condition": "the Player having transformed into a werewolf"
+        "Event": "the Player being a werewolf in front of an NPC",
+        "Condition": "the Player has transformed into a werewolf"
     },
     {
         "Speaker": "MaleNord",
         "Dialogue": "\"Werewolf! Kill the monster!\"",
-        "Event": "Player being a werewolf in front of an NPC",
-        "Condition": "the Player having transformed into a werewolf"
+        "Event": "the Player being a werewolf in front of an NPC",
+        "Condition": "the Player has transformed into a werewolf"
     },
     {
         "Speaker": "FemaleNord",
         "Dialogue": "\"Werewolf! Kill the monster!\"",
-        "Event": "Player being a werewolf in front of an NPC",
-        "Condition": "the Player having transformed into a werewolf"
+        "Event": "the Player being a werewolf in front of an NPC",
+        "Condition": "the Player has transformed into a werewolf"
     },
     {
         "Speaker": "Any",
@@ -1809,197 +1809,197 @@
     {
         "Speaker": "FemaleArgonian",
         "Dialogue": "\"It should be careful with those flames.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleArgonian",
         "Dialogue": "\"It is planning on starting a fire?\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleBrute",
         "Dialogue": "\"Hey now, you be careful with that fire.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleChild",
         "Dialogue": "\"You're not supposed to play with fire, you know.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleChild",
         "Dialogue": "\"I wish I could play with fire like that.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleCommander",
         "Dialogue": "\"Take care not to set anything on fire.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleCommander",
         "Dialogue": "\"Take care with those flames.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleNordCommander",
         "Dialogue": "\"Take care with those flames.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleCommoner",
         "Dialogue": "\"You're not afraid you'll set fire to something?\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleCommoner",
         "Dialogue": "\"Mind yourself with that fire. Don't burn anything down, now.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleCommonerAccented",
         "Dialogue": "\"Mind yourself with that fire. Don't burn anything down, now.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleCondescending",
         "Dialogue": "\"What kind of fool plays with fire like that?\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleCondescending",
         "Dialogue": "\"Have a fascination with fire, do we?\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleCoward",
         "Dialogue": "\"You're not planning on burning anything with that, are you?\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleCoward",
         "Dialogue": "\"Umm... don't suppose you'd want to take that fire somewhere else? You know... somewhere away from me?\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleDarkElf",
         "Dialogue": "\"Careful not to torch anything important.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleDarkElf",
         "Dialogue": "\"Careful with those flames, unless you plan on torching something.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleDrunk",
         "Dialogue": "\"Fire!\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleElfHaughty",
         "Dialogue": "\"I do hope you know what you're doing with those flames...\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleElfHaughty",
         "Dialogue": "\"I do hope you know what your doing with those flames. It would be quite a shame if something caught fire.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleEvenToned",
         "Dialogue": "\"Try not to set anything on fire, all right?\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleEvenToned",
         "Dialogue": "\"Don't set anything on fire, all right?\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleEvenTonedAccented",
         "Dialogue": "\"Don't set anything on fire, all right?\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleKhajiit",
         "Dialogue": "\"Fire is not a thing to be played with...\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleKhajiit",
         "Dialogue": "\"Fire is not a toy.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleNord",
         "Dialogue": "\"Careful with that fire.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleNord",
         "Dialogue": "\"Don't go setting the place on fire, okay?\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleOldGrumpy",
         "Dialogue": "\"What's the matter with you? You want to start a blaze?\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleOldGrumpy",
         "Dialogue": "\"Plan on burning everything down, do you? Damn fool.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleOldKindly",
         "Dialogue": "\"Dear, you really ought to be careful with fire.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleOldKindly",
         "Dialogue": "\"You should be more careful with those flames.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleOrc",
         "Dialogue": "\"Better not set anything on fire.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleOrc",
         "Dialogue": "\"Those flames get out of control, and you're gonna wish they hadn't.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleShrill",
         "Dialogue": "\"What do you think you're doing? Knock it off with the flames already.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleSlyCynical",
         "Dialogue": "\"Careful, now. Wouldn't want someone to get... burned.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleSoldier",
         "Dialogue": "\"Careful with that fire.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleSultry",
         "Dialogue": "\"Is it getting hot, or is it just me?\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleYoungEager",
         "Dialogue": "\"Whoa. Hope you know what you're doing with those flames there.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleYoungEager",
         "Dialogue": "\"You've got that fire under control. Right?\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleArgonian",
@@ -2199,211 +2199,211 @@
     {
         "Speaker": "MaleNord",
         "Dialogue": "\"Hey! What's this?\"",
-        "Event": "NPCs fighting over a player's dropped item",
-        "Line_of_dialogue": "1st "
+        "Event": "NPCs fighting over a Player's dropped item",
+        "Line_of_dialogue": "1st"
     },
     {
         "Speaker": "FemaleNord",
         "Dialogue": "\"Who left that here?\"",
-        "Event": "NPCs fighting over a player's dropped item",
-        "Line_of_dialogue": "1st "
+        "Event": "NPCs fighting over a Player's dropped item",
+        "Line_of_dialogue": "1st"
     },
     {
         "Speaker": "MaleDarkElf",
         "Dialogue": "\"Well! Finders, keepers as they say.\"",
-        "Event": "NPCs fighting over a player's dropped item",
-        "Line_of_dialogue": "1st "
+        "Event": "NPCs fighting over a Player's dropped item",
+        "Line_of_dialogue": "1st"
     },
     {
         "Speaker": "FemaleDarkElf",
         "Dialogue": "\"If nobody wants that, I'll take it.\"",
-        "Event": "NPCs fighting over a player's dropped item",
-        "Line_of_dialogue": "1st "
+        "Event": "NPCs fighting over a Player's dropped item",
+        "Line_of_dialogue": "1st"
     },
     {
         "Speaker": "MaleOrc",
         "Dialogue": "\"Damn shame to leave that lying around.\"",
-        "Event": "NPCs fighting over a player's dropped item",
-        "Line_of_dialogue": "1st "
+        "Event": "NPCs fighting over a Player's dropped item",
+        "Line_of_dialogue": "1st"
     },
     {
         "Speaker": "FemaleOrc",
         "Dialogue": "\"It's a bit worn, but I'll take it.\"",
-        "Event": "NPCs fighting over a player's dropped item",
-        "Line_of_dialogue": "1st "
+        "Event": "NPCs fighting over a Player's dropped item",
+        "Line_of_dialogue": "1st"
     },
     {
         "Speaker": "MaleSlyCynical",
         "Dialogue": "\"Looks like it's my lucky day.\"",
-        "Event": "NPCs fighting over a player's dropped item",
-        "Line_of_dialogue": "1st "
+        "Event": "NPCs fighting over a Player's dropped item",
+        "Line_of_dialogue": "1st"
     },
     {
         "Speaker": "MaleBrute",
         "Dialogue": "\"Hmm. What's this?\"",
-        "Event": "NPCs fighting over a player's dropped item",
-        "Line_of_dialogue": "1st "
+        "Event": "NPCs fighting over a Player's dropped item",
+        "Line_of_dialogue": "1st"
     },
     {
         "Speaker": "Any",
         "Dialogue": "\"You're too slow. I saw it first.\"",
-        "Event": "NPCs fighting over a player's dropped item",
+        "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "2nd"
     },
     {
         "Speaker": "Any",
         "Dialogue": "\"Hey! That's my sword.\" (if item is a sword)",
-        "Event": "NPCs fighting over a player's dropped item",
+        "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "2nd"
     },
     {
         "Speaker": "Any",
         "Dialogue": "\"Don't touch that dagger! It's mine.\" (if item is a dagger)",
-        "Event": "NPCs fighting over a player's dropped item",
+        "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "2nd"
     },
     {
         "Speaker": "Any",
         "Dialogue": "\"I don't think so. That axe is mine.\" (if item is a war axe or battleaxe)",
-        "Event": "NPCs fighting over a player's dropped item",
+        "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "2nd"
     },
     {
         "Speaker": "Any",
         "Dialogue": "\"Keep away from that bow. It's mine.\" (if item is a bow)",
-        "Event": "NPCs fighting over a player's dropped item",
+        "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "2nd"
     },
     {
         "Speaker": "Any",
         "Dialogue": "\"Hands off. That's my armor now!\" (if item is a light or heavy armor)",
-        "Event": "NPCs fighting over a player's dropped item",
+        "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "2nd"
     },
     {
         "Speaker": "MaleNord",
         "Dialogue": "\"No. It's mine!\"",
-        "Event": "NPCs fighting over a player's dropped item",
+        "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "3rd"
     },
     {
         "Speaker": "FemaleNord",
         "Dialogue": "\"Not if I get it first.\"",
-        "Event": "NPCs fighting over a player's dropped item",
+        "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "3rd"
     },
     {
         "Speaker": "MaleDarkElf",
         "Dialogue": "\"I saw it first! I'm taking it.\"",
-        "Event": "NPCs fighting over a player's dropped item",
+        "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "3rd"
     },
     {
         "Speaker": "FemaleDarkElf",
         "Dialogue": "\"I don't think so!\"",
-        "Event": "NPCs fighting over a player's dropped item",
+        "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "3rd"
     },
     {
         "Speaker": "MaleOrc",
         "Dialogue": "\"I'm taking it anyway.\"",
-        "Event": "NPCs fighting over a player's dropped item",
+        "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "3rd"
     },
     {
         "Speaker": "FemaleOrc",
         "Dialogue": "\"We'll see about that.\"",
-        "Event": "NPCs fighting over a player's dropped item",
+        "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "3rd"
     },
     {
         "Speaker": "MaleSlyCynical",
         "Dialogue": "\"I think not.\"",
-        "Event": "NPCs fighting over a player's dropped item",
+        "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "3rd"
     },
     {
         "Speaker": "MaleBrute",
         "Dialogue": "\"No!\"",
-        "Event": "NPCs fighting over a player's dropped item",
+        "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "3rd"
     },
     {
         "Speaker": "MaleNord",
         "Dialogue": "\"If it's a fight you want, it's a fight you'll get.\"",
-        "Event": "NPCs fighting over a player's dropped item",
+        "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "4th"
     },
     {
         "Speaker": "FemaleNord",
         "Dialogue": "\"You can take it over my dead body!\"",
-        "Event": "NPCs fighting over a player's dropped item",
+        "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "4th"
     },
     {
         "Speaker": "MaleDarkElf",
         "Dialogue": "\"You'll have to take it from me.\"",
-        "Event": "NPCs fighting over a player's dropped item",
+        "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "4th"
     },
     {
         "Speaker": "FemaleDarkElf",
         "Dialogue": "\"Back off!\"",
-        "Event": "NPCs fighting over a player's dropped item",
+        "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "4th"
     },
     {
         "Speaker": "MaleOrc",
         "Dialogue": "\"Your blood won't bother me!\"",
-        "Event": "NPCs fighting over a player's dropped item",
+        "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "4th"
     },
     {
         "Speaker": "FemaleOrc",
         "Dialogue": "\"You'll have to fight me for it.\"",
-        "Event": "NPCs fighting over a player's dropped item",
+        "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "4th"
     },
     {
         "Speaker": "MaleSlyCynical",
         "Dialogue": "\"You're too slow and stupid to take it from me.\"",
-        "Event": "NPCs fighting over a player's dropped item",
+        "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "4th"
     },
     {
         "Speaker": "MaleBrute",
         "Dialogue": "\"I'll hurt you if I have to.\"",
-        "Event": "NPCs fighting over a player's dropped item",
+        "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "4th"
     },
     {
         "Speaker": "Any",
         "Dialogue": "\"That can be arranged.\"",
-        "Event": "NPCs fighting over a player's dropped item",
+        "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "5th"
     },
     {
         "Speaker": "Bystander",
         "Dialogue": "\"What's all the commotion?\"",
-        "Event": "NPCs fighting over a player's dropped item",
+        "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "6th"
     },
     {
         "Speaker": "Bystander",
         "Dialogue": "\"Someone's going to get hurt.\"",
-        "Event": "NPCs fighting over a player's dropped item",
+        "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "6th"
     },
     {
         "Speaker": "Bystander 2",
         "Dialogue": "\"Damn. Another fight.\"",
-        "Event": "NPCs fighting over a player's dropped item",
+        "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "7th"
     },
     {
         "Speaker": "Bystander 2",
         "Dialogue": "\"They're fighting over that thing, I think.\"",
-        "Event": "NPCs fighting over a player's dropped item",
+        "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "7th"
     },
     {
@@ -2765,276 +2765,6 @@
         "Speaker": "MaleYoungEager",
         "Dialogue": "\"It's probably not a good idea to walk around naked like that.\"",
         "Event": "the Player walking around naked in frond of an NPC"
-    },
-    {
-        "Speaker": "FemaleCommoner",
-        "Dialogue": "\"Beg pardon. You dropped some armor over there. Don't suppose you'd mind if I... took it?\"",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "nan"
-    },
-    {
-        "Speaker": "MaleCommoner",
-        "Dialogue": "\"Pardon. I saw you toss a piece of armor. You wouldn't mind if I take it, then?\"",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "nan"
-    },
-    {
-        "Speaker": "MaleCommonerAccented",
-        "Dialogue": "\"Pardon. I saw you toss a piece of armor. You wouldn't mind if I take it, then?\"",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "nan"
-    },
-    {
-        "Speaker": "FemaleCoward",
-        "Dialogue": "\"Umm... You dropped a piece armor over there. I was kind of hoping that I could, you know, have it?\"",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "nan"
-    },
-    {
-        "Speaker": "MaleCoward",
-        "Dialogue": "\"Couldn't help but notice, that, um... you dropped some armor. Just wanted to check with you before I took it. Is that all right?\"",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "nan"
-    },
-    {
-        "Speaker": "FemaleYoungEager",
-        "Dialogue": "\"Excuse me. I'm assuming that armor you got rid of wasn't an accident, but just in case, I wanted to make sure I could take it.\"",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "nan"
-    },
-    {
-        "Speaker": "MaleYoungEager",
-        "Dialogue": "\"If you're not going use that armor you dropped... do you mind if I take it?\"",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "nan"
-    },
-    {
-        "Speaker": "MaleBrute",
-        "Dialogue": "\"That armor you got rid of. I can have it, yeah?\"",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "nan"
-    },
-    {
-        "Speaker": "MaleDrunk",
-        "Dialogue": "\"Hey. That armor. You got rid of it, yeah? I can take it, no problem?\"",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "nan"
-    },
-    {
-        "Speaker": "Player",
-        "Dialogue": "Consider it yours.",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "\"Beg pardon. You dropped some armor over there. Don't suppose you'd mind if I... took it?\""
-    },
-    {
-        "Speaker": "Player",
-        "Dialogue": "Consider it yours.",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "\"Pardon. I saw you toss a piece of armor. You wouldn't mind if I take it, then?\""
-    },
-    {
-        "Speaker": "Player",
-        "Dialogue": "Consider it yours.",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "\"Pardon. I saw you toss a piece of armor. You wouldn't mind if I take it, then?\""
-    },
-    {
-        "Speaker": "Player",
-        "Dialogue": "Consider it yours.",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "\"Umm... You dropped a piece armor over there. I was kind of hoping that I could, you know, have it?\""
-    },
-    {
-        "Speaker": "Player",
-        "Dialogue": "Consider it yours.",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "\"Couldn't help but notice, that, um... you dropped some armor. Just wanted to check with you before I took it. Is that all right?\""
-    },
-    {
-        "Speaker": "Player",
-        "Dialogue": "Consider it yours.",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "\"Excuse me. I'm assuming that armor you got rid of wasn't an accident, but just in case, I wanted to make sure I could take it.\""
-    },
-    {
-        "Speaker": "Player",
-        "Dialogue": "Consider it yours.",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "\"If you're not going use that armor you dropped... do you mind if I take it?\""
-    },
-    {
-        "Speaker": "Player",
-        "Dialogue": "Consider it yours.",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "\"That armor you got rid of. I can have it, yeah?\""
-    },
-    {
-        "Speaker": "Player",
-        "Dialogue": "Consider it yours.",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "\"Hey. That armor. You got rid of it, yeah? I can take it, no problem?\""
-    },
-    {
-        "Speaker": "Player",
-        "Dialogue": "It's mine. Don't touch it",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "\"Beg pardon. You dropped some armor over there. Don't suppose you'd mind if I... took it?\""
-    },
-    {
-        "Speaker": "Player",
-        "Dialogue": "It's mine. Don't touch it",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "\"Pardon. I saw you toss a piece of armor. You wouldn't mind if I take it, then?\""
-    },
-    {
-        "Speaker": "Player",
-        "Dialogue": "It's mine. Don't touch it",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "\"Pardon. I saw you toss a piece of armor. You wouldn't mind if I take it, then?\""
-    },
-    {
-        "Speaker": "Player",
-        "Dialogue": "It's mine. Don't touch it",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "\"Umm... You dropped a piece armor over there. I was kind of hoping that I could, you know, have it?\""
-    },
-    {
-        "Speaker": "Player",
-        "Dialogue": "It's mine. Don't touch it",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "\"Couldn't help but notice, that, um... you dropped some armor. Just wanted to check with you before I took it. Is that all right?\""
-    },
-    {
-        "Speaker": "Player",
-        "Dialogue": "It's mine. Don't touch it",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "\"Excuse me. I'm assuming that armor you got rid of wasn't an accident, but just in case, I wanted to make sure I could take it.\""
-    },
-    {
-        "Speaker": "Player",
-        "Dialogue": "It's mine. Don't touch it",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "\"If you're not going use that armor you dropped... do you mind if I take it?\""
-    },
-    {
-        "Speaker": "Player",
-        "Dialogue": "It's mine. Don't touch it",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "\"That armor you got rid of. I can have it, yeah?\""
-    },
-    {
-        "Speaker": "Player",
-        "Dialogue": "It's mine. Don't touch it",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "\"Hey. That armor. You got rid of it, yeah? I can take it, no problem?\""
-    },
-    {
-        "Speaker": "FemaleCommoner",
-        "Dialogue": "\"That's great. I owe you one. Thanks!\"",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "Consider it yours."
-    },
-    {
-        "Speaker": "MaleCommoner",
-        "Dialogue": "\"My thanks!\"",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "Consider it yours."
-    },
-    {
-        "Speaker": "MaleCommonerAccented",
-        "Dialogue": "\"My thanks!\"",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "Consider it yours."
-    },
-    {
-        "Speaker": "FemaleCoward",
-        "Dialogue": "\"Oh, well, um... thank you.\"",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "Consider it yours."
-    },
-    {
-        "Speaker": "MaleCoward",
-        "Dialogue": "\"Well great! Let's see anyone try to hurt me now...\"",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "Consider it yours."
-    },
-    {
-        "Speaker": "FemaleYoungEager",
-        "Dialogue": "\"Thanks! I'm going to go put it on right now.\"",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "Consider it yours."
-    },
-    {
-        "Speaker": "MaleYoungEager",
-        "Dialogue": "\"I'm going to go get it right now and wear it. Many thanks!\"",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "Consider it yours."
-    },
-    {
-        "Speaker": "MaleBrute",
-        "Dialogue": "\"Mighty decent of you.\"",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "Consider it yours."
-    },
-    {
-        "Speaker": "MaleDrunk",
-        "Dialogue": "\"Best luck I've had all day.\"",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "Consider it yours."
-    },
-    {
-        "Speaker": "FemaleCommoner",
-        "Dialogue": "\"Oh. Well, you should probably go get it before someone steals it.\"",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "\"It's mine. Don't touch it.\""
-    },
-    {
-        "Speaker": "MaleCommoner",
-        "Dialogue": "\"You dropped it by mistake? Well, if I was you, I'd go grab it now before somebody does.\"",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "\"It's mine. Don't touch it.\""
-    },
-    {
-        "Speaker": "MaleCommonerAccented",
-        "Dialogue": "\"You dropped it by mistake? Well, if I was you, I'd go grab it now before somebody does.\"",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "\"It's mine. Don't touch it.\""
-    },
-    {
-        "Speaker": "FemaleCoward",
-        "Dialogue": "\"Well... you probably should go collect it before someone else does, shouldn't you?\"",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "\"It's mine. Don't touch it.\""
-    },
-    {
-        "Speaker": "MaleCoward",
-        "Dialogue": "\"Aww. I thought you were done with it.\"",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "\"It's mine. Don't touch it.\""
-    },
-    {
-        "Speaker": "FemaleYoungEager",
-        "Dialogue": "\"Oh... well. Never mind then.\"",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "\"It's mine. Don't touch it.\""
-    },
-    {
-        "Speaker": "MaleYoungEager",
-        "Dialogue": "\"Well, you'd better go pick it up then, before someone snatches it.\"",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "\"It's mine. Don't touch it.\""
-    },
-    {
-        "Speaker": "MaleBrute",
-        "Dialogue": "\"Well what did you go dropping it for? Got my hopes up for nothin'...\"",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "\"It's mine. Don't touch it.\""
-    },
-    {
-        "Speaker": "MaleDrunk",
-        "Dialogue": "\"Well... fine. I wasn't really gonna do anything with it anyway. Hmph.\"",
-        "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "\"It's mine. Don't touch it.\""
     },
     {
         "Speaker": "MaleArgonian",
@@ -5807,337 +5537,337 @@
         "Speaker": "Player",
         "Dialogue": "\"Interested in me, are you?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Is that Lady Mara's amulet? I'm shocked a fine person like you isn't married already.\""
+        "Response_to": "Is that Lady Mara's amulet? I'm shocked a fine person like you isn't married already."
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"Interested in me, are you?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Is that Lady Mara's amulet? I'm shocked a fine person like you isn't married already.\""
+        "Response_to": "Is that Lady Mara's amulet? I'm shocked a fine person like you isn't married already."
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"Interested in me, are you?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Look at you. Wearing an Amulet of Mara. Are you saying you're available?\""
+        "Response_to": "Look at you. Wearing an Amulet of Mara. Are you saying you're available?"
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"Interested in me, are you?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Look at you. Wearing an Amulet of Mara. Are you saying you're available?\""
+        "Response_to": "Look at you. Wearing an Amulet of Mara. Are you saying you're available?"
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"Interested in me, are you?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Look at you. Wearing an Amulet of Mara. Are you saying you're available?\""
+        "Response_to": "Look at you. Wearing an Amulet of Mara. Are you saying you're available?"
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"Interested in me, are you?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Look at you. Wearing an Amulet of Mara. Are you saying you're available?\""
+        "Response_to": "Look at you. Wearing an Amulet of Mara. Are you saying you're available?"
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"Interested in me, are you?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Look at you. Wearing an Amulet of Mara. Are you saying you're available?\""
+        "Response_to": "Look at you. Wearing an Amulet of Mara. Are you saying you're available?"
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"Interested in me, are you?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Look at you. Wearing an Amulet of Mara. Are you saying you're available?\""
+        "Response_to": "Look at you. Wearing an Amulet of Mara. Are you saying you're available?"
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"Interested in me, are you?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Look at you. Wearing an Amulet of Mara. Are you saying you're available?\""
+        "Response_to": "Look at you. Wearing an Amulet of Mara. Are you saying you're available?"
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"Interested in me, are you?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Look at you. Wearing an Amulet of Mara. Are you saying you're available?\""
+        "Response_to": "Look at you. Wearing an Amulet of Mara. Are you saying you're available?"
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"Interested in me, are you?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"You're wearing Mara's amulet? You? I'd marry you. I'd marry you twice.\""
+        "Response_to": "You're wearing Mara's amulet? You? I'd marry you. I'd marry you twice."
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"Interested in me, are you?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Is that an Amulet of Mara? I'm surprised someone like you isn't spoken for.\""
+        "Response_to": "Is that an Amulet of Mara? I'm surprised someone like you isn't spoken for."
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"Interested in me, are you?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Is that an Amulet of Mara? I'm surprised someone like you isn't spoken for.\""
+        "Response_to": "Is that an Amulet of Mara? I'm surprised someone like you isn't spoken for."
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"Interested in me, are you?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Is that an Amulet of Mara? I'm surprised someone like you isn't spoken for.\""
+        "Response_to": "Is that an Amulet of Mara? I'm surprised someone like you isn't spoken for."
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"Interested in me, are you?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Is that an Amulet of Mara? I'm surprised someone like you isn't spoken for.\""
+        "Response_to": "Is that an Amulet of Mara? I'm surprised someone like you isn't spoken for."
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"Interested in me, are you?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Is that an Amulet of Mara? I'm surprised someone like you isn't spoken for.\""
+        "Response_to": "Is that an Amulet of Mara? I'm surprised someone like you isn't spoken for."
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"Interested in me, are you?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Is that an Amulet of Mara? I'm surprised someone like you isn't spoken for.\""
+        "Response_to": "Is that an Amulet of Mara? I'm surprised someone like you isn't spoken for."
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"Interested in me, are you?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Is that an Amulet of Mara? I'm surprised someone like you isn't spoken for.\""
+        "Response_to": "Is that an Amulet of Mara? I'm surprised someone like you isn't spoken for."
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"Interested in me, are you?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Is that an Amulet of Mara? I'm surprised someone like you isn't spoken for.\""
+        "Response_to": "Is that an Amulet of Mara? I'm surprised someone like you isn't spoken for."
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"Interested in me, are you?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"An Amulet of Mara? You're not married? Surprising.\""
+        "Response_to": "An Amulet of Mara? You're not married? Surprising."
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"Interested in me, are you?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"An Amulet of Mara? You're not married? Surprising.\""
+        "Response_to": "An Amulet of Mara? You're not married? Surprising."
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"Interested in me, are you?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"That amulet. I've seen the Nords wear these when they're looking to marry. With your strength, you should have no trouble.\""
+        "Response_to": "That amulet. I've seen the Nords wear these when they're looking to marry. With your strength, you should have no trouble."
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"Interested in me, are you?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"That amulet. I've seen the Nords wear these when they're looking to marry. With your strength, you should have no trouble.\""
+        "Response_to": "That amulet. I've seen the Nords wear these when they're looking to marry. With your strength, you should have no trouble."
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"Interested in me, are you?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"An Amulet of Mara, you're looking for marriage, then?\""
+        "Response_to": "An Amulet of Mara, you're looking for marriage, then?"
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"Interested in me, are you?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"An Amulet of Mara, you're looking for marriage, then?\""
+        "Response_to": "An Amulet of Mara, you're looking for marriage, then?"
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"Interested in me, are you?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"An Amulet of Mara, you're looking for marriage, then?\""
+        "Response_to": "An Amulet of Mara, you're looking for marriage, then?"
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"Interested in me, are you?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"An Amulet of Mara, you're looking for marriage, then?\""
+        "Response_to": "An Amulet of Mara, you're looking for marriage, then?"
     },
     {
         "Speaker": "MaleArgonian",
         "Dialogue": "\"You have a kind heart. I'd be honored to walk by your side until the trees themselves fade away, if you would have me.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Interested in me, are you?\""
+        "Response_to": "Interested in me, are you?"
     },
     {
         "Speaker": "FemaleArgonian",
         "Dialogue": "\"You have a kind heart. I'd be honored to walk by your side until the trees themselves fade away, if you would have me.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Interested in me, are you?\""
+        "Response_to": "Interested in me, are you?"
     },
     {
         "Speaker": "MaleCondescending",
         "Dialogue": "You are pleasant company, more than pleasant. And what about you? Would you... be interested in a life together?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Interested in me, are you?\""
+        "Response_to": "Interested in me, are you?"
     },
     {
         "Speaker": "FemaleElfHaughty",
         "Dialogue": "You are pleasant company, more than pleasant. And what about you? Would you... be interested in a life together?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Interested in me, are you?\""
+        "Response_to": "Interested in me, are you?"
     },
     {
         "Speaker": "FemaleCondescending",
         "Dialogue": "You are pleasant company, more than pleasant. And what about you? Would you... be interested in a life together?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Interested in me, are you?\""
+        "Response_to": "Interested in me, are you?"
     },
     {
         "Speaker": "FemaleShrill",
         "Dialogue": "You are pleasant company, more than pleasant. And what about you? Would you... be interested in a life together?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Interested in me, are you?\""
+        "Response_to": "Interested in me, are you?"
     },
     {
         "Speaker": "MaleCoward",
         "Dialogue": "You are pleasant company, more than pleasant. And what about you? Would you... be interested in a life together?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Interested in me, are you?\""
+        "Response_to": "Interested in me, are you?"
     },
     {
         "Speaker": "FemaleCoward",
         "Dialogue": "You are pleasant company, more than pleasant. And what about you? Would you... be interested in a life together?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Interested in me, are you?\""
+        "Response_to": "Interested in me, are you?"
     },
     {
         "Speaker": "MaleSlyCynical",
         "Dialogue": "You are pleasant company, more than pleasant. And what about you? Would you... be interested in a life together?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Interested in me, are you?\""
+        "Response_to": "Interested in me, are you?"
     },
     {
         "Speaker": "FemaleSultry",
         "Dialogue": "You are pleasant company, more than pleasant. And what about you? Would you... be interested in a life together?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Interested in me, are you?\""
+        "Response_to": "Interested in me, are you?"
     },
     {
         "Speaker": "MaleDrunk",
         "Dialogue": "\"I'd be a fool to turn down a chance of marrying you. I'm game if you're game!\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Interested in me, are you?\""
+        "Response_to": "Interested in me, are you?"
     },
     {
         "Speaker": "MaleCommoner",
         "Dialogue": "Well, yes. Why wouldn't I be? Are you... interested in me?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Interested in me, are you?\""
+        "Response_to": "Interested in me, are you?"
     },
     {
         "Speaker": "MaleEvenTonedAccented",
         "Dialogue": "Well, yes. Why wouldn't I be? Are you... interested in me?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Interested in me, are you?\""
+        "Response_to": "Interested in me, are you?"
     },
     {
         "Speaker": "MaleCommonerAccented",
         "Dialogue": "Well, yes. Why wouldn't I be? Are you... interested in me?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Interested in me, are you?\""
+        "Response_to": "Interested in me, are you?"
     },
     {
         "Speaker": "FemaleEvenToned",
         "Dialogue": "Well, yes. Why wouldn't I be? Are you... interested in me?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Interested in me, are you?\""
+        "Response_to": "Interested in me, are you?"
     },
     {
         "Speaker": "FemaleCommoner",
         "Dialogue": "Well, yes. Why wouldn't I be? Are you... interested in me?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Interested in me, are you?\""
+        "Response_to": "Interested in me, are you?"
     },
     {
         "Speaker": "MaleYoungEager",
         "Dialogue": "Well, yes. Why wouldn't I be? Are you... interested in me?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Interested in me, are you?\""
+        "Response_to": "Interested in me, are you?"
     },
     {
         "Speaker": "MaleEvenToned",
         "Dialogue": "Well, yes. Why wouldn't I be? Are you... interested in me?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Interested in me, are you?\""
+        "Response_to": "Interested in me, are you?"
     },
     {
         "Speaker": "FemaleYoungEager",
         "Dialogue": "Well, yes. Why wouldn't I be? Are you... interested in me?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Interested in me, are you?\""
+        "Response_to": "Interested in me, are you?"
     },
     {
         "Speaker": "MaleNord",
         "Dialogue": "\"I am. I'd be glad to stand by your side until the Divines take us, if you'll have me.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Interested in me, are you?\""
+        "Response_to": "Interested in me, are you?"
     },
     {
         "Speaker": "FemaleNord",
         "Dialogue": "\"I am. I'd be glad to stand by your side until the Divines take us, if you'll have me.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Interested in me, are you?\""
+        "Response_to": "Interested in me, are you?"
     },
     {
         "Speaker": "MaleOrc",
         "Dialogue": "\"You're strong. Clever. I'd be proud to face the challenges of life with you, if you feel the same way.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Interested in me, are you?\""
+        "Response_to": "Interested in me, are you?"
     },
     {
         "Speaker": "FemaleOrc",
         "Dialogue": "\"You're strong. Clever. I'd be proud to face the challenges of life with you, if you feel the same way.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Interested in me, are you?\""
+        "Response_to": "Interested in me, are you?"
     },
     {
         "Speaker": "MaleBrute",
         "Dialogue": "\"Won't lie, I am. And you?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Interested in me, are you?\""
+        "Response_to": "Interested in me, are you?"
     },
     {
         "Speaker": "FemaleCommander",
         "Dialogue": "\"Won't lie, I am. And you?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Interested in me, are you?\""
+        "Response_to": "Interested in me, are you?"
     },
     {
         "Speaker": "MaleDarkElf",
         "Dialogue": "\"Won't lie, I am. And you?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Interested in me, are you?\""
+        "Response_to": "Interested in me, are you?"
     },
     {
         "Speaker": "FemaleDarkElf",
         "Dialogue": "\"Won't lie, I am. And you?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Interested in me, are you?\""
+        "Response_to": "Interested in me, are you?"
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"Together until the end, then.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"You have a kind heart. I'd be honored to walk by your side until the trees themselves fade away, if you would have me.\""
+        "Response_to": "You have a kind heart. I'd be honored to walk by your side until the trees themselves fade away, if you would have me."
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"Together until the end, then.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"You have a kind heart. I'd be honored to walk by your side until the trees themselves fade away, if you would have me.\""
+        "Response_to": "You have a kind heart. I'd be honored to walk by your side until the trees themselves fade away, if you would have me."
     },
     {
         "Speaker": "Player",
@@ -6191,7 +5921,7 @@
         "Speaker": "Player",
         "Dialogue": "\"I'm game.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"I'd be a fool to turn down a chance of marrying you. I'm game if you're game!\""
+        "Response_to": "I'd be a fool to turn down a chance of marrying you. I'm game if you're game!"
     },
     {
         "Speaker": "Player",
@@ -6203,103 +5933,103 @@
         "Speaker": "Player",
         "Dialogue": "\"Yes. Yes I am.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "Well, yes. Why wouldn't I be? Are you... interested in me?\""
+        "Response_to": "Well, yes. Why wouldn't I be? Are you... interested in me?"
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"Yes. Yes I am.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "Well, yes. Why wouldn't I be? Are you... interested in me?\""
+        "Response_to": "Well, yes. Why wouldn't I be? Are you... interested in me?"
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"Yes. Yes I am.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "Well, yes. Why wouldn't I be? Are you... interested in me?\""
+        "Response_to": "Well, yes. Why wouldn't I be? Are you... interested in me?"
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"Yes. Yes I am.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "Well, yes. Why wouldn't I be? Are you... interested in me?\""
+        "Response_to": "Well, yes. Why wouldn't I be? Are you... interested in me?"
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"Yes. Yes I am.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "Well, yes. Why wouldn't I be? Are you... interested in me?\""
+        "Response_to": "Well, yes. Why wouldn't I be? Are you... interested in me?"
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"Yes. Yes I am.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "Well, yes. Why wouldn't I be? Are you... interested in me?\""
+        "Response_to": "Well, yes. Why wouldn't I be? Are you... interested in me?"
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"Yes. Yes I am.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "Well, yes. Why wouldn't I be? Are you... interested in me?\""
+        "Response_to": "Well, yes. Why wouldn't I be? Are you... interested in me?"
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"I will. Together, then.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"I am. I'd be glad to stand by your side until the Divines take us, if you'll have me.\""
+        "Response_to": "I am. I'd be glad to stand by your side until the Divines take us, if you'll have me."
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"I will. Together, then.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"I am. I'd be glad to stand by your side until the Divines take us, if you'll have me.\""
+        "Response_to": "I am. I'd be glad to stand by your side until the Divines take us, if you'll have me."
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"I do. My hand is yours.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"You're strong. Clever. I'd be proud to face the challenges of life with you, if you feel the same way.\""
+        "Response_to": "You're strong. Clever. I'd be proud to face the challenges of life with you, if you feel the same way."
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"I do. My hand is yours.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"You're strong. Clever. I'd be proud to face the challenges of life with you, if you feel the same way.\""
+        "Response_to": "You're strong. Clever. I'd be proud to face the challenges of life with you, if you feel the same way."
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"I won't lie. I am.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Won't lie, I am. And you?\""
+        "Response_to": "Won't lie, I am. And you?"
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"I won't lie. I am.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Won't lie, I am. And you?\""
+        "Response_to": "Won't lie, I am. And you?"
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"I won't lie. I am.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Won't lie, I am. And you?\""
+        "Response_to": "Won't lie, I am. And you?"
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"I won't lie. I am.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Won't lie, I am. And you?\""
+        "Response_to": "Won't lie, I am. And you?"
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"I'm not interested. Sorry.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"You have a kind heart. I'd be honored to walk by your side until the trees themselves fade away, if you would have me.\""
+        "Response_to": "You have a kind heart. I'd be honored to walk by your side until the trees themselves fade away, if you would have me."
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"I'm not interested. Sorry.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"You have a kind heart. I'd be honored to walk by your side until the trees themselves fade away, if you would have me.\""
+        "Response_to": "You have a kind heart. I'd be honored to walk by your side until the trees themselves fade away, if you would have me."
     },
     {
         "Speaker": "Player",
@@ -6353,427 +6083,427 @@
         "Speaker": "Player",
         "Dialogue": "\"I don't think I'm game.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"I'd be a fool to turn down a chance of marrying you. I'm game if you're game!\""
+        "Response_to": "I'd be a fool to turn down a chance of marrying you. I'm game if you're game!"
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"No, I'm not.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "Well, yes. Why wouldn't I be? Are you... interested in me?\""
+        "Response_to": "Well, yes. Why wouldn't I be? Are you... interested in me?"
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"No, I'm not.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "Well, yes. Why wouldn't I be? Are you... interested in me?\""
+        "Response_to": "Well, yes. Why wouldn't I be? Are you... interested in me?"
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"No, I'm not.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "Well, yes. Why wouldn't I be? Are you... interested in me?\""
+        "Response_to": "Well, yes. Why wouldn't I be? Are you... interested in me?"
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"No, I'm not.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "Well, yes. Why wouldn't I be? Are you... interested in me?\""
+        "Response_to": "Well, yes. Why wouldn't I be? Are you... interested in me?"
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"No, I'm not.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "Well, yes. Why wouldn't I be? Are you... interested in me?\""
+        "Response_to": "Well, yes. Why wouldn't I be? Are you... interested in me?"
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"No, I'm not.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "Well, yes. Why wouldn't I be? Are you... interested in me?\""
+        "Response_to": "Well, yes. Why wouldn't I be? Are you... interested in me?"
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"No, I'm not.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "Well, yes. Why wouldn't I be? Are you... interested in me?\""
+        "Response_to": "Well, yes. Why wouldn't I be? Are you... interested in me?"
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"No, I'm not.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "Well, yes. Why wouldn't I be? Are you... interested in me?\""
+        "Response_to": "Well, yes. Why wouldn't I be? Are you... interested in me?"
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"I'm sorry. I'm not interested.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"I am. I'd be glad to stand by your side until the Divines take us, if you'll have me.\""
+        "Response_to": "I am. I'd be glad to stand by your side until the Divines take us, if you'll have me."
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"I'm sorry. I'm not interested.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"I am. I'd be glad to stand by your side until the Divines take us, if you'll have me.\""
+        "Response_to": "I am. I'd be glad to stand by your side until the Divines take us, if you'll have me."
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"I don't. Sorry.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"You're strong. Clever. I'd be proud to face the challenges of life with you, if you feel the same way.\""
+        "Response_to": "You're strong. Clever. I'd be proud to face the challenges of life with you, if you feel the same way."
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"I don't. Sorry.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"You're strong. Clever. I'd be proud to face the challenges of life with you, if you feel the same way.\""
+        "Response_to": "You're strong. Clever. I'd be proud to face the challenges of life with you, if you feel the same way."
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"I'm not.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Won't lie, I am. And you?\""
+        "Response_to": "Won't lie, I am. And you?"
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"I'm not.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Won't lie, I am. And you?\""
+        "Response_to": "Won't lie, I am. And you?"
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"I'm not.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Won't lie, I am. And you?\""
+        "Response_to": "Won't lie, I am. And you?"
     },
     {
         "Speaker": "Player",
         "Dialogue": "\"I'm not.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Won't lie, I am. And you?\""
+        "Response_to": "Won't lie, I am. And you?"
     },
     {
         "Speaker": "MaleArgonian",
         "Dialogue": "As short as life can be in this land, we will have each other.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Together until the end, then.\""
+        "Response_to": "Together until the end, then."
     },
     {
         "Speaker": "FemaleArgonian",
         "Dialogue": "As short as life can be in this land, we will have each other.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Together until the end, then.\""
+        "Response_to": "Together until the end, then."
     },
     {
         "Speaker": "MaleCondescending",
         "Dialogue": "\"Good. The two of us then. All of Skyrim should get ready to stand aside.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"I'd be more than interested.\""
+        "Response_to": "I'd be more than interested."
     },
     {
         "Speaker": "FemaleElfHaughty",
         "Dialogue": "\"Good. The two of us then. All of Skyrim should get ready to stand aside.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"I'd be more than interested.\""
+        "Response_to": "I'd be more than interested."
     },
     {
         "Speaker": "FemaleCondescending",
         "Dialogue": "\"Good. The two of us then. All of Skyrim should get ready to stand aside.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"I'd be more than interested.\""
+        "Response_to": "I'd be more than interested."
     },
     {
         "Speaker": "FemaleShrill",
         "Dialogue": "\"Good. The two of us then. All of Skyrim should get ready to stand aside.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"I'd be more than interested.\""
+        "Response_to": "I'd be more than interested."
     },
     {
         "Speaker": "MaleCoward",
         "Dialogue": "\"Good. The two of us then. All of Skyrim should get ready to stand aside.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"I'd be more than interested.\""
+        "Response_to": "I'd be more than interested."
     },
     {
         "Speaker": "FemaleCoward",
         "Dialogue": "\"Good. The two of us then. All of Skyrim should get ready to stand aside.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"I'd be more than interested.\""
+        "Response_to": "I'd be more than interested."
     },
     {
         "Speaker": "MaleSlyCynical",
         "Dialogue": "\"Good. The two of us then. All of Skyrim should get ready to stand aside.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"I'd be more than interested.\""
+        "Response_to": "I'd be more than interested."
     },
     {
         "Speaker": "FemaleSultry",
         "Dialogue": "\"Good. The two of us then. All of Skyrim should get ready to stand aside.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"I'd be more than interested.\""
+        "Response_to": "I'd be more than interested."
     },
     {
         "Speaker": "MaleDrunk",
         "Dialogue": "\"Well, look at us, getting married. Life in Skyrim ain't all bad, huh?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"I'm game.\""
+        "Response_to": "I'm game."
     },
     {
         "Speaker": "MaleCommoner",
         "Dialogue": "\"It's settled then. Brief as life can be in Skyrim, at least we'll have each other.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Yes. Yes I am.\""
+        "Response_to": "Yes. Yes I am."
     },
     {
         "Speaker": "MaleEvenTonedAccented",
         "Dialogue": "\"It's settled then. Brief as life can be in Skyrim, at least we'll have each other.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Yes. Yes I am.\""
+        "Response_to": "Yes. Yes I am."
     },
     {
         "Speaker": "MaleCommonerAccented",
         "Dialogue": "\"It's settled then. Brief as life can be in Skyrim, at least we'll have each other.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Yes. Yes I am.\""
+        "Response_to": "Yes. Yes I am."
     },
     {
         "Speaker": "FemaleEvenToned",
         "Dialogue": "\"It's settled then. Brief as life can be in Skyrim, at least we'll have each other.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Yes. Yes I am.\""
+        "Response_to": "Yes. Yes I am."
     },
     {
         "Speaker": "FemaleCommoner",
         "Dialogue": "\"It's settled then. Brief as life can be in Skyrim, at least we'll have each other.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Yes. Yes I am.\""
+        "Response_to": "Yes. Yes I am."
     },
     {
         "Speaker": "MaleYoungEager",
         "Dialogue": "\"It's settled then. Brief as life can be in Skyrim, at least we'll have each other.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Yes. Yes I am.\""
+        "Response_to": "Yes. Yes I am."
     },
     {
         "Speaker": "MaleEvenToned",
         "Dialogue": "\"It's settled then. Brief as life can be in Skyrim, at least we'll have each other.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Yes. Yes I am.\""
+        "Response_to": "Yes. Yes I am."
     },
     {
         "Speaker": "FemaleYoungEager",
         "Dialogue": "\"It's settled then. Brief as life can be in Skyrim, at least we'll have each other.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"Yes. Yes I am.\""
+        "Response_to": "Yes. Yes I am."
     },
     {
         "Speaker": "MaleNord",
         "Dialogue": "\"Together.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"I will. Together, then.\""
+        "Response_to": "I will. Together, then."
     },
     {
         "Speaker": "FemaleNord",
         "Dialogue": "\"Together.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"I will. Together, then.\""
+        "Response_to": "I will. Together, then."
     },
     {
         "Speaker": "MaleOrc",
         "Dialogue": "\"And mine is yours.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"I do. My hand is yours.\""
+        "Response_to": "I do. My hand is yours."
     },
     {
         "Speaker": "FemaleOrc",
         "Dialogue": "\"And mine is yours.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"I do. My hand is yours.\""
+        "Response_to": "I do. My hand is yours."
     },
     {
         "Speaker": "MaleBrute",
         "Dialogue": "\"Then it's settled. You and me.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"I won't lie. I am.\""
+        "Response_to": "I won't lie. I am."
     },
     {
         "Speaker": "FemaleCommander",
         "Dialogue": "\"Then it's settled. You and me.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"I won't lie. I am.\""
+        "Response_to": "I won't lie. I am."
     },
     {
         "Speaker": "MaleDarkElf",
         "Dialogue": "\"Then it's settled. You and me.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"I won't lie. I am.\""
+        "Response_to": "I won't lie. I am."
     },
     {
         "Speaker": "FemaleDarkElf",
         "Dialogue": "\"Then it's settled. You and me.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"I won't lie. I am.\""
+        "Response_to": "I won't lie. I am."
     },
     {
         "Speaker": "MaleArgonian",
         "Dialogue": "\"Very well. I am poorer for it.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"I'm not interested. Sorry.\""
+        "Response_to": "I'm not interested. Sorry."
     },
     {
         "Speaker": "FemaleArgonian",
         "Dialogue": "\"Very well. I am poorer for it.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"I'm not interested. Sorry.\""
+        "Response_to": "I'm not interested. Sorry."
     },
     {
         "Speaker": "MaleCondescending",
         "Dialogue": "\"Waste of time, then.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"No. Sorry.\""
+        "Response_to": "No. Sorry."
     },
     {
         "Speaker": "FemaleElfHaughty",
         "Dialogue": "\"Waste of time, then.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"No. Sorry.\""
+        "Response_to": "No. Sorry."
     },
     {
         "Speaker": "FemaleCondescending",
         "Dialogue": "\"Waste of time, then.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"No. Sorry.\""
+        "Response_to": "No. Sorry."
     },
     {
         "Speaker": "FemaleShrill",
         "Dialogue": "\"Waste of time, then.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"No. Sorry.\""
+        "Response_to": "No. Sorry."
     },
     {
         "Speaker": "MaleCoward",
         "Dialogue": "\"Waste of time, then.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"No. Sorry.\""
+        "Response_to": "No. Sorry."
     },
     {
         "Speaker": "FemaleCoward",
         "Dialogue": "\"Waste of time, then.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"No. Sorry.\""
+        "Response_to": "No. Sorry."
     },
     {
         "Speaker": "MaleSlyCynical",
         "Dialogue": "\"Waste of time, then.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"No. Sorry.\""
+        "Response_to": "No. Sorry."
     },
     {
         "Speaker": "FemaleSultry",
         "Dialogue": "\"Waste of time, then.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"No. Sorry.\""
+        "Response_to": "No. Sorry."
     },
     {
         "Speaker": "MaleDrunk",
         "Dialogue": "\"What are you, some kind of tease? Stendarr's Mercy....\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"I don't think I'm game.\""
+        "Response_to": "I don't think I'm game."
     },
     {
         "Speaker": "MaleCommoner",
         "Dialogue": "\"Oh. I'm sorry I said anything, then.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"No, I'm not.\""
+        "Response_to": "No, I'm not."
     },
     {
         "Speaker": "MaleEvenTonedAccented",
         "Dialogue": "\"Oh. I'm sorry I said anything, then.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"No, I'm not.\""
+        "Response_to": "No, I'm not."
     },
     {
         "Speaker": "MaleCommonerAccented",
         "Dialogue": "\"Oh. I'm sorry I said anything, then.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"No, I'm not.\""
+        "Response_to": "No, I'm not."
     },
     {
         "Speaker": "FemaleEvenToned",
         "Dialogue": "\"Oh. I'm sorry I said anything, then.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"No, I'm not.\""
+        "Response_to": "No, I'm not."
     },
     {
         "Speaker": "FemaleCommoner",
         "Dialogue": "\"Oh. I'm sorry I said anything, then.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"No, I'm not.\""
+        "Response_to": "No, I'm not."
     },
     {
         "Speaker": "MaleYoungEager",
         "Dialogue": "\"Oh. I'm sorry I said anything, then.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"No, I'm not.\""
+        "Response_to": "No, I'm not."
     },
     {
         "Speaker": "MaleEvenToned",
         "Dialogue": "\"Oh. I'm sorry I said anything, then.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"No, I'm not.\""
+        "Response_to": "No, I'm not."
     },
     {
         "Speaker": "FemaleYoungEager",
         "Dialogue": "\"Oh. I'm sorry I said anything, then.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"No, I'm not.\""
+        "Response_to": "No, I'm not."
     },
     {
         "Speaker": "MaleNord",
         "Dialogue": "I see.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"I'm sorry. I'm not interested.\""
+        "Response_to": "I'm sorry. I'm not interested."
     },
     {
         "Speaker": "FemaleNord",
         "Dialogue": "I see.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"I'm sorry. I'm not interested.\""
+        "Response_to": "I'm sorry. I'm not interested."
     },
     {
         "Speaker": "MaleOrc",
         "Dialogue": "\"If that is your wish.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"I don't. Sorry.\""
+        "Response_to": "I don't. Sorry."
     },
     {
         "Speaker": "FemaleOrc",
         "Dialogue": "\"If that is your wish.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"I don't. Sorry.\""
+        "Response_to": "I don't. Sorry."
     },
     {
         "Speaker": "MaleBrute",
         "Dialogue": "\"Your choice.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"I'm not.\""
+        "Response_to": "I'm not."
     },
     {
         "Speaker": "FemaleCommander",
         "Dialogue": "\"Your choice.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"I'm not.\""
+        "Response_to": "I'm not."
     },
     {
         "Speaker": "MaleDarkElf",
         "Dialogue": "\"Your choice.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"I'm not.\""
+        "Response_to": "I'm not."
     },
     {
         "Speaker": "FemaleDarkElf",
         "Dialogue": "\"Your choice.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "\"I'm not.\""
+        "Response_to": "I'm not."
     },
     {
         "Speaker": "MaleArgonian",
@@ -9225,52 +8955,52 @@
     {
         "Speaker": "Guard",
         "Dialogue": "\"Go fiddling with any locks around here, we're going to have a real problem.\"",
-        "Event": "a Guard reacts to the players high skill level in Lockpicking"
+        "Event": "a Guard reacting to the players high skill level in Lockpicking"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"You're like me, eh? Don't fancy those clunky two-handed weapons.\"",
-        "Event": "a Guard reacts to the players high skill level in the use of one-handed weapons"
+        "Event": "a Guard reacting to the players high skill level in the use of one-handed weapons"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"I find your hand in my pocket, I'm going to cut it off.\"",
-        "Event": "a Guard reacts to the players high skill level in Pickpocketing"
+        "Event": "a Guard reacting to the players high skill level in Pickpocketing"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"I know your kind, always sneaking about.\"",
-        "Event": "a Guard reacts to the players high skill level in Pickpocketing"
+        "Event": "a Guard reacting to the players high skill level in Pickpocketing"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"I have a lot of respect for the Restoration School. Skyrim could use more healers.\"",
-        "Event": "a Guard reacts to the players high skill level in Restoration"
+        "Event": "a Guard reacting to the players high skill level in Restoration"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Hands to yourself, sneak thief.\"",
-        "Event": "a Guard reacts to the players high skill level in Pickpocketing"
+        "Event": "a Guard reacting to the players high skill level in Pickpocketing"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Hands to yourself, sneak thief.\"",
-        "Event": "a Guard reacts to the players high skill level in Sneaking"
+        "Event": "a Guard reacting to the players high skill level in Sneaking"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Don't think you can barter with me like I'm one of those damned shopkeepers.\"",
-        "Event": "a Guard reacts to the players high skill level in the use of Speech"
+        "Event": "a Guard reacting to the players high skill level in the use of Speech"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Heard about you and your honeyed words...\"",
-        "Event": "a Guard reacts to the players high skill level in the use of Speech"
+        "Event": "a Guard reacting to the players high skill level in the use of Speech"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"The gods gave you two hands, and you use them both for your weapon. I can respect that.\"",
-        "Event": "a Guard reacts to the players high skill level in the use of Two-Handed weapons"
+        "Event": "a Guard reacting to the players high skill level in the use of Two-Handed weapons"
     },
     {
         "Speaker": "Stormcloak Guard",

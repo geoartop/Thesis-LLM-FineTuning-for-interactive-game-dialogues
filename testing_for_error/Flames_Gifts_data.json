@@ -2,197 +2,197 @@
     {
         "Speaker": "FemaleArgonian",
         "Dialogue": "\"It should be careful with those flames.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleArgonian",
         "Dialogue": "\"It is planning on starting a fire?\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleBrute",
         "Dialogue": "\"Hey now, you be careful with that fire.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleChild",
         "Dialogue": "\"You're not supposed to play with fire, you know.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleChild",
         "Dialogue": "\"I wish I could play with fire like that.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleCommander",
         "Dialogue": "\"Take care not to set anything on fire.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleCommander",
         "Dialogue": "\"Take care with those flames.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleNordCommander",
         "Dialogue": "\"Take care with those flames.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleCommoner",
         "Dialogue": "\"You're not afraid you'll set fire to something?\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleCommoner",
         "Dialogue": "\"Mind yourself with that fire. Don't burn anything down, now.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleCommonerAccented",
         "Dialogue": "\"Mind yourself with that fire. Don't burn anything down, now.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleCondescending",
         "Dialogue": "\"What kind of fool plays with fire like that?\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleCondescending",
         "Dialogue": "\"Have a fascination with fire, do we?\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleCoward",
         "Dialogue": "\"You're not planning on burning anything with that, are you?\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleCoward",
         "Dialogue": "\"Umm... don't suppose you'd want to take that fire somewhere else? You know... somewhere away from me?\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleDarkElf",
         "Dialogue": "\"Careful not to torch anything important.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleDarkElf",
         "Dialogue": "\"Careful with those flames, unless you plan on torching something.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleDrunk",
         "Dialogue": "\"Fire!\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleElfHaughty",
         "Dialogue": "\"I do hope you know what you're doing with those flames...\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleElfHaughty",
         "Dialogue": "\"I do hope you know what your doing with those flames. It would be quite a shame if something caught fire.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleEvenToned",
         "Dialogue": "\"Try not to set anything on fire, all right?\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleEvenToned",
         "Dialogue": "\"Don't set anything on fire, all right?\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleEvenTonedAccented",
         "Dialogue": "\"Don't set anything on fire, all right?\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleKhajiit",
         "Dialogue": "\"Fire is not a thing to be played with...\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleKhajiit",
         "Dialogue": "\"Fire is not a toy.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleNord",
         "Dialogue": "\"Careful with that fire.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleNord",
         "Dialogue": "\"Don't go setting the place on fire, okay?\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleOldGrumpy",
         "Dialogue": "\"What's the matter with you? You want to start a blaze?\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleOldGrumpy",
         "Dialogue": "\"Plan on burning everything down, do you? Damn fool.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleOldKindly",
         "Dialogue": "\"Dear, you really ought to be careful with fire.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleOldKindly",
         "Dialogue": "\"You should be more careful with those flames.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleOrc",
         "Dialogue": "\"Better not set anything on fire.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleOrc",
         "Dialogue": "\"Those flames get out of control, and you're gonna wish they hadn't.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleShrill",
         "Dialogue": "\"What do you think you're doing? Knock it off with the flames already.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleSlyCynical",
         "Dialogue": "\"Careful, now. Wouldn't want someone to get... burned.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleSoldier",
         "Dialogue": "\"Careful with that fire.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleSultry",
         "Dialogue": "\"Is it getting hot, or is it just me?\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleYoungEager",
         "Dialogue": "\"Whoa. Hope you know what you're doing with those flames there.\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleYoungEager",
         "Dialogue": "\"You've got that fire under control. Right?\"",
-        "Event": "the Player  walking around with flame"
+        "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleArgonian",

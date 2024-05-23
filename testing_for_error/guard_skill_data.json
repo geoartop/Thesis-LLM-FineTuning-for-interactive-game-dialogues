@@ -52,51 +52,51 @@
     {
         "Speaker": "Guard",
         "Dialogue": "\"Go fiddling with any locks around here, we're going to have a real problem.\"",
-        "Event": "a Guard reacts to the players high skill level in Lockpicking"
+        "Event": "a Guard reacting to the players high skill level in Lockpicking"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"You're like me, eh? Don't fancy those clunky two-handed weapons.\"",
-        "Event": "a Guard reacts to the players high skill level in the use of one-handed weapons"
+        "Event": "a Guard reacting to the players high skill level in the use of one-handed weapons"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"I find your hand in my pocket, I'm going to cut it off.\"",
-        "Event": "a Guard reacts to the players high skill level in Pickpocketing"
+        "Event": "a Guard reacting to the players high skill level in Pickpocketing"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"I know your kind, always sneaking about.\"",
-        "Event": "a Guard reacts to the players high skill level in Pickpocketing"
+        "Event": "a Guard reacting to the players high skill level in Pickpocketing"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"I have a lot of respect for the Restoration School. Skyrim could use more healers.\"",
-        "Event": "a Guard reacts to the players high skill level in Restoration"
+        "Event": "a Guard reacting to the players high skill level in Restoration"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Hands to yourself, sneak thief.\"",
-        "Event": "a Guard reacts to the players high skill level in Pickpocketing"
+        "Event": "a Guard reacting to the players high skill level in Pickpocketing"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Hands to yourself, sneak thief.\"",
-        "Event": "a Guard reacts to the players high skill level in Sneaking"
+        "Event": "a Guard reacting to the players high skill level in Sneaking"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Don't think you can barter with me like I'm one of those damned shopkeepers.\"",
-        "Event": "a Guard reacts to the players high skill level in the use of Speech"
+        "Event": "a Guard reacting to the players high skill level in the use of Speech"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Heard about you and your honeyed words...\"",
-        "Event": "a Guard reacts to the players high skill level in the use of Speech"
+        "Event": "a Guard reacting to the players high skill level in the use of Speech"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"The gods gave you two hands, and you use them both for your weapon. I can respect that.\"",
-        "Event": "a Guard reacts to the players high skill level in the use of Two-Handed weapons"
+        "Event": "a Guard reacting to the players high skill level in the use of Two-Handed weapons"
     }
 ]
