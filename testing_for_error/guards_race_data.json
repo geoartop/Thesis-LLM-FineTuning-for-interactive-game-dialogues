@@ -3,14 +3,14 @@
         "Speaker": "Guard",
         "Dialogue": "\"What is it, Argonian?\"",
         "Event": "a Guard reacting to players race",
-        "Condition": "nan",
+        "Condition": null,
         "Race": "Argonian"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Stay out of trouble, Argonian.\"",
         "Event": "a Guard reacting to players race",
-        "Condition": "nan",
+        "Condition": null,
         "Race": "Argonian"
     },
     {
@@ -66,14 +66,14 @@
         "Speaker": "Guard",
         "Dialogue": "\"Stay out of trouble, Khajiit.\"",
         "Event": "a Guard reacting to players race",
-        "Condition": "nan",
+        "Condition": null,
         "Race": "Khajiit"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"What is it, Khajiit?\"",
         "Event": "a Guard reacting to players race",
-        "Condition": "nan",
+        "Condition": null,
         "Race": "Khajiit"
     },
     {
@@ -87,14 +87,14 @@
         "Speaker": "Guard",
         "Dialogue": "\"Stay out of trouble, Redguard.\"",
         "Event": "a Guard reacting to players race",
-        "Condition": "nan",
+        "Condition": null,
         "Race": "Redguard"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"What is it, Redguard?\"",
         "Event": "a Guard reacting to players race",
-        "Condition": "nan",
+        "Condition": null,
         "Race": "Redguard"
     },
     {
@@ -115,14 +115,14 @@
         "Speaker": "Guard",
         "Dialogue": "\"Stay out of trouble, Orc.\"",
         "Event": "a Guard reacting to players race",
-        "Condition": "nan",
+        "Condition": null,
         "Race": "Orc"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"What is it, Orc?\"",
         "Event": "a Guard reacting to players race",
-        "Condition": "nan",
+        "Condition": null,
         "Race": "Orc"
     }
 ]

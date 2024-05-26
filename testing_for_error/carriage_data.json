@@ -117,13 +117,13 @@
         "Speaker": "Carriage Driver",
         "Dialogue": "\"If you don't mind a piece of advice, I'd stay out of trouble in Markarth. They'll toss you in the Cidhna Mine, and you'll never get out.\"",
         "Event": "the Player is riding a Carriage in Markath",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Carriage Driver",
         "Dialogue": "\"You'll want to watch out for the Forsworn if you do any travelling around the Reach. Bloodthirsty bastards, them.\"",
         "Event": "the Player is riding a Carriage in Markath",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Carriage Driver",
@@ -141,13 +141,13 @@
         "Speaker": "Carriage Driver",
         "Dialogue": "\"You'll want to watch yourself in Riften. A lot of ways to get yourself in trouble in that town.\"",
         "Event": "the Player is riding a Carriage in Riften",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Carriage Driver",
         "Dialogue": "\"I might have to stop and get myself a pint of Black-Briar mead while I'm in Riften. Almost worth the trip all by itself.\"",
         "Event": "the Player is riding a Carriage in Riften",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Carriage Driver",
@@ -171,13 +171,13 @@
         "Speaker": "Carriage Driver",
         "Dialogue": "\"Solitude's famous for it's Bards College. Worth a visit if you've never been. Some of them can sing just as pretty as a lark.\"",
         "Event": "the Player is riding a Carriage in Solitude",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Carriage Driver",
         "Dialogue": "\"Solitude's a big port town, you know? Full of sailors and their tales of far away lands. Most of 'em's foreigners and liars, of course.\"",
         "Event": "the Player is riding a Carriage in Solitude",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Carriage Driver",
@@ -195,7 +195,7 @@
         "Speaker": "Carriage Driver",
         "Dialogue": "\"When I'm in Whiterun, I always visit the Gildergreen. Never hurts to pay your respects to Lady Kynareth, particularly in my line of work.\"",
         "Event": "the Player is riding a Carriage in Whiterun",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Carriage Driver",
@@ -213,7 +213,7 @@
         "Speaker": "Carriage Driver",
         "Dialogue": "\"Windhelm's a bit cold for my tastes. And I ain't talking about the weather. You're not from Windhelm, are you?\"",
         "Event": "the Player is riding a Carriage in Windhelm",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Carriage Driver",

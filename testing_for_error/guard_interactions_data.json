@@ -3,70 +3,70 @@
         "Speaker": "Guard",
         "Dialogue": "\"<Town>'s under my protection. You watch yourself, now.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Any Town"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"You've come to Dawnstar at a strange time, friend. Seems everyone in this town is having nightmares...\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Dawnstar"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"The people here are still plagued with nightmares. It's... unnatural.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Dawnstar"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Dangerous post, Dawnstar. If the bandits don't get you, the animals will.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Dawnstar"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Old lady Frida is a grouch, but she sure can whip up a cure for the Rattles fast.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Dawnstar"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"You should talk to Rustleif. Get some proper steel.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Dawnstar"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Outsiders aren't trusted in Markarth. Best keep that in mind.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Markarth"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"This is Markarth, traveler. Safest city in the Reach.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Markarth"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Can't believe I'm posted here. Even the beds are made of stone.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Markarth"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Break the law in Markarth, and it's off to Cidhna Mine with you.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Markarth"
     },
     {
@@ -101,28 +101,28 @@
         "Speaker": "Guard",
         "Dialogue": "\"Caught a case of Rockjoint, once. Bothela at the Hag's Cure fixed me right up.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Markarth"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Let me guess - you need a drink. It's the Silver-Blood Inn you're looking for.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Markarth"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"You should see that Orc over in Understone Keep, have him forge you some new armor...\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Markarth"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"By Shor, you're hauling around a lot of junk. Best stop in at the Arnleif and Sons Trading Company, sell it off.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Markarth"
     },
     {
@@ -143,7 +143,7 @@
         "Speaker": "Guard",
         "Dialogue": "\"Whole dwarven city underneath the keep. Nchuand-Zel. Best steer clear if you don't want a Steam Centurion carving you up.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Markarth"
     },
     {
@@ -164,70 +164,70 @@
         "Speaker": "Guard",
         "Dialogue": "\"City's quiet enough now. But when the sun goes down, you best be on your guard.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Riften"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Careful. Riften's not the safest place for a nighttime stroll.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Riften"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"So is it Riften or Rifton? This place has changed its name so many times, I can't even remember.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Riften"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"You could say the Ratway is the city under the city. Dark, dangerous, and no place for decent folk.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Riften"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"There's fine steel at the Scorched Hammer, if you fancy a new blade.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Riften"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"If it's a bed you need, talk to Keerava in the Bee and Barb. She'll set you right.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Riften"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Need a drink, you go to the Bee and Barb. Stay out of the Ragged Flagon, Stay out of the Ratway.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Riften"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"There's an apothecary in town, yeah. But it's down on the lower walkway, so stay sharp if you go down there.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Riften"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Welcome to Riften, home of the Thieves Guild. Or so they'd have you believe. It's all lies. They're just thugs... vermin, creeping around the Ratway.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Riften"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"The Thieves Guild used to run this city. Now they're nothing but braggarts and bullies, rotting to death down in their Ratway...\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Riften"
     },
     {
@@ -248,49 +248,49 @@
         "Speaker": "Guard",
         "Dialogue": "\"If you need potions, head over to Angeline's Aromatics.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Solitude"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"I don't abide fancy clothes, but you look like you might. I hear Radiant Raiment has a large selection.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Solitude"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"The Winking Skeever's got warm beds and cold mead. You look like you could use both.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Solitude"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"You can sell off that junk at Bits and Pieces.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Solitude"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"If its arms or armor you need, see Beirand at Castle Dour. Bloody good blacksmith, that one.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Solitude"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Been up to the Blue Palace? It's a sight to see, even if it is filled with fops...\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Solitude"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"The Emperor's cousin Vittoria Vici's getting married soon. The reception is public, anyone in Solitude can attend.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Solitude"
     },
     {
@@ -311,35 +311,35 @@
         "Speaker": "Guard",
         "Dialogue": "\"If you need potions, you should try Arcadia's Cauldron.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Whiterun"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"You look tired, friend. The Bannered Mare has beds for rent.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Whiterun"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"The Bannered Mare's got warm beds and cold mead. You look like you could use both.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Whiterun"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Need a blade? You should talk to Adrianne, at the forge.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Whiterun"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Need supplies? See Belethor at his store. Sleazy little man, but he has good stock.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Whiterun"
     },
     {
@@ -353,7 +353,7 @@
         "Speaker": "Guard",
         "Dialogue": "\"I worry about the other settlements in the hold. Unwalled, lightly manned - prime targets for those damned dragons.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Whiterun"
     },
     {
@@ -381,77 +381,77 @@
         "Speaker": "Guard",
         "Dialogue": "\"Cause trouble in Whiterun, and I'll haul you into the Dragonsreach dungeon myself.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Whiterun"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"You should talk to the Jarl up in Dragonsreach, lend any aid you can.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Whiterun"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"The guards in Dragonsreach say you've aided the Jarl. On behalf of Whiterun, I thank you.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Whiterun"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"I've seen you helping the Jarl. If only all visitors to Whiterun were as noble.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Whiterun"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"You should unload some of that unwanted gear. Head over to Sadri's Used Wares, talk to the Elf.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Windhelm"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"We got a nickname for anyone who trifles with us guards here in Windhelm - \"Suicide.\" \"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Windhelm"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"The Dunmer get their drinks down at the New Gnisis Cornerclub. Why they can't just call it a tavern is beyond me...\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Windhelm"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Stay away from the Aretino Residence. That place is cursed.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Windhelm"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"My heart goes out to Clan Shatter-Shield. Kin murdered, family warhammer stolen... There's no fairness in all that.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Windhelm"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"If it's bed or board you're after, Candlehearth Hall's got both.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Windhelm"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"If you need an apothecary, the White Phial has respectable stock.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Windhelm"
     },
     {
@@ -479,63 +479,63 @@
         "Speaker": "Guard",
         "Dialogue": "\"If you're here for sight-seeing, then you've seen the sights. Might as well head somewhere warmer.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Winterhold"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Take care if you go venturing too far from town. That's a bitter wind coming off the Sea of Ghosts.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Winterhold"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Hard to believe I ever complained about Riften being cold...\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Winterhold"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Beware of Frostmere Crypt, friend. Heard some bandits are living in the ruins now.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Dawnstar"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Giants have been spotted up near Red Road Pass. Best to keep away and avoid it entirely.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Dawnstar"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Travel southeast and you'll find an Orc stronghold, up around the old Dushnikh orichalcum mine.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Markarth"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"There's a small skeever den just east of the city, at Reachwater Rock.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Markarth"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Beware the region northeast, across the river. Forsworn have taken refuge in Broken Tower Redoubt and Red Eagle Redoubt.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Markarth"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"The Forsworn have been spotted to the north, near Bruca's Leap Redoubt.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Markarth"
     },
     {
@@ -549,154 +549,154 @@
         "Speaker": "Guard",
         "Dialogue": "\"There's an evil to the north, friend, and its name is Ragnvald. A tomb like so many in Skyrim, where the dead have found no peace.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Markarth"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"If you journey north, stay well away from Snapleg Cave. Damn Hagravens have infested the place.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Riften"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"There's a foul presence coming from Darklight Tower, southwest of the city. Some say the place is home to necromancers.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Riften"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"City got attacked once by those damned bandits, come east across the lake, from Faldar's Tooth. They won't be trying that again.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Riften"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Best not to go wandering east of the city. Bandits been seen around Broken Helm Hollow.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Riften"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"By the gods, a dragon's been sighted just south of the city, flying around Lost Tongue Overlook.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Riften"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Talk of strange happenings at Autumnshade Clearing, just north of the lake. My guess? Spriggans.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Riften"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"If you must venture southwest, stay clear of Volskygge. It's a cursed place, a tomb where the dead still live...\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Solitude"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"The road to Whiterun's not safe these days. Lots of travelers just.. disappear, south of Dragon Bridge. Can't find a trace of them.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Solitude"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Off the coast a ways to the east, you'll find the wreck of the Brinehammer. Never know what treasures may still be aboard.",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Solitude"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"You heard of Ravenscar Hollow? Cave on the island to the west. Place is a roost for those foul Hagravens.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Solitude"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Pinemoon Cave is down to the southwest, but it ain't fit for exploring. There are stories.. Vampires, some say...\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Solitude"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"The circle of stones to the southwest? That's Secunda's Kiss. The Giants hold it sacred, so tread carefully.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Whiterun"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Looking to do some hunting? Avoid Brittleshin Pass. It's southeast of here.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Whiterun"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"If you're heading east, stay clear of Hillgrund's Tomb. Thing about those old crypts - the dead have trouble staying that way.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Whiterun"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Careful if you cross the river to the east. Old Hajvarr Iron-Hand and his brigands are holed up in that cave, White River Watch.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Whiterun"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"You know I saw something near Shimmermist Cave to the northeast. Some sort of creature. Small and wicked, never seen its like before.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Whiterun"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Yesterday, I saw a dragon fly right over the city. Headed northeast. Toward Shearpoint, by the looks of it.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Whiterun"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"You hear the news? There's a dragon roosting up on Mount Anthor, to the northwest.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Windhelm"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Tell me you've seen them. Those... things. Small and evil, like something out of a nightmare. They come from Stillborn Cave, to the north. I know it.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Windhelm"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Maybe you've seen masts sticking out of the water to the northeast? That would be the Wreck of the Winter War. Fine vessel, back in its day.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Windhelm"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"South of here, and west of the road, lies Cronvangr Cave. Stay away from that cursed place, and the vampires that call it home.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Windhelm"
     },
     {
@@ -710,21 +710,21 @@
         "Speaker": "Guard",
         "Dialogue": "\"I've no problem with Orcs. But that stronghold they've got in the southeast? Narzulbur? It's an affront to my people.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Windhelm"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Across the river to the northeast lies Yngol Barrow. Stear clear of the foul place, lest the walking dead claim you as their own.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Windhelm"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"The Eye of Talos was a fine ship, once. Now it lies wrecked, off an island just north of here.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Windhelm"
     }
 ]

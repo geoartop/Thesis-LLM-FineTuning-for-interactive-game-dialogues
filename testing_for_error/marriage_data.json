@@ -3,163 +3,163 @@
         "Speaker": "MaleArgonian",
         "Dialogue": "\"Is that Lady Mara's amulet? I'm shocked a fine person like you isn't married already.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "FemaleArgonian",
         "Dialogue": "\"Is that Lady Mara's amulet? I'm shocked a fine person like you isn't married already.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "MaleCondescending",
         "Dialogue": "\"Look at you. Wearing an Amulet of Mara. Are you saying you're available?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "FemaleElfHaughty",
         "Dialogue": "\"Look at you. Wearing an Amulet of Mara. Are you saying you're available?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "FemaleCondescending",
         "Dialogue": "\"Look at you. Wearing an Amulet of Mara. Are you saying you're available?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "FemaleShrill",
         "Dialogue": "\"Look at you. Wearing an Amulet of Mara. Are you saying you're available?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "MaleCoward",
         "Dialogue": "\"Look at you. Wearing an Amulet of Mara. Are you saying you're available?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "FemaleCoward",
         "Dialogue": "\"Look at you. Wearing an Amulet of Mara. Are you saying you're available?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "MaleSlyCynical",
         "Dialogue": "\"Look at you. Wearing an Amulet of Mara. Are you saying you're available?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "FemaleSultry",
         "Dialogue": "\"Look at you. Wearing an Amulet of Mara. Are you saying you're available?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "MaleDrunk",
         "Dialogue": "\"You're wearing Mara's amulet? You? I'd marry you. I'd marry you twice.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "MaleCommoner",
         "Dialogue": "\"Is that an Amulet of Mara? I'm surprised someone like you isn't spoken for.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "MaleEvenTonedAccented",
         "Dialogue": "\"Is that an Amulet of Mara? I'm surprised someone like you isn't spoken for.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "MaleCommonerAccented",
         "Dialogue": "\"Is that an Amulet of Mara? I'm surprised someone like you isn't spoken for.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "FemaleEvenToned",
         "Dialogue": "\"Is that an Amulet of Mara? I'm surprised someone like you isn't spoken for.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "FemaleCommoner",
         "Dialogue": "\"Is that an Amulet of Mara? I'm surprised someone like you isn't spoken for.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "MaleYoungEager",
         "Dialogue": "\"Is that an Amulet of Mara? I'm surprised someone like you isn't spoken for.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "MaleEvenToned",
         "Dialogue": "\"Is that an Amulet of Mara? I'm surprised someone like you isn't spoken for.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "FemaleYoungEager",
         "Dialogue": "\"Is that an Amulet of Mara? I'm surprised someone like you isn't spoken for.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "MaleNord",
         "Dialogue": "\"An Amulet of Mara? You're not married? Surprising.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "FemaleNord",
         "Dialogue": "\"An Amulet of Mara? You're not married? Surprising.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "MaleOrc",
         "Dialogue": "\"That amulet. I've seen the Nords wear these when they're looking to marry. With your strength, you should have no trouble.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "FemaleOrc",
         "Dialogue": "\"That amulet. I've seen the Nords wear these when they're looking to marry. With your strength, you should have no trouble.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "MaleBrute",
         "Dialogue": "\"An Amulet of Mara, you're looking for marriage, then?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "FemaleCommander",
         "Dialogue": "\"An Amulet of Mara, you're looking for marriage, then?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "MaleDarkElf",
         "Dialogue": "\"An Amulet of Mara, you're looking for marriage, then?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "FemaleDarkElf",
         "Dialogue": "\"An Amulet of Mara, you're looking for marriage, then?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "Player",

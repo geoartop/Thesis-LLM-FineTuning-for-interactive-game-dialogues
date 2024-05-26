@@ -147,31 +147,31 @@
         "Speaker": "OrcMiner",
         "Dialogue": "\"I'm here to mine, outlander. So unless you want to dig, get out.\"",
         "Event": "the Player talking to a miner Orc",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "OrcMiner",
         "Dialogue": "\"I have metal to dig.\"",
         "Event": "the Player talking to a miner Orc",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "OrcMiner",
         "Dialogue": "\"Malacath has given me the task to mine. Good ore brings strength to our people.\"",
         "Event": "the Player talking to a miner Orc",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "OrcMiner",
         "Dialogue": "\"Every Orc learns the heavy labor of mining. All spend years in the caves.\"",
         "Event": "the Player talking to a miner Orc",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "OrcMiner",
         "Dialogue": "\"The mines are hard, but Malacath rewards those who rise to the challenge.\"",
         "Event": "the Player talking to a miner Orc",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleKhajiit",

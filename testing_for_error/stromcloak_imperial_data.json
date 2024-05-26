@@ -3,13 +3,13 @@
         "Speaker": "Stormcloak Guard",
         "Dialogue": "\"The Imperials think us lawless beasts. I am proof of their ignorance.\"",
         "Event": "the Player interacting with a Stormcloak guard",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Stormcloak Guard",
         "Dialogue": "\"The Imperials think we need their laws. Pffft.\"",
         "Event": "the Player interacting with a Stormcloak guard",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Stormcloak Guard",

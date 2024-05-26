@@ -3,13 +3,13 @@
         "Speaker": "Guard",
         "Dialogue": "\"I used to be an adventurer like you. Then I took an arrow in the knee...\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Let me guess... someone stole your sweetroll.\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
@@ -21,133 +21,133 @@
         "Speaker": "Guard",
         "Dialogue": "\"Disrespect the law, and you disrespect me.\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"What do you need?\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Trouble?\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"What is it?\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"No lollygaggin'.\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"My cousin's out fighting dragons, and what do I get? Guard duty.\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Gotta keep my eyes open. Damn dragons could swoop down at any time.\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Fear not. Come dragon or giant, we'll be ready.\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"They say Helgen got hit by a dragon. One of those horrors comes here, we'll be ready.\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Brigands I can handle, but this talk of dragons? World's gone mad, I say.\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Everything's in order.\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Staying safe I hope.\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Everything all right?\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Helgen... destroyed by a dragon. Hard to believe, isn't it?\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Could sure use a warm bed right about now...\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"I'd be a lot warmer and a lot happier with a bellyful of mead...\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"I mostly deal with petty thievery and drunken brawls. Been too long since we've had a good bandit raid.\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"What is it? Dragons?\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Watch the skies, traveler.\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"They say Ulfric Stormcloak murdered the High King... with his voice! Shouted him apart!\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"No matter what else happens, the guards will always be grateful for everything you've done.\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Yes, Dovahkiin? How can I help you?\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
@@ -291,37 +291,37 @@
         "Speaker": "Guard",
         "Dialogue": "\"By order of the Jarl, stop right there!\"",
         "Event": "a Guard catching the Player right after a crime",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"You have committed crimes against Skyrim and her people. What say you in your defense?\"",
         "Event": "a Guard catching the Player right after a crime",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Wait... I know you.\"",
         "Event": "the Player being recognized by a guard with a low bounty",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Alright now. Everyone back away. Let the law handle this.\"",
         "Event": "a Guard discovering a corpse",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"If anyone saw anything, step forward. Otherwise, step away from the body.\"",
         "Event": "a Guard discovering a corpse",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"You shouldn't leave weapons laying around. Someone could get hurt. And if I see you do it again, that someone will be you. Have I made myself clear?\"",
         "Event": "a Guard reacting to the Player dropping their weapon",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",

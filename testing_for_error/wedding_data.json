@@ -327,325 +327,325 @@
         "Speaker": "MaleArgonian",
         "Dialogue": "\"I never would have dreamed I would be getting married in the Temple of Mara.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleArgonian",
         "Dialogue": "\"I never would have dreamed I would be getting married in the Temple of Mara.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleCondescending",
         "Dialogue": "It's a simple ceremony, but it'll do. You're here. That's enough.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleElfHaughty",
         "Dialogue": "It's a simple ceremony, but it'll do. You're here. That's enough.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleCondescending",
         "Dialogue": "It's a simple ceremony, but it'll do. You're here. That's enough.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleShrill",
         "Dialogue": "It's a simple ceremony, but it'll do. You're here. That's enough.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleCoward",
         "Dialogue": "It's a simple ceremony, but it'll do. You're here. That's enough.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleCoward",
         "Dialogue": "It's a simple ceremony, but it'll do. You're here. That's enough.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleSlyCynical",
         "Dialogue": "It's a simple ceremony, but it'll do. You're here. That's enough.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleSultry",
         "Dialogue": "It's a simple ceremony, but it'll do. You're here. That's enough.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleDrunk",
         "Dialogue": "\"Weddings always make me cry. What am I supposed to do now that I'm the one getting married?\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleCommoner",
         "Dialogue": "\"It's our wedding day. I feel like all of Skyrim is focused on just the two of us.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleEvenTonedAccented",
         "Dialogue": "\"It's our wedding day. I feel like all of Skyrim is focused on just the two of us.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleCommonerAccented",
         "Dialogue": "\"It's our wedding day. I feel like all of Skyrim is focused on just the two of us.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleEvenToned",
         "Dialogue": "\"It's our wedding day. I feel like all of Skyrim is focused on just the two of us.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleCommoner",
         "Dialogue": "\"It's our wedding day. I feel like all of Skyrim is focused on just the two of us.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleYoungEager",
         "Dialogue": "\"It's our wedding day. I feel like all of Skyrim is focused on just the two of us.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleEvenToned",
         "Dialogue": "\"It's our wedding day. I feel like all of Skyrim is focused on just the two of us.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleYoungEager",
         "Dialogue": "\"It's our wedding day. I feel like all of Skyrim is focused on just the two of us.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleNord",
         "Dialogue": "\"This is a fine wedding. And to think, it's for us.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleNord",
         "Dialogue": "\"This is a fine wedding. And to think, it's for us.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleOrc",
         "Dialogue": "\"This ceremony is so different from an Orc marriage. Less blood.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleOrc",
         "Dialogue": "\"This ceremony is so different from an Orc marriage. Less blood.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleBrute",
         "Dialogue": "\"Who would have thought I would be getting married?\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleCommander",
         "Dialogue": "\"Who would have thought I would be getting married?\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleDarkElf",
         "Dialogue": "\"Who would have thought I would be getting married?\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleDarkElf",
         "Dialogue": "\"Who would have thought I would be getting married?\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleArgonian",
         "Dialogue": "\"You should leave. Now.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleArgonian",
         "Dialogue": "\"You should leave. Now.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleCondescending",
         "Dialogue": "\"You're abandoning me? Me? I never want to see you ever again.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleElfHaughty",
         "Dialogue": "\"You're abandoning me? Me? I never want to see you ever again.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleCondescending",
         "Dialogue": "\"You're abandoning me? Me? I never want to see you ever again.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleShrill",
         "Dialogue": "\"You're abandoning me? Me? I never want to see you ever again.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleCoward",
         "Dialogue": "\"You're abandoning me? Me? I never want to see you ever again.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleCoward",
         "Dialogue": "\"You're abandoning me? Me? I never want to see you ever again.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleSlyCynical",
         "Dialogue": "\"You're abandoning me? Me? I never want to see you ever again.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleSultry",
         "Dialogue": "\"You're abandoning me? Me? I never want to see you ever again.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleDrunk",
         "Dialogue": "\"Get out. Leave me alone!\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleCommoner",
         "Dialogue": "\"How could you? Just go.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleEvenTonedAccented",
         "Dialogue": "\"How could you? Just go.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleCommonerAccented",
         "Dialogue": "\"How could you? Just go.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleEvenToned",
         "Dialogue": "\"How could you? Just go.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleCommoner",
         "Dialogue": "\"How could you? Just go.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleYoungEager",
         "Dialogue": "\"How could you? Just go.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleEvenToned",
         "Dialogue": "\"How could you? Just go.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleYoungEager",
         "Dialogue": "\"How could you? Just go.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleNord",
         "Dialogue": "I don't want to see you ever again.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleNord",
         "Dialogue": "I don't want to see you ever again.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleOrc",
         "Dialogue": "\"Get away from me. Liar!\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleOrc",
         "Dialogue": "\"Get away from me. Liar!\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleBrute",
         "Dialogue": "\"Get out of my sight.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleCommander",
         "Dialogue": "\"Get out of my sight.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleDarkElf",
         "Dialogue": "\"Get out of my sight.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleDarkElf",
         "Dialogue": "\"Get out of my sight.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleArgonian",

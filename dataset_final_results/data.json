@@ -2770,55 +2770,55 @@
         "Speaker": "FemaleCommoner",
         "Dialogue": "\"Beg pardon. You dropped some armor over there. Don't suppose you'd mind if I... took it?\"",
         "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "MaleCommoner",
         "Dialogue": "\"Pardon. I saw you toss a piece of armor. You wouldn't mind if I take it, then?\"",
         "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "MaleCommonerAccented",
         "Dialogue": "\"Pardon. I saw you toss a piece of armor. You wouldn't mind if I take it, then?\"",
         "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "FemaleCoward",
         "Dialogue": "\"Umm... You dropped a piece armor over there. I was kind of hoping that I could, you know, have it?\"",
         "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "MaleCoward",
         "Dialogue": "\"Couldn't help but notice, that, um... you dropped some armor. Just wanted to check with you before I took it. Is that all right?\"",
         "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "FemaleYoungEager",
         "Dialogue": "\"Excuse me. I'm assuming that armor you got rid of wasn't an accident, but just in case, I wanted to make sure I could take it.\"",
         "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "MaleYoungEager",
         "Dialogue": "\"If you're not going use that armor you dropped... do you mind if I take it?\"",
         "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "MaleBrute",
         "Dialogue": "\"That armor you got rid of. I can have it, yeah?\"",
         "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "MaleDrunk",
         "Dialogue": "\"Hey. That armor. You got rid of it, yeah? I can take it, no problem?\"",
         "Event": "NPC asking for the Player's dropped armor",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "Player",
@@ -5633,163 +5633,163 @@
         "Speaker": "MaleArgonian",
         "Dialogue": "\"Is that Lady Mara's amulet? I'm shocked a fine person like you isn't married already.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "FemaleArgonian",
         "Dialogue": "\"Is that Lady Mara's amulet? I'm shocked a fine person like you isn't married already.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "MaleCondescending",
         "Dialogue": "\"Look at you. Wearing an Amulet of Mara. Are you saying you're available?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "FemaleElfHaughty",
         "Dialogue": "\"Look at you. Wearing an Amulet of Mara. Are you saying you're available?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "FemaleCondescending",
         "Dialogue": "\"Look at you. Wearing an Amulet of Mara. Are you saying you're available?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "FemaleShrill",
         "Dialogue": "\"Look at you. Wearing an Amulet of Mara. Are you saying you're available?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "MaleCoward",
         "Dialogue": "\"Look at you. Wearing an Amulet of Mara. Are you saying you're available?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "FemaleCoward",
         "Dialogue": "\"Look at you. Wearing an Amulet of Mara. Are you saying you're available?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "MaleSlyCynical",
         "Dialogue": "\"Look at you. Wearing an Amulet of Mara. Are you saying you're available?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "FemaleSultry",
         "Dialogue": "\"Look at you. Wearing an Amulet of Mara. Are you saying you're available?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "MaleDrunk",
         "Dialogue": "\"You're wearing Mara's amulet? You? I'd marry you. I'd marry you twice.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "MaleCommoner",
         "Dialogue": "\"Is that an Amulet of Mara? I'm surprised someone like you isn't spoken for.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "MaleEvenTonedAccented",
         "Dialogue": "\"Is that an Amulet of Mara? I'm surprised someone like you isn't spoken for.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "MaleCommonerAccented",
         "Dialogue": "\"Is that an Amulet of Mara? I'm surprised someone like you isn't spoken for.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "FemaleEvenToned",
         "Dialogue": "\"Is that an Amulet of Mara? I'm surprised someone like you isn't spoken for.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "FemaleCommoner",
         "Dialogue": "\"Is that an Amulet of Mara? I'm surprised someone like you isn't spoken for.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "MaleYoungEager",
         "Dialogue": "\"Is that an Amulet of Mara? I'm surprised someone like you isn't spoken for.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "MaleEvenToned",
         "Dialogue": "\"Is that an Amulet of Mara? I'm surprised someone like you isn't spoken for.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "FemaleYoungEager",
         "Dialogue": "\"Is that an Amulet of Mara? I'm surprised someone like you isn't spoken for.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "MaleNord",
         "Dialogue": "\"An Amulet of Mara? You're not married? Surprising.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "FemaleNord",
         "Dialogue": "\"An Amulet of Mara? You're not married? Surprising.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "MaleOrc",
         "Dialogue": "\"That amulet. I've seen the Nords wear these when they're looking to marry. With your strength, you should have no trouble.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "FemaleOrc",
         "Dialogue": "\"That amulet. I've seen the Nords wear these when they're looking to marry. With your strength, you should have no trouble.\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "MaleBrute",
         "Dialogue": "\"An Amulet of Mara, you're looking for marriage, then?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "FemaleCommander",
         "Dialogue": "\"An Amulet of Mara, you're looking for marriage, then?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "MaleDarkElf",
         "Dialogue": "\"An Amulet of Mara, you're looking for marriage, then?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "FemaleDarkElf",
         "Dialogue": "\"An Amulet of Mara, you're looking for marriage, then?\"",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "nan"
+        "Response_to": null
     },
     {
         "Speaker": "Player",
@@ -7091,325 +7091,325 @@
         "Speaker": "MaleArgonian",
         "Dialogue": "\"I never would have dreamed I would be getting married in the Temple of Mara.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleArgonian",
         "Dialogue": "\"I never would have dreamed I would be getting married in the Temple of Mara.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleCondescending",
         "Dialogue": "It's a simple ceremony, but it'll do. You're here. That's enough.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleElfHaughty",
         "Dialogue": "It's a simple ceremony, but it'll do. You're here. That's enough.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleCondescending",
         "Dialogue": "It's a simple ceremony, but it'll do. You're here. That's enough.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleShrill",
         "Dialogue": "It's a simple ceremony, but it'll do. You're here. That's enough.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleCoward",
         "Dialogue": "It's a simple ceremony, but it'll do. You're here. That's enough.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleCoward",
         "Dialogue": "It's a simple ceremony, but it'll do. You're here. That's enough.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleSlyCynical",
         "Dialogue": "It's a simple ceremony, but it'll do. You're here. That's enough.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleSultry",
         "Dialogue": "It's a simple ceremony, but it'll do. You're here. That's enough.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleDrunk",
         "Dialogue": "\"Weddings always make me cry. What am I supposed to do now that I'm the one getting married?\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleCommoner",
         "Dialogue": "\"It's our wedding day. I feel like all of Skyrim is focused on just the two of us.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleEvenTonedAccented",
         "Dialogue": "\"It's our wedding day. I feel like all of Skyrim is focused on just the two of us.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleCommonerAccented",
         "Dialogue": "\"It's our wedding day. I feel like all of Skyrim is focused on just the two of us.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleEvenToned",
         "Dialogue": "\"It's our wedding day. I feel like all of Skyrim is focused on just the two of us.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleCommoner",
         "Dialogue": "\"It's our wedding day. I feel like all of Skyrim is focused on just the two of us.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleYoungEager",
         "Dialogue": "\"It's our wedding day. I feel like all of Skyrim is focused on just the two of us.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleEvenToned",
         "Dialogue": "\"It's our wedding day. I feel like all of Skyrim is focused on just the two of us.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleYoungEager",
         "Dialogue": "\"It's our wedding day. I feel like all of Skyrim is focused on just the two of us.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleNord",
         "Dialogue": "\"This is a fine wedding. And to think, it's for us.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleNord",
         "Dialogue": "\"This is a fine wedding. And to think, it's for us.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleOrc",
         "Dialogue": "\"This ceremony is so different from an Orc marriage. Less blood.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleOrc",
         "Dialogue": "\"This ceremony is so different from an Orc marriage. Less blood.\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleBrute",
         "Dialogue": "\"Who would have thought I would be getting married?\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleCommander",
         "Dialogue": "\"Who would have thought I would be getting married?\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleDarkElf",
         "Dialogue": "\"Who would have thought I would be getting married?\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleDarkElf",
         "Dialogue": "\"Who would have thought I would be getting married?\"",
         "Event": "the wedding ceremony between the Player and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleArgonian",
         "Dialogue": "\"You should leave. Now.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleArgonian",
         "Dialogue": "\"You should leave. Now.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleCondescending",
         "Dialogue": "\"You're abandoning me? Me? I never want to see you ever again.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleElfHaughty",
         "Dialogue": "\"You're abandoning me? Me? I never want to see you ever again.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleCondescending",
         "Dialogue": "\"You're abandoning me? Me? I never want to see you ever again.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleShrill",
         "Dialogue": "\"You're abandoning me? Me? I never want to see you ever again.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleCoward",
         "Dialogue": "\"You're abandoning me? Me? I never want to see you ever again.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleCoward",
         "Dialogue": "\"You're abandoning me? Me? I never want to see you ever again.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleSlyCynical",
         "Dialogue": "\"You're abandoning me? Me? I never want to see you ever again.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleSultry",
         "Dialogue": "\"You're abandoning me? Me? I never want to see you ever again.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleDrunk",
         "Dialogue": "\"Get out. Leave me alone!\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleCommoner",
         "Dialogue": "\"How could you? Just go.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleEvenTonedAccented",
         "Dialogue": "\"How could you? Just go.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleCommonerAccented",
         "Dialogue": "\"How could you? Just go.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleEvenToned",
         "Dialogue": "\"How could you? Just go.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleCommoner",
         "Dialogue": "\"How could you? Just go.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleYoungEager",
         "Dialogue": "\"How could you? Just go.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleEvenToned",
         "Dialogue": "\"How could you? Just go.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleYoungEager",
         "Dialogue": "\"How could you? Just go.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleNord",
         "Dialogue": "I don't want to see you ever again.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleNord",
         "Dialogue": "I don't want to see you ever again.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleOrc",
         "Dialogue": "\"Get away from me. Liar!\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleOrc",
         "Dialogue": "\"Get away from me. Liar!\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleBrute",
         "Dialogue": "\"Get out of my sight.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleCommander",
         "Dialogue": "\"Get out of my sight.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleDarkElf",
         "Dialogue": "\"Get out of my sight.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "FemaleDarkElf",
         "Dialogue": "\"Get out of my sight.\"",
         "Event": "the Player calling off the wedding between them and the NPC",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleArgonian",
@@ -7721,31 +7721,31 @@
         "Speaker": "OrcMiner",
         "Dialogue": "\"I'm here to mine, outlander. So unless you want to dig, get out.\"",
         "Event": "the Player talking to a miner Orc",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "OrcMiner",
         "Dialogue": "\"I have metal to dig.\"",
         "Event": "the Player talking to a miner Orc",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "OrcMiner",
         "Dialogue": "\"Malacath has given me the task to mine. Good ore brings strength to our people.\"",
         "Event": "the Player talking to a miner Orc",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "OrcMiner",
         "Dialogue": "\"Every Orc learns the heavy labor of mining. All spend years in the caves.\"",
         "Event": "the Player talking to a miner Orc",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "OrcMiner",
         "Dialogue": "\"The mines are hard, but Malacath rewards those who rise to the challenge.\"",
         "Event": "the Player talking to a miner Orc",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "MaleKhajiit",
@@ -8189,13 +8189,13 @@
         "Speaker": "Carriage Driver",
         "Dialogue": "\"If you don't mind a piece of advice, I'd stay out of trouble in Markarth. They'll toss you in the Cidhna Mine, and you'll never get out.\"",
         "Event": "the Player is riding a Carriage in Markath",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Carriage Driver",
         "Dialogue": "\"You'll want to watch out for the Forsworn if you do any travelling around the Reach. Bloodthirsty bastards, them.\"",
         "Event": "the Player is riding a Carriage in Markath",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Carriage Driver",
@@ -8213,13 +8213,13 @@
         "Speaker": "Carriage Driver",
         "Dialogue": "\"You'll want to watch yourself in Riften. A lot of ways to get yourself in trouble in that town.\"",
         "Event": "the Player is riding a Carriage in Riften",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Carriage Driver",
         "Dialogue": "\"I might have to stop and get myself a pint of Black-Briar mead while I'm in Riften. Almost worth the trip all by itself.\"",
         "Event": "the Player is riding a Carriage in Riften",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Carriage Driver",
@@ -8243,13 +8243,13 @@
         "Speaker": "Carriage Driver",
         "Dialogue": "\"Solitude's famous for it's Bards College. Worth a visit if you've never been. Some of them can sing just as pretty as a lark.\"",
         "Event": "the Player is riding a Carriage in Solitude",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Carriage Driver",
         "Dialogue": "\"Solitude's a big port town, you know? Full of sailors and their tales of far away lands. Most of 'em's foreigners and liars, of course.\"",
         "Event": "the Player is riding a Carriage in Solitude",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Carriage Driver",
@@ -8267,7 +8267,7 @@
         "Speaker": "Carriage Driver",
         "Dialogue": "\"When I'm in Whiterun, I always visit the Gildergreen. Never hurts to pay your respects to Lady Kynareth, particularly in my line of work.\"",
         "Event": "the Player is riding a Carriage in Whiterun",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Carriage Driver",
@@ -8285,7 +8285,7 @@
         "Speaker": "Carriage Driver",
         "Dialogue": "\"Windhelm's a bit cold for my tastes. And I ain't talking about the weather. You're not from Windhelm, are you?\"",
         "Event": "the Player is riding a Carriage in Windhelm",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Carriage Driver",
@@ -8303,13 +8303,13 @@
         "Speaker": "Guard",
         "Dialogue": "\"I used to be an adventurer like you. Then I took an arrow in the knee...\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Let me guess... someone stole your sweetroll.\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
@@ -8321,133 +8321,133 @@
         "Speaker": "Guard",
         "Dialogue": "\"Disrespect the law, and you disrespect me.\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"What do you need?\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Trouble?\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"What is it?\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"No lollygaggin'.\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"My cousin's out fighting dragons, and what do I get? Guard duty.\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Gotta keep my eyes open. Damn dragons could swoop down at any time.\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Fear not. Come dragon or giant, we'll be ready.\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"They say Helgen got hit by a dragon. One of those horrors comes here, we'll be ready.\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Brigands I can handle, but this talk of dragons? World's gone mad, I say.\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Everything's in order.\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Staying safe I hope.\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Everything all right?\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Helgen... destroyed by a dragon. Hard to believe, isn't it?\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Could sure use a warm bed right about now...\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"I'd be a lot warmer and a lot happier with a bellyful of mead...\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"I mostly deal with petty thievery and drunken brawls. Been too long since we've had a good bandit raid.\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"What is it? Dragons?\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Watch the skies, traveler.\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"They say Ulfric Stormcloak murdered the High King... with his voice! Shouted him apart!\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"No matter what else happens, the guards will always be grateful for everything you've done.\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Yes, Dovahkiin? How can I help you?\"",
         "Event": "the Player passing next to a guard on the road",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
@@ -8591,37 +8591,37 @@
         "Speaker": "Guard",
         "Dialogue": "\"By order of the Jarl, stop right there!\"",
         "Event": "a Guard catching the Player right after a crime",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"You have committed crimes against Skyrim and her people. What say you in your defense?\"",
         "Event": "a Guard catching the Player right after a crime",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Wait... I know you.\"",
         "Event": "the Player being recognized by a guard with a low bounty",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Alright now. Everyone back away. Let the law handle this.\"",
         "Event": "a Guard discovering a corpse",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"If anyone saw anything, step forward. Otherwise, step away from the body.\"",
         "Event": "a Guard discovering a corpse",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"You shouldn't leave weapons laying around. Someone could get hurt. And if I see you do it again, that someone will be you. Have I made myself clear?\"",
         "Event": "a Guard reacting to the Player dropping their weapon",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Guard",
@@ -8681,14 +8681,14 @@
         "Speaker": "Guard",
         "Dialogue": "\"What is it, Argonian?\"",
         "Event": "a Guard reacting to players race",
-        "Condition": "nan",
+        "Condition": null,
         "Race": "Argonian"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Stay out of trouble, Argonian.\"",
         "Event": "a Guard reacting to players race",
-        "Condition": "nan",
+        "Condition": null,
         "Race": "Argonian"
     },
     {
@@ -8744,14 +8744,14 @@
         "Speaker": "Guard",
         "Dialogue": "\"Stay out of trouble, Khajiit.\"",
         "Event": "a Guard reacting to players race",
-        "Condition": "nan",
+        "Condition": null,
         "Race": "Khajiit"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"What is it, Khajiit?\"",
         "Event": "a Guard reacting to players race",
-        "Condition": "nan",
+        "Condition": null,
         "Race": "Khajiit"
     },
     {
@@ -8765,14 +8765,14 @@
         "Speaker": "Guard",
         "Dialogue": "\"Stay out of trouble, Redguard.\"",
         "Event": "a Guard reacting to players race",
-        "Condition": "nan",
+        "Condition": null,
         "Race": "Redguard"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"What is it, Redguard?\"",
         "Event": "a Guard reacting to players race",
-        "Condition": "nan",
+        "Condition": null,
         "Race": "Redguard"
     },
     {
@@ -8793,161 +8793,161 @@
         "Speaker": "Guard",
         "Dialogue": "\"Stay out of trouble, Orc.\"",
         "Event": "a Guard reacting to players race",
-        "Condition": "nan",
+        "Condition": null,
         "Race": "Orc"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"What is it, Orc?\"",
         "Event": "a Guard reacting to players race",
-        "Condition": "nan",
+        "Condition": null,
         "Race": "Orc"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Pigsticker like that's not going to get you far. Best visit the blacksmith.\"",
         "Event": "Guard reacting to Player's weapon",
-        "Condition": "nan",
+        "Condition": null,
         "Equipment": "Iron Sword"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"That iron sword's pretty undependable. You should try steel.\"",
         "Event": "Guard reacting to Player's weapon",
-        "Condition": "nan",
+        "Condition": null,
         "Equipment": "Iron Sword"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Iron sword, huh? What are you killing, butterflies?\"",
         "Event": "Guard reacting to Player's weapon",
-        "Condition": "nan",
+        "Condition": null,
         "Equipment": "Iron Sword"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Favor a steel sword, do ya? Good choice for slashing or stabbing.\"",
         "Event": "Guard reacting to Player's weapon",
-        "Condition": "nan",
+        "Condition": null,
         "Equipment": "Steel Sword"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Why the Elven blade, hmm? Nord steel not good enough for you?\"",
         "Event": "Guard reacting to Player's weapon",
-        "Condition": "nan",
+        "Condition": null,
         "Equipment": "Elven Sword"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Aye, now that there's a beautiful sword. Like a sliver of midnight.\"",
         "Event": "Guard reacting to Player's weapon",
-        "Condition": "nan",
+        "Condition": null,
         "Equipment": "Ebony Sword"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Takes a fair bit of strength to carry a greatsword like that. But can you use it?\"",
         "Event": "Guard reacting to Player's weapon",
-        "Condition": "nan",
+        "Condition": null,
         "Equipment": "Greatsword"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Some advice, friend. That armor won't offer much protection in a real fight.\"",
         "Event": "Guard reacting to Player's apparel",
-        "Condition": "nan",
+        "Condition": null,
         "Equipment": "Hide Armor"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"You wear the armor of a brigand. Best not cause any trouble on my watch.\"",
         "Event": "Guard reacting to Player's apparel",
-        "Condition": "nan",
+        "Condition": null,
         "Equipment": "Studded Armor"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Fancy the leather armor, huh? Something to be said for going light.\"",
         "Event": "Guard reacting to Player's apparel",
-        "Condition": "nan",
+        "Condition": null,
         "Equipment": "Leather Armor"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"That's fine scale armor you've got on there. Shiny.\"",
         "Event": "Guard reacting to Player's apparel",
-        "Condition": "nan",
+        "Condition": null,
         "Equipment": "Scaled Armor"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"That's good armor you've got there, friend. Iron, solid and true.\"",
         "Event": "Guard reacting to Player's apparel",
-        "Condition": "nan",
+        "Condition": null,
         "Equipment": "Iron Armor"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Hmph. You wear that armor well. Iron may be simple, but it'll stop enough to keep you in the fight.\"",
         "Event": "Guard reacting to Player's apparel",
-        "Condition": "nan",
+        "Condition": null,
         "Equipment": "Iron Armor"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"You wear the armor of a mercenary. Now that's the life.\"",
         "Event": "Guard reacting to Player's apparel",
-        "Condition": "nan",
+        "Condition": null,
         "Equipment": "Banded Iron Armor"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Aye, now that's some fine armor. Good old-fashioned steel.\"",
         "Event": "Guard reacting to Player's apparel",
-        "Condition": "nan",
+        "Condition": null,
         "Equipment": "Steel Armor or Steel Plate Armor"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Fine armor you've got there. Dwarven make, am I right?\"",
         "Event": "Guard reacting to Player's apparel",
-        "Condition": "nan",
+        "Condition": null,
         "Equipment": "Dwarven Armor"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Ah, steel plate. Now that's a solid choice of armor.\"",
         "Event": "Guard reacting to Player's apparel",
-        "Condition": "nan",
+        "Condition": null,
         "Equipment": "Steel Plate Armor"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Orcish armor, hmm? Had me a set of that once. Ugly and strong, like those that forged it.\"",
         "Event": "Guard reacting to Player's apparel",
-        "Condition": "nan",
+        "Condition": null,
         "Equipment": "Orcish Armor"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Ebony armor. By Ysmir, 'tis a wondrous sight.\"",
         "Event": "Guard reacting to Player's apparel",
-        "Condition": "nan",
+        "Condition": null,
         "Equipment": "Ebony Armor"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Is your armor made of... dragon bones? By the gods, what I wouldn't do for a set of that.\"",
         "Event": "Guard reacting to Player's apparel",
-        "Condition": "nan",
+        "Condition": null,
         "Equipment": "Dragonplate Armor"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Is your armor made of... dragon scales? By the gods, what I wouldn't do for a set of that.\"",
         "Event": "Guard reacting to Player's apparel",
-        "Condition": "nan",
+        "Condition": null,
         "Equipment": "Dragonscale Armor"
     },
     {
@@ -9024,21 +9024,21 @@
         "Speaker": "Guard",
         "Dialogue": "\"Ugh. That armor stinks of death. You been grave robbing?\"",
         "Event": "Guard reacting to Player's apparel",
-        "Condition": "nan",
+        "Condition": null,
         "Equipment": "Ancient Nord Armor"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"You wear the garb of a true Nord. I salute you.\"",
         "Event": "Guard reacting to Player's artifacts and unique items",
-        "Condition": "nan",
+        "Condition": null,
         "Equipment": "Wolf Armor"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "*gasp* \"You wield... Azura's Star? How... how can such a thing be possible?\"",
         "Event": "Guard reacting to Player's artifacts and unique items",
-        "Condition": "nan",
+        "Condition": null,
         "Equipment": "Azura's Star"
     },
     {
@@ -9066,77 +9066,77 @@
         "Speaker": "Guard",
         "Dialogue": "\"No.. get that accursed mace away from me...\"",
         "Event": "Guard reacting to Player's artifacts and unique items",
-        "Condition": "nan",
+        "Condition": null,
         "Equipment": "Mace of Molag Bal"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"That mace... get it away from me. Get it away...\"",
         "Event": "Guard reacting to Player's artifacts and unique items",
-        "Condition": "nan",
+        "Condition": null,
         "Equipment": "Mace of Molag Bal"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Who did you have to kill to get that blade?\"",
         "Event": "Guard reacting to Player's artifacts and unique items",
-        "Condition": "nan",
+        "Condition": null,
         "Equipment": "Mehrunes Razor"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"That armor... it's like nothing I've ever seen. Like forged midnight...\"",
         "Event": "Guard reacting to Player's artifacts and unique items",
-        "Condition": "nan",
+        "Condition": null,
         "Equipment": "Nightingale Armor"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Ugh. Your breath is foul. What've you been eating?\"",
         "Event": "Guard reacting to Player's artifacts and unique items",
-        "Condition": "nan",
+        "Condition": null,
         "Equipment": "Ring of Namira"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"'Tis a wicked axe you wield there, friend. That blade looks sharp enough to cut through a god.\"",
         "Event": "Guard reacting to Player's artifacts and unique items",
-        "Condition": "nan",
+        "Condition": null,
         "Equipment": "The Rueful Axe"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"What manner of staff is that? Such a horror...\"",
         "Event": "Guard reacting to Player's artifacts and unique items",
-        "Condition": "nan",
+        "Condition": null,
         "Equipment": "Skull of Corruption"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"What a foul and unnatural weapon you wield. Never have I seen its like.\"",
         "Event": "Guard reacting to Player's artifacts and unique items",
-        "Condition": "nan",
+        "Condition": null,
         "Equipment": "Skull of Corruption"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Ah, now that's a fine shield. And not mere Dwarven... is it?\"",
         "Event": "Guard reacting to Player's artifacts and unique items",
-        "Condition": "nan",
+        "Condition": null,
         "Equipment": "Spellbreaker"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Your shield... Dwarf-make, is it not? But yet it seems so much... more.\"",
         "Event": "Guard reacting to Player's artifacts and unique items",
-        "Condition": "nan",
+        "Condition": null,
         "Equipment": "Spellbreaker"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"I know Thieves Guild armor when I see it. You're not fooling anyone.\"",
         "Event": "Guard reacting to Player's artifacts and unique items",
-        "Condition": "nan",
+        "Condition": null,
         "Equipment": "Thieves Guild Armor or Guild Master's Armor"
     },
     {
@@ -9150,14 +9150,14 @@
         "Speaker": "Guard",
         "Dialogue": "\"What do you aim to do with that hammer, friend? Knock down a house?\"",
         "Event": "Guard reacting to Player's artifacts and unique items",
-        "Condition": "nan",
+        "Condition": null,
         "Equipment": "Volendrung"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "*whistles* \"That is one... big hammer.\"",
         "Event": "Guard reacting to Player's artifacts and unique items",
-        "Condition": "nan",
+        "Condition": null,
         "Equipment": "Volendrung"
     },
     {
@@ -9264,13 +9264,13 @@
         "Speaker": "Stormcloak Guard",
         "Dialogue": "\"The Imperials think us lawless beasts. I am proof of their ignorance.\"",
         "Event": "the Player interacting with a Stormcloak guard",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Stormcloak Guard",
         "Dialogue": "\"The Imperials think we need their laws. Pffft.\"",
         "Event": "the Player interacting with a Stormcloak guard",
-        "Condition": "nan"
+        "Condition": null
     },
     {
         "Speaker": "Stormcloak Guard",
@@ -9390,70 +9390,70 @@
         "Speaker": "Guard",
         "Dialogue": "\"<Town>'s under my protection. You watch yourself, now.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Any Town"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"You've come to Dawnstar at a strange time, friend. Seems everyone in this town is having nightmares...\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Dawnstar"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"The people here are still plagued with nightmares. It's... unnatural.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Dawnstar"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Dangerous post, Dawnstar. If the bandits don't get you, the animals will.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Dawnstar"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Old lady Frida is a grouch, but she sure can whip up a cure for the Rattles fast.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Dawnstar"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"You should talk to Rustleif. Get some proper steel.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Dawnstar"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Outsiders aren't trusted in Markarth. Best keep that in mind.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Markarth"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"This is Markarth, traveler. Safest city in the Reach.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Markarth"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Can't believe I'm posted here. Even the beds are made of stone.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Markarth"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Break the law in Markarth, and it's off to Cidhna Mine with you.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Markarth"
     },
     {
@@ -9488,28 +9488,28 @@
         "Speaker": "Guard",
         "Dialogue": "\"Caught a case of Rockjoint, once. Bothela at the Hag's Cure fixed me right up.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Markarth"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Let me guess - you need a drink. It's the Silver-Blood Inn you're looking for.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Markarth"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"You should see that Orc over in Understone Keep, have him forge you some new armor...\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Markarth"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"By Shor, you're hauling around a lot of junk. Best stop in at the Arnleif and Sons Trading Company, sell it off.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Markarth"
     },
     {
@@ -9530,7 +9530,7 @@
         "Speaker": "Guard",
         "Dialogue": "\"Whole dwarven city underneath the keep. Nchuand-Zel. Best steer clear if you don't want a Steam Centurion carving you up.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Markarth"
     },
     {
@@ -9551,70 +9551,70 @@
         "Speaker": "Guard",
         "Dialogue": "\"City's quiet enough now. But when the sun goes down, you best be on your guard.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Riften"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Careful. Riften's not the safest place for a nighttime stroll.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Riften"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"So is it Riften or Rifton? This place has changed its name so many times, I can't even remember.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Riften"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"You could say the Ratway is the city under the city. Dark, dangerous, and no place for decent folk.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Riften"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"There's fine steel at the Scorched Hammer, if you fancy a new blade.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Riften"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"If it's a bed you need, talk to Keerava in the Bee and Barb. She'll set you right.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Riften"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Need a drink, you go to the Bee and Barb. Stay out of the Ragged Flagon, Stay out of the Ratway.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Riften"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"There's an apothecary in town, yeah. But it's down on the lower walkway, so stay sharp if you go down there.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Riften"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Welcome to Riften, home of the Thieves Guild. Or so they'd have you believe. It's all lies. They're just thugs... vermin, creeping around the Ratway.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Riften"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"The Thieves Guild used to run this city. Now they're nothing but braggarts and bullies, rotting to death down in their Ratway...\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Riften"
     },
     {
@@ -9635,49 +9635,49 @@
         "Speaker": "Guard",
         "Dialogue": "\"If you need potions, head over to Angeline's Aromatics.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Solitude"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"I don't abide fancy clothes, but you look like you might. I hear Radiant Raiment has a large selection.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Solitude"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"The Winking Skeever's got warm beds and cold mead. You look like you could use both.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Solitude"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"You can sell off that junk at Bits and Pieces.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Solitude"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"If its arms or armor you need, see Beirand at Castle Dour. Bloody good blacksmith, that one.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Solitude"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Been up to the Blue Palace? It's a sight to see, even if it is filled with fops...\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Solitude"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"The Emperor's cousin Vittoria Vici's getting married soon. The reception is public, anyone in Solitude can attend.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Solitude"
     },
     {
@@ -9698,35 +9698,35 @@
         "Speaker": "Guard",
         "Dialogue": "\"If you need potions, you should try Arcadia's Cauldron.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Whiterun"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"You look tired, friend. The Bannered Mare has beds for rent.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Whiterun"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"The Bannered Mare's got warm beds and cold mead. You look like you could use both.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Whiterun"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Need a blade? You should talk to Adrianne, at the forge.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Whiterun"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Need supplies? See Belethor at his store. Sleazy little man, but he has good stock.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Whiterun"
     },
     {
@@ -9740,7 +9740,7 @@
         "Speaker": "Guard",
         "Dialogue": "\"I worry about the other settlements in the hold. Unwalled, lightly manned - prime targets for those damned dragons.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Whiterun"
     },
     {
@@ -9768,77 +9768,77 @@
         "Speaker": "Guard",
         "Dialogue": "\"Cause trouble in Whiterun, and I'll haul you into the Dragonsreach dungeon myself.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Whiterun"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"You should talk to the Jarl up in Dragonsreach, lend any aid you can.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Whiterun"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"The guards in Dragonsreach say you've aided the Jarl. On behalf of Whiterun, I thank you.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Whiterun"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"I've seen you helping the Jarl. If only all visitors to Whiterun were as noble.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Whiterun"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"You should unload some of that unwanted gear. Head over to Sadri's Used Wares, talk to the Elf.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Windhelm"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"We got a nickname for anyone who trifles with us guards here in Windhelm - \"Suicide.\" \"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Windhelm"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"The Dunmer get their drinks down at the New Gnisis Cornerclub. Why they can't just call it a tavern is beyond me...\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Windhelm"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Stay away from the Aretino Residence. That place is cursed.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Windhelm"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"My heart goes out to Clan Shatter-Shield. Kin murdered, family warhammer stolen... There's no fairness in all that.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Windhelm"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"If it's bed or board you're after, Candlehearth Hall's got both.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Windhelm"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"If you need an apothecary, the White Phial has respectable stock.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Windhelm"
     },
     {
@@ -9866,63 +9866,63 @@
         "Speaker": "Guard",
         "Dialogue": "\"If you're here for sight-seeing, then you've seen the sights. Might as well head somewhere warmer.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Winterhold"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Take care if you go venturing too far from town. That's a bitter wind coming off the Sea of Ghosts.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Winterhold"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Hard to believe I ever complained about Riften being cold...\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Winterhold"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Beware of Frostmere Crypt, friend. Heard some bandits are living in the ruins now.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Dawnstar"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Giants have been spotted up near Red Road Pass. Best to keep away and avoid it entirely.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Dawnstar"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Travel southeast and you'll find an Orc stronghold, up around the old Dushnikh orichalcum mine.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Markarth"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"There's a small skeever den just east of the city, at Reachwater Rock.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Markarth"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Beware the region northeast, across the river. Forsworn have taken refuge in Broken Tower Redoubt and Red Eagle Redoubt.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Markarth"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"The Forsworn have been spotted to the north, near Bruca's Leap Redoubt.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Markarth"
     },
     {
@@ -9936,154 +9936,154 @@
         "Speaker": "Guard",
         "Dialogue": "\"There's an evil to the north, friend, and its name is Ragnvald. A tomb like so many in Skyrim, where the dead have found no peace.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Markarth"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"If you journey north, stay well away from Snapleg Cave. Damn Hagravens have infested the place.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Riften"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"There's a foul presence coming from Darklight Tower, southwest of the city. Some say the place is home to necromancers.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Riften"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"City got attacked once by those damned bandits, come east across the lake, from Faldar's Tooth. They won't be trying that again.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Riften"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Best not to go wandering east of the city. Bandits been seen around Broken Helm Hollow.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Riften"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"By the gods, a dragon's been sighted just south of the city, flying around Lost Tongue Overlook.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Riften"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Talk of strange happenings at Autumnshade Clearing, just north of the lake. My guess? Spriggans.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Riften"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"If you must venture southwest, stay clear of Volskygge. It's a cursed place, a tomb where the dead still live...\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Solitude"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"The road to Whiterun's not safe these days. Lots of travelers just.. disappear, south of Dragon Bridge. Can't find a trace of them.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Solitude"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Off the coast a ways to the east, you'll find the wreck of the Brinehammer. Never know what treasures may still be aboard.",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Solitude"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"You heard of Ravenscar Hollow? Cave on the island to the west. Place is a roost for those foul Hagravens.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Solitude"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Pinemoon Cave is down to the southwest, but it ain't fit for exploring. There are stories.. Vampires, some say...\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Solitude"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"The circle of stones to the southwest? That's Secunda's Kiss. The Giants hold it sacred, so tread carefully.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Whiterun"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Looking to do some hunting? Avoid Brittleshin Pass. It's southeast of here.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Whiterun"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"If you're heading east, stay clear of Hillgrund's Tomb. Thing about those old crypts - the dead have trouble staying that way.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Whiterun"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Careful if you cross the river to the east. Old Hajvarr Iron-Hand and his brigands are holed up in that cave, White River Watch.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Whiterun"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"You know I saw something near Shimmermist Cave to the northeast. Some sort of creature. Small and wicked, never seen its like before.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Whiterun"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Yesterday, I saw a dragon fly right over the city. Headed northeast. Toward Shearpoint, by the looks of it.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Whiterun"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"You hear the news? There's a dragon roosting up on Mount Anthor, to the northwest.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Windhelm"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Tell me you've seen them. Those... things. Small and evil, like something out of a nightmare. They come from Stillborn Cave, to the north. I know it.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Windhelm"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Maybe you've seen masts sticking out of the water to the northeast? That would be the Wreck of the Winter War. Fine vessel, back in its day.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Windhelm"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"South of here, and west of the road, lies Cronvangr Cave. Stay away from that cursed place, and the vampires that call it home.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Windhelm"
     },
     {
@@ -10097,21 +10097,21 @@
         "Speaker": "Guard",
         "Dialogue": "\"I've no problem with Orcs. But that stronghold they've got in the southeast? Narzulbur? It's an affront to my people.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Windhelm"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"Across the river to the northeast lies Yngol Barrow. Stear clear of the foul place, lest the walking dead claim you as their own.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Windhelm"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "\"The Eye of Talos was a fine ship, once. Now it lies wrecked, off an island just north of here.\"",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "nan",
+        "Condition": null,
         "Location": "Windhelm"
     }
 ]
