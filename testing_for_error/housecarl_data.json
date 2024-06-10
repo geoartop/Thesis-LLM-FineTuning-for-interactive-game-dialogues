@@ -1,32 +1,32 @@
 [
     {
         "Speaker": "Housecarl",
-        "Dialogue": "\"Yes, Thane. What is it?\"",
+        "Dialogue": "Yes, Thane. What is it?",
         "Event": "the Player talking to their Housecarl"
     },
     {
         "Speaker": "Housecarl",
-        "Dialogue": "\"Yes, my Thane?\"",
+        "Dialogue": "Yes, my Thane?",
         "Event": "the Player talking to their Housecarl"
     },
     {
         "Speaker": "Housecarl",
-        "Dialogue": "\"I am sworn to carry your burdens.\"",
+        "Dialogue": "I am sworn to carry your burdens.",
         "Event": "the Player telling their Housecarl to trade inventory"
     },
     {
         "Speaker": "Housecarl",
-        "Dialogue": "\"As you wish, my Thane.\"",
+        "Dialogue": "As you wish, my Thane.",
         "Event": "the Player telling their Housecarl to wait"
     },
     {
         "Speaker": "Housecarl",
-        "Dialogue": "\"As you will, my Thane. I will protect you with my life.\"",
+        "Dialogue": "As you will, my Thane. I will protect you with my life.",
         "Event": "the Player telling their Housecarl to follow them"
     },
     {
         "Speaker": "Housecarl",
-        "Dialogue": "\"I will be back at your house if you need me, Thane.\"",
+        "Dialogue": "I will be back at your house if you need me, Thane.",
         "Event": "the Player telling their Housecarl that their dismissed"
     }
 ]

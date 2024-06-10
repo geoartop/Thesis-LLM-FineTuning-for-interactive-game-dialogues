@@ -1,379 +1,379 @@
 [
     {
         "Speaker": "Guard",
-        "Dialogue": "\"I used to be an adventurer like you. Then I took an arrow in the knee...\"",
+        "Dialogue": "I used to be an adventurer like you. Then I took an arrow in the knee...",
         "Event": "the Player passing next to a guard on the road",
         "Condition": null
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Let me guess... someone stole your sweetroll.\"",
+        "Dialogue": "Let me guess... someone stole your sweetroll.",
         "Event": "the Player passing next to a guard on the road",
         "Condition": null
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Citizen.\"",
+        "Dialogue": "Citizen.",
         "Event": "the Player passing next to a guard on the road",
         "Condition": "the guard is an Imperial Guard"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Disrespect the law, and you disrespect me.\"",
+        "Dialogue": "Disrespect the law, and you disrespect me.",
         "Event": "the Player passing next to a guard on the road",
         "Condition": null
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"What do you need?\"",
+        "Dialogue": "What do you need?",
         "Event": "the Player passing next to a guard on the road",
         "Condition": null
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Trouble?\"",
+        "Dialogue": "Trouble?",
         "Event": "the Player passing next to a guard on the road",
         "Condition": null
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"What is it?\"",
+        "Dialogue": "What is it?",
         "Event": "the Player passing next to a guard on the road",
         "Condition": null
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"No lollygaggin'.\"",
+        "Dialogue": "No lollygaggin'.",
         "Event": "the Player passing next to a guard on the road",
         "Condition": null
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"My cousin's out fighting dragons, and what do I get? Guard duty.\"",
+        "Dialogue": "My cousin's out fighting dragons, and what do I get? Guard duty.",
         "Event": "the Player passing next to a guard on the road",
         "Condition": null
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Gotta keep my eyes open. Damn dragons could swoop down at any time.\"",
+        "Dialogue": "Gotta keep my eyes open. Damn dragons could swoop down at any time.",
         "Event": "the Player passing next to a guard on the road",
         "Condition": null
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Fear not. Come dragon or giant, we'll be ready.\"",
+        "Dialogue": "Fear not. Come dragon or giant, we'll be ready.",
         "Event": "the Player passing next to a guard on the road",
         "Condition": null
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"They say Helgen got hit by a dragon. One of those horrors comes here, we'll be ready.\"",
+        "Dialogue": "They say Helgen got hit by a dragon. One of those horrors comes here, we'll be ready.",
         "Event": "the Player passing next to a guard on the road",
         "Condition": null
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Brigands I can handle, but this talk of dragons? World's gone mad, I say.\"",
+        "Dialogue": "Brigands I can handle, but this talk of dragons? World's gone mad, I say.",
         "Event": "the Player passing next to a guard on the road",
         "Condition": null
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Everything's in order.\"",
+        "Dialogue": "Everything's in order.",
         "Event": "the Player passing next to a guard on the road",
         "Condition": null
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Staying safe I hope.\"",
+        "Dialogue": "Staying safe I hope.",
         "Event": "the Player passing next to a guard on the road",
         "Condition": null
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Everything all right?\"",
+        "Dialogue": "Everything all right?",
         "Event": "the Player passing next to a guard on the road",
         "Condition": null
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Helgen... destroyed by a dragon. Hard to believe, isn't it?\"",
+        "Dialogue": "Helgen... destroyed by a dragon. Hard to believe, isn't it?",
         "Event": "the Player passing next to a guard on the road",
         "Condition": null
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Could sure use a warm bed right about now...\"",
+        "Dialogue": "Could sure use a warm bed right about now...",
         "Event": "the Player passing next to a guard on the road",
         "Condition": null
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"I'd be a lot warmer and a lot happier with a bellyful of mead...\"",
+        "Dialogue": "I'd be a lot warmer and a lot happier with a bellyful of mead...",
         "Event": "the Player passing next to a guard on the road",
         "Condition": null
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"I mostly deal with petty thievery and drunken brawls. Been too long since we've had a good bandit raid.\"",
+        "Dialogue": "I mostly deal with petty thievery and drunken brawls. Been too long since we've had a good bandit raid.",
         "Event": "the Player passing next to a guard on the road",
         "Condition": null
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"What is it? Dragons?\"",
+        "Dialogue": "What is it? Dragons?",
         "Event": "the Player passing next to a guard on the road",
         "Condition": null
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Watch the skies, traveler.\"",
+        "Dialogue": "Watch the skies, traveler.",
         "Event": "the Player passing next to a guard on the road",
         "Condition": null
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"They say Ulfric Stormcloak murdered the High King... with his voice! Shouted him apart!\"",
+        "Dialogue": "They say Ulfric Stormcloak murdered the High King... with his voice! Shouted him apart!",
         "Event": "the Player passing next to a guard on the road",
         "Condition": null
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"No matter what else happens, the guards will always be grateful for everything you've done.\"",
+        "Dialogue": "No matter what else happens, the guards will always be grateful for everything you've done.",
         "Event": "the Player passing next to a guard on the road",
         "Condition": null
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Yes, Dovahkiin? How can I help you?\"",
+        "Dialogue": "Yes, Dovahkiin? How can I help you?",
         "Event": "the Player passing next to a guard on the road",
         "Condition": null
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Whatever you need, Dragonborn. Just say the word.\"",
+        "Dialogue": "Whatever you need, Dragonborn. Just say the word.",
         "Event": "the Player passing next to a guard on the road",
         "Condition": "the Player uses their dragon shout."
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"I fear the night. Because the werewolves and vampires don't.\"",
+        "Dialogue": "I fear the night. Because the werewolves and vampires don't.",
         "Event": "the Player passing next to a guard on the road",
         "Condition": "it is nighttime"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Bit late to be wandering around, isn't it?\"",
+        "Dialogue": "Bit late to be wandering around, isn't it?",
         "Event": "the Player passing next to a guard on the road",
         "Condition": "it is nighttime"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Only burglars and vampires creep around after dark. So which are you?\"",
+        "Dialogue": "Only burglars and vampires creep around after dark. So which are you?",
         "Event": "the Player passing next to a guard on the road",
         "Condition": "it is nighttime"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"You hear that? I swear, there's something out there. In the dark.\"",
+        "Dialogue": "You hear that? I swear, there's something out there. In the dark.",
         "Event": "the Player passing next to a guard on the road",
         "Condition": "it is nighttime"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"I hope you're finding the city in proper order, thane.\"",
+        "Dialogue": "I hope you're finding the city in proper order, thane.",
         "Event": "the Player passing next to a guard on the road",
         "Condition": "the Player is thane of the hold"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"I trust the day's found you well, thane.\"",
+        "Dialogue": "I trust the day's found you well, thane.",
         "Event": "the Player passing next to a guard on the road",
         "Condition": "the Player is thane of the hold"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"How do you do, thane?\"",
+        "Dialogue": "How do you do, thane?",
         "Event": "the Player passing next to a guard on the road",
         "Condition": "the Player is thane of the hold"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Just a few more hours and I can crawl under some furs...\"",
+        "Dialogue": "Just a few more hours and I can crawl under some furs...",
         "Event": "the Player passing next to a guard on the road",
         "Condition": "the evnt happens between the hours of 11 pm and 4 am"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Jarl's been looking for someone who ain't superstitious though. Be lookin' for a fool if you ask me.\"",
+        "Dialogue": "Jarl's been looking for someone who ain't superstitious though. Be lookin' for a fool if you ask me.",
         "Event": "the Player passing next to a guard on the road",
         "Condition": "that the guard is a Morthal Guard and is asked about the burned house"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"It's bad luck to talk about that place.\"",
+        "Dialogue": "It's bad luck to talk about that place.",
         "Event": "the Player passing next to a guard on the road",
         "Condition": "that the guard is a Morthal Guard and is asked about the burned house"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"You should talk to the Jarl up in Dragonsreach, lend any aid you can.\"",
+        "Dialogue": "You should talk to the Jarl up in Dragonsreach, lend any aid you can.",
         "Event": "the Player passing next to a guard on the road",
         "Condition": "the is Guard in Whiterun "
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Stormcloaks, Imperials, dragons. Ain't no matter to me what I kill. Let them come.\"",
+        "Dialogue": "Stormcloaks, Imperials, dragons. Ain't no matter to me what I kill. Let them come.",
         "Event": "the Player passing next to a guard on the road",
         "Condition": "the Player has sided with legion"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Guard might get nervous, a man/woman approaches with his/her weapon drawn...\"",
+        "Dialogue": "Guard might get nervous, a man/woman approaches with his/her weapon drawn...",
         "Event": "a Guard reacting to witnessed events",
         "Condition": "the Guard is approached by the player with weapons drawn."
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Sheathe those claws, Khajiit.\"",
+        "Dialogue": "Sheathe those claws, Khajiit.",
         "Event": "a Guard reacting to witnessed events",
         "Condition": "the Guard is approached by the player with fists raised and the player is a Khajiit"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"You come up to me, fists raised? You looking for a beating?\"",
+        "Dialogue": "You come up to me, fists raised? You looking for a beating?",
         "Event": "a Guard reacting to witnessed events",
         "Condition": "the Guard is approached by the player with fists raised."
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Whoa, whoa, whoa! Watch the magic!\"",
+        "Dialogue": "Whoa, whoa, whoa! Watch the magic!",
         "Event": "a Guard reacting to witnessed events",
         "Condition": "the player casts a spell in the guard's presence."
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Go cast your fancy magic someplace else.\"",
+        "Dialogue": "Go cast your fancy magic someplace else.",
         "Event": "a Guard reacting to witnessed events",
         "Condition": "the Guard is approached by the player with magic spells ready."
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"By all I hold sacred... that's a Shout! Like the Graybeards [sic] on their mountain!\"",
+        "Dialogue": "By all I hold sacred... that's a Shout! Like the Graybeards [sic] on their mountain!",
         "Event": "a Guard reacting to witnessed events",
         "Condition": "the Player uses a non-aggressive dragon shout in front of a guard."
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"By the Gods! What manner of power is that?\"",
+        "Dialogue": "By the Gods! What manner of power is that?",
         "Event": "a Guard reacting to witnessed events",
         "Condition": "the Player uses a non-aggressive dragon shout in front of a guard."
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"It is the power of old! The Voice of the Dragonborn!\"",
+        "Dialogue": "It is the power of old! The Voice of the Dragonborn!",
         "Event": "a Guard reacting to witnessed events",
         "Condition": "the Player uses a non-aggressive dragon shout in front of a guard."
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"The Thu'um! He/She summons the Thu'um!\"",
+        "Dialogue": "The Thu'um! He/She summons the Thu'um!",
         "Event": "a Guard reacting to witnessed events",
         "Condition": "the Player uses a non-aggressive dragon shout in front of a guard."
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"I need to ask you to stop. That... shouting... is making people nervous.\"",
+        "Dialogue": "I need to ask you to stop. That... shouting... is making people nervous.",
         "Event": "a Guard reacting to witnessed events",
         "Condition": "it may happen when the player uses any dragon shout in front of a guard."
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"By order of the Jarl, stop right there!\"",
+        "Dialogue": "By order of the Jarl, stop right there!",
         "Event": "a Guard catching the Player right after a crime",
         "Condition": null
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"You have committed crimes against Skyrim and her people. What say you in your defense?\"",
+        "Dialogue": "You have committed crimes against Skyrim and her people. What say you in your defense?",
         "Event": "a Guard catching the Player right after a crime",
         "Condition": null
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Wait... I know you.\"",
+        "Dialogue": "Wait... I know you.",
         "Event": "the Player being recognized by a guard with a low bounty",
         "Condition": null
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Alright now. Everyone back away. Let the law handle this.\"",
+        "Dialogue": "Alright now. Everyone back away. Let the law handle this.",
         "Event": "a Guard discovering a corpse",
         "Condition": null
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"If anyone saw anything, step forward. Otherwise, step away from the body.\"",
+        "Dialogue": "If anyone saw anything, step forward. Otherwise, step away from the body.",
         "Event": "a Guard discovering a corpse",
         "Condition": null
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"You shouldn't leave weapons laying around. Someone could get hurt. And if I see you do it again, that someone will be you. Have I made myself clear?\"",
+        "Dialogue": "You shouldn't leave weapons laying around. Someone could get hurt. And if I see you do it again, that someone will be you. Have I made myself clear?",
         "Event": "a Guard reacting to the Player dropping their weapon",
         "Condition": null
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Hmm. I still don't like it, but I guess I'll overlook it. This time.\"",
+        "Dialogue": "Hmm. I still don't like it, but I guess I'll overlook it. This time.",
         "Event": "a Guard reacting to witnessed events",
         "Condition": "the Player convinces guard to ignore crime."
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"I find your wolfish grin... unsettling.\"",
+        "Dialogue": "I find your wolfish grin... unsettling.",
         "Event": "a Guard reacting to the Player's condition",
         "Condition": "the Player is a Werewolf in human form"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Is that... fur? Coming out of your ears?\"",
+        "Dialogue": "Is that... fur? Coming out of your ears?",
         "Event": "a Guard reacting to the Player's condition",
         "Condition": "the Player is a Werewolf in human form"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Uch. Been tending your hounds? You smell like a wet dog.\"",
+        "Dialogue": "Uch. Been tending your hounds? You smell like a wet dog.",
         "Event": "a Guard reacting to the Player's condition",
         "Condition": "the Player is a Werewolf in human form"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Werewolf!\"",
+        "Dialogue": "Werewolf!",
         "Event": "a Guard reacting to the Player's condition",
         "Condition": "the Player is a Werewolf in beast form"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"It's a werewolf! To arms! To arms!\"",
+        "Dialogue": "It's a werewolf! To arms! To arms!",
         "Event": "a Guard reacting to the Player's condition",
         "Condition": "the Player is a Werewolf in beast form"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Vampire! Burn it!\"",
+        "Dialogue": "Vampire! Burn it!",
         "Event": "a Guard reacting to the Player's condition",
         "Condition": "the Player is afflicted with Vampirism"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Vampire! To arms!\"",
+        "Dialogue": "Vampire! To arms!",
         "Event": "a Guard reacting to the Player's condition",
         "Condition": "the Player is afflicted with Vampirism"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Wait... I know you.\"",
+        "Dialogue": "Wait... I know you.",
         "Event": "a Guard reacting to the Player's condition",
         "Condition": "the Player has a Bounty in that Hold"
     }

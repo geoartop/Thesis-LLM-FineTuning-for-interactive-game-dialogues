@@ -1,91 +1,91 @@
 [
     {
         "Speaker": "Any",
-        "Dialogue": "\"Okay. Just this once.\"",
+        "Dialogue": "Okay. Just this once.",
         "Event": "accepting the Player's persuasion",
         "Result": "there is not any further escalation"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"How can I argue with that?\"",
+        "Dialogue": "How can I argue with that?",
         "Event": "accepting the Player's persuasion",
         "Result": "there is not any further escalation"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Okay, okay. You've talked me into it.\"",
+        "Dialogue": "Okay, okay. You've talked me into it.",
         "Event": "accepting the Player's persuasion",
         "Result": "there is not any further escalation"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"No need to get rough!\"",
+        "Dialogue": "No need to get rough!",
         "Event": "accepting the Player's intimidation",
         "Result": "there is not any further escalation"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Whatever you say!\"",
+        "Dialogue": "Whatever you say!",
         "Event": "accepting the Player's intimidation",
         "Result": "there is not any further escalation"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Don't hurt me! You win.\"",
+        "Dialogue": "Don't hurt me! You win.",
         "Event": "accepting the Player's intimidation",
         "Result": "there is not any further escalation"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"A little coin always greases the wheels.\"",
+        "Dialogue": "A little coin always greases the wheels.",
         "Event": "Accepting the Player's bribe",
         "Result": "there is not any further escalation"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Gold solves most problems, doesn't it?\"",
+        "Dialogue": "Gold solves most problems, doesn't it?",
         "Event": "Accepting the Player's bribe",
         "Result": "there is not any further escalation"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"For that price? Sure.\"",
+        "Dialogue": "For that price? Sure.",
         "Event": "Accepting the Player's bribe",
         "Result": "there is not any further escalation"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"You expect me to believe that?\"",
+        "Dialogue": "You expect me to believe that?",
         "Event": "rejecting the Player's persuasion",
         "Result": "there is not any further escalation"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Nah. I don't think so.\"",
+        "Dialogue": "Nah. I don't think so.",
         "Event": "rejecting the Player's persuasion",
         "Result": "there is not any further escalation"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"That doesn't change anything.\"",
+        "Dialogue": "That doesn't change anything.",
         "Event": "rejecting the Player's persuasion",
         "Result": "there is not any further escalation"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"I'll teach you to talk to me that way!\"",
+        "Dialogue": "I'll teach you to talk to me that way!",
         "Event": "rejecting the Player's intimidation",
         "Result": "a brawl begins"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Hope you're willing to back those words up with your fists!\"",
+        "Dialogue": "Hope you're willing to back those words up with your fists!",
         "Event": "rejecting the Player's intimidation",
         "Result": "a brawl begins"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"I don't have to take that from you!\"",
+        "Dialogue": "I don't have to take that from you!",
         "Event": "rejecting the Player's intimidation",
         "Result": "a brawl begins"
     }

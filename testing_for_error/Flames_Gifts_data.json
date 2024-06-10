@@ -1,392 +1,392 @@
 [
     {
         "Speaker": "FemaleArgonian",
-        "Dialogue": "\"It should be careful with those flames.\"",
+        "Dialogue": "It should be careful with those flames.",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleArgonian",
-        "Dialogue": "\"It is planning on starting a fire?\"",
+        "Dialogue": "It is planning on starting a fire?",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleBrute",
-        "Dialogue": "\"Hey now, you be careful with that fire.\"",
+        "Dialogue": "Hey now, you be careful with that fire.",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleChild",
-        "Dialogue": "\"You're not supposed to play with fire, you know.\"",
+        "Dialogue": "You're not supposed to play with fire, you know.",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleChild",
-        "Dialogue": "\"I wish I could play with fire like that.\"",
+        "Dialogue": "I wish I could play with fire like that.",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleCommander",
-        "Dialogue": "\"Take care not to set anything on fire.\"",
+        "Dialogue": "Take care not to set anything on fire.",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleCommander",
-        "Dialogue": "\"Take care with those flames.\"",
+        "Dialogue": "Take care with those flames.",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleNordCommander",
-        "Dialogue": "\"Take care with those flames.\"",
+        "Dialogue": "Take care with those flames.",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleCommoner",
-        "Dialogue": "\"You're not afraid you'll set fire to something?\"",
+        "Dialogue": "You're not afraid you'll set fire to something?",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleCommoner",
-        "Dialogue": "\"Mind yourself with that fire. Don't burn anything down, now.\"",
+        "Dialogue": "Mind yourself with that fire. Don't burn anything down, now.",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleCommonerAccented",
-        "Dialogue": "\"Mind yourself with that fire. Don't burn anything down, now.\"",
+        "Dialogue": "Mind yourself with that fire. Don't burn anything down, now.",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleCondescending",
-        "Dialogue": "\"What kind of fool plays with fire like that?\"",
+        "Dialogue": "What kind of fool plays with fire like that?",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleCondescending",
-        "Dialogue": "\"Have a fascination with fire, do we?\"",
+        "Dialogue": "Have a fascination with fire, do we?",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleCoward",
-        "Dialogue": "\"You're not planning on burning anything with that, are you?\"",
+        "Dialogue": "You're not planning on burning anything with that, are you?",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleCoward",
-        "Dialogue": "\"Umm... don't suppose you'd want to take that fire somewhere else? You know... somewhere away from me?\"",
+        "Dialogue": "Umm... don't suppose you'd want to take that fire somewhere else? You know... somewhere away from me?",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleDarkElf",
-        "Dialogue": "\"Careful not to torch anything important.\"",
+        "Dialogue": "Careful not to torch anything important.",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleDarkElf",
-        "Dialogue": "\"Careful with those flames, unless you plan on torching something.\"",
+        "Dialogue": "Careful with those flames, unless you plan on torching something.",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleDrunk",
-        "Dialogue": "\"Fire!\"",
+        "Dialogue": "Fire!",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleElfHaughty",
-        "Dialogue": "\"I do hope you know what you're doing with those flames...\"",
+        "Dialogue": "I do hope you know what you're doing with those flames...",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleElfHaughty",
-        "Dialogue": "\"I do hope you know what your doing with those flames. It would be quite a shame if something caught fire.\"",
+        "Dialogue": "I do hope you know what your doing with those flames. It would be quite a shame if something caught fire.",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleEvenToned",
-        "Dialogue": "\"Try not to set anything on fire, all right?\"",
+        "Dialogue": "Try not to set anything on fire, all right?",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleEvenToned",
-        "Dialogue": "\"Don't set anything on fire, all right?\"",
+        "Dialogue": "Don't set anything on fire, all right?",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleEvenTonedAccented",
-        "Dialogue": "\"Don't set anything on fire, all right?\"",
+        "Dialogue": "Don't set anything on fire, all right?",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleKhajiit",
-        "Dialogue": "\"Fire is not a thing to be played with...\"",
+        "Dialogue": "Fire is not a thing to be played with...",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleKhajiit",
-        "Dialogue": "\"Fire is not a toy.\"",
+        "Dialogue": "Fire is not a toy.",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleNord",
-        "Dialogue": "\"Careful with that fire.\"",
+        "Dialogue": "Careful with that fire.",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleNord",
-        "Dialogue": "\"Don't go setting the place on fire, okay?\"",
+        "Dialogue": "Don't go setting the place on fire, okay?",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleOldGrumpy",
-        "Dialogue": "\"What's the matter with you? You want to start a blaze?\"",
+        "Dialogue": "What's the matter with you? You want to start a blaze?",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleOldGrumpy",
-        "Dialogue": "\"Plan on burning everything down, do you? Damn fool.\"",
+        "Dialogue": "Plan on burning everything down, do you? Damn fool.",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleOldKindly",
-        "Dialogue": "\"Dear, you really ought to be careful with fire.\"",
+        "Dialogue": "Dear, you really ought to be careful with fire.",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleOldKindly",
-        "Dialogue": "\"You should be more careful with those flames.\"",
+        "Dialogue": "You should be more careful with those flames.",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleOrc",
-        "Dialogue": "\"Better not set anything on fire.\"",
+        "Dialogue": "Better not set anything on fire.",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleOrc",
-        "Dialogue": "\"Those flames get out of control, and you're gonna wish they hadn't.\"",
+        "Dialogue": "Those flames get out of control, and you're gonna wish they hadn't.",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleShrill",
-        "Dialogue": "\"What do you think you're doing? Knock it off with the flames already.\"",
+        "Dialogue": "What do you think you're doing? Knock it off with the flames already.",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleSlyCynical",
-        "Dialogue": "\"Careful, now. Wouldn't want someone to get... burned.\"",
+        "Dialogue": "Careful, now. Wouldn't want someone to get... burned.",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleSoldier",
-        "Dialogue": "\"Careful with that fire.\"",
+        "Dialogue": "Careful with that fire.",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleSultry",
-        "Dialogue": "\"Is it getting hot, or is it just me?\"",
+        "Dialogue": "Is it getting hot, or is it just me?",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleYoungEager",
-        "Dialogue": "\"Whoa. Hope you know what you're doing with those flames there.\"",
+        "Dialogue": "Whoa. Hope you know what you're doing with those flames there.",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleYoungEager",
-        "Dialogue": "\"You've got that fire under control. Right?\"",
+        "Dialogue": "You've got that fire under control. Right?",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "FemaleArgonian",
-        "Dialogue": "\"Here. For you. For my hatchling of the heart.\"",
+        "Dialogue": "Here. For you. For my hatchling of the heart.",
         "Event": "an NPC giving the Player a gift"
     },
     {
         "Speaker": "MaleArgonian",
-        "Dialogue": "\"You are like my brood to me. Here. A token.\"",
+        "Dialogue": "You are like my brood to me. Here. A token.",
         "Event": "an NPC giving the Player a gift"
     },
     {
         "Speaker": "MaleBrute",
-        "Dialogue": "\"You're a good friend. Here. Take this. You'll like it.\"",
+        "Dialogue": "You're a good friend. Here. Take this. You'll like it.",
         "Event": "an NPC giving the Player a gift"
     },
     {
         "Speaker": "FemaleChild",
-        "Dialogue": "\"I found this. I thought you might like it.\"",
+        "Dialogue": "I found this. I thought you might like it.",
         "Event": "an NPC giving the Player a gift"
     },
     {
         "Speaker": "MaleChild",
-        "Dialogue": "\"So I found something. Here. Take it. I think you'll like it.\"",
+        "Dialogue": "So I found something. Here. Take it. I think you'll like it.",
         "Event": "an NPC giving the Player a gift"
     },
     {
         "Speaker": "FemaleCommander",
-        "Dialogue": "\"I wanted to give you this. A token of my appreciation.\"",
+        "Dialogue": "I wanted to give you this. A token of my appreciation.",
         "Event": "an NPC giving the Player a gift"
     },
     {
         "Speaker": "MaleCommander",
-        "Dialogue": "\"Here. This is for you.\"",
+        "Dialogue": "Here. This is for you.",
         "Event": "an NPC giving the Player a gift"
     },
     {
         "Speaker": "MaleNordCommander",
-        "Dialogue": "\"Here. This is for you.\"",
+        "Dialogue": "Here. This is for you.",
         "Event": "an NPC giving the Player a gift"
     },
     {
         "Speaker": "FemaleCommoner",
-        "Dialogue": "\"Here. It isn't much, but... I hope it's the thought that counts.\"",
+        "Dialogue": "Here. It isn't much, but... I hope it's the thought that counts.",
         "Event": "an NPC giving the Player a gift"
     },
     {
         "Speaker": "MaleCommoner",
-        "Dialogue": "\"I've been wanting to say thanks for being a friend. Here. It's not much, but I was thinking you might like to have this.\"",
+        "Dialogue": "I've been wanting to say thanks for being a friend. Here. It's not much, but I was thinking you might like to have this.",
         "Event": "an NPC giving the Player a gift"
     },
     {
         "Speaker": "MaleCommonerAccented",
-        "Dialogue": "\"I've been wanting to say thanks for being a friend. Here. It's not much, but I was thinking you might like to have this.\"",
+        "Dialogue": "I've been wanting to say thanks for being a friend. Here. It's not much, but I was thinking you might like to have this.",
         "Event": "an NPC giving the Player a gift"
     },
     {
         "Speaker": "FemaleCondescending",
-        "Dialogue": "\"I saw this and thought of you. It would be a waste on anyone lesser. I hope you like it.\"",
+        "Dialogue": "I saw this and thought of you. It would be a waste on anyone lesser. I hope you like it.",
         "Event": "an NPC giving the Player a gift"
     },
     {
         "Speaker": "MaleCondescending",
-        "Dialogue": "\"You're not tiresome like the rest of the people I have the displeasure of dealing with on a regular basis. Here. I'd like you to have this.\"",
+        "Dialogue": "You're not tiresome like the rest of the people I have the displeasure of dealing with on a regular basis. Here. I'd like you to have this.",
         "Event": "an NPC giving the Player a gift"
     },
     {
         "Speaker": "FemaleCoward",
-        "Dialogue": "\"Um... I was thinking you might like this. Here. It's nothing really.\"",
+        "Dialogue": "Um... I was thinking you might like this. Here. It's nothing really.",
         "Event": "an NPC giving the Player a gift"
     },
     {
         "Speaker": "MaleCoward",
-        "Dialogue": "\"So... I've been thinking... I'm grateful we're friends. I'd like you to have this. It's not much, but I hope it's something you like.\"",
+        "Dialogue": "So... I've been thinking... I'm grateful we're friends. I'd like you to have this. It's not much, but I hope it's something you like.",
         "Event": "an NPC giving the Player a gift"
     },
     {
         "Speaker": "FemaleDarkElf",
-        "Dialogue": "\"In dark times friends bring light. This is for you. Thank you for your friendship.\"",
+        "Dialogue": "In dark times friends bring light. This is for you. Thank you for your friendship.",
         "Event": "an NPC giving the Player a gift"
     },
     {
         "Speaker": "MaleDarkElf",
-        "Dialogue": "\"A true friend is a gift. Here. I'd like you to have this.\"",
+        "Dialogue": "A true friend is a gift. Here. I'd like you to have this.",
         "Event": "an NPC giving the Player a gift"
     },
     {
         "Speaker": "MaleDrunk",
-        "Dialogue": "\"You know... you ain't so bad. Here. Take this...\"",
+        "Dialogue": "You know... you ain't so bad. Here. Take this...",
         "Event": "an NPC giving the Player a gift"
     },
     {
         "Speaker": "FemaleElfHaughty",
-        "Dialogue": "\"I had to get this for you when I saw it. I hope you like it.\"",
+        "Dialogue": "I had to get this for you when I saw it. I hope you like it.",
         "Event": "an NPC giving the Player a gift"
     },
     {
         "Speaker": "MaleElfHaughty",
-        "Dialogue": "\"When I found this, I immediately thought of you. Here. A small token of my gratitude.\"",
+        "Dialogue": "When I found this, I immediately thought of you. Here. A small token of my gratitude.",
         "Event": "an NPC giving the Player a gift"
     },
     {
         "Speaker": "FemaleEvenToned",
-        "Dialogue": "\"I'm glad we're friends. I have something for you. Here.\"",
+        "Dialogue": "I'm glad we're friends. I have something for you. Here.",
         "Event": "an NPC giving the Player a gift"
     },
     {
         "Speaker": "MaleEvenToned",
-        "Dialogue": "\"Here. I'd like you to have this as a token my friendship.\"",
+        "Dialogue": "Here. I'd like you to have this as a token my friendship.",
         "Event": "an NPC giving the Player a gift"
     },
     {
         "Speaker": "MaleEvenTonedAccented",
-        "Dialogue": "\"Here. I'd like you to have this as a token my friendship.\"",
+        "Dialogue": "Here. I'd like you to have this as a token my friendship.",
         "Event": "an NPC giving the Player a gift"
     },
     {
         "Speaker": "FemaleKhajiit",
-        "Dialogue": "\"This one is honored by your friendship. I hope this gift does honor to you.\"",
+        "Dialogue": "This one is honored by your friendship. I hope this gift does honor to you.",
         "Event": "an NPC giving the Player a gift"
     },
     {
         "Speaker": "MaleKhajiit",
-        "Dialogue": "\"You bring a smile to this one's eyes and peace to his heart. Take this. A small token of appreciation.\"",
+        "Dialogue": "You bring a smile to this one's eyes and peace to his heart. Take this. A small token of appreciation.",
         "Event": "an NPC giving the Player a gift"
     },
     {
         "Speaker": "FemaleNord",
-        "Dialogue": "\"Here's to friendship. A gift! If you don't like it, too bad.\"",
+        "Dialogue": "Here's to friendship. A gift! If you don't like it, too bad.",
         "Event": "an NPC giving the Player a gift"
     },
     {
         "Speaker": "MaleNord",
-        "Dialogue": "\"In a world of fools, you stand out above the rest. Here, take this small sign of my friendship.\"",
+        "Dialogue": "In a world of fools, you stand out above the rest. Here, take this small sign of my friendship.",
         "Event": "an NPC giving the Player a gift"
     },
     {
         "Speaker": "FemaleOldGrumpy",
-        "Dialogue": "\"You're always a sight for sore eyes. Here, I've been hanging on to this for you.\"",
+        "Dialogue": "You're always a sight for sore eyes. Here, I've been hanging on to this for you.",
         "Event": "an NPC giving the Player a gift"
     },
     {
         "Speaker": "MaleOldGrumpy",
-        "Dialogue": "\"Here. Something I want you to have. Now, don't embarrass either of us by saying something sappy. Just... take it.\"",
+        "Dialogue": "Here. Something I want you to have. Now, don't embarrass either of us by saying something sappy. Just... take it.",
         "Event": "an NPC giving the Player a gift"
     },
     {
         "Speaker": "FemaleOldKindly",
-        "Dialogue": "\"I've been holding on to this for you. I hope you like it.\"",
+        "Dialogue": "I've been holding on to this for you. I hope you like it.",
         "Event": "an NPC giving the Player a gift"
     },
     {
         "Speaker": "MaleOldKindly",
-        "Dialogue": "\"I've been holding onto this for you. Here! I hope you like it.\"",
+        "Dialogue": "I've been holding onto this for you. Here! I hope you like it.",
         "Event": "an NPC giving the Player a gift"
     },
     {
         "Speaker": "FemaleOrc",
-        "Dialogue": "\"I have something I want to give to you. Here.\"",
+        "Dialogue": "I have something I want to give to you. Here.",
         "Event": "an NPC giving the Player a gift"
     },
     {
         "Speaker": "MaleOrc",
-        "Dialogue": "\"Here. I want you to have this.\"",
+        "Dialogue": "Here. I want you to have this.",
         "Event": "an NPC giving the Player a gift"
     },
     {
         "Speaker": "FemaleShrill",
-        "Dialogue": "\"Here. For you. Don't thank me, just take it.\"",
+        "Dialogue": "Here. For you. Don't thank me, just take it.",
         "Event": "an NPC giving the Player a gift"
     },
     {
         "Speaker": "MaleSlyCynical",
-        "Dialogue": "\"I wanted you to have this. A token of my affection. Don't mean we're engaged or nothin'.\"",
+        "Dialogue": "I wanted you to have this. A token of my affection. Don't mean we're engaged or nothin'.",
         "Event": "an NPC giving the Player a gift"
     },
     {
         "Speaker": "MaleSoldier",
-        "Dialogue": "\"Here. Take this. I hope you like it.\"",
+        "Dialogue": "Here. Take this. I hope you like it.",
         "Event": "an NPC giving the Player a gift"
     },
     {
         "Speaker": "FemaleSultry",
-        "Dialogue": "\"You always brighten my day a little. Here. I hope you like this.\"",
+        "Dialogue": "You always brighten my day a little. Here. I hope you like this.",
         "Event": "an NPC giving the Player a gift"
     },
     {
         "Speaker": "FemaleYoungEager",
-        "Dialogue": "\"It's really great we're friends. I was hoping to find some way to thank you. I hope this does the trick.\"",
+        "Dialogue": "It's really great we're friends. I was hoping to find some way to thank you. I hope this does the trick.",
         "Event": "an NPC giving the Player a gift"
     },
     {
         "Speaker": "MaleYoungEager",
-        "Dialogue": "\"I got this for you. It's nothing big, but I hope you like it. I want you to know I appreciate your friendship.\"",
+        "Dialogue": "I got this for you. It's nothing big, but I hope you like it. I want you to know I appreciate your friendship.",
         "Event": "an NPC giving the Player a gift"
     }
 ]

@@ -1,211 +1,211 @@
 [
     {
         "Speaker": "MaleNord",
-        "Dialogue": "\"Hey! What's this?\"",
+        "Dialogue": "Hey! What's this?",
         "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "1st"
     },
     {
         "Speaker": "FemaleNord",
-        "Dialogue": "\"Who left that here?\"",
+        "Dialogue": "Who left that here?",
         "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "1st"
     },
     {
         "Speaker": "MaleDarkElf",
-        "Dialogue": "\"Well! Finders, keepers as they say.\"",
+        "Dialogue": "Well! Finders, keepers as they say.",
         "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "1st"
     },
     {
         "Speaker": "FemaleDarkElf",
-        "Dialogue": "\"If nobody wants that, I'll take it.\"",
+        "Dialogue": "If nobody wants that, I'll take it.",
         "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "1st"
     },
     {
         "Speaker": "MaleOrc",
-        "Dialogue": "\"Damn shame to leave that lying around.\"",
+        "Dialogue": "Damn shame to leave that lying around.",
         "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "1st"
     },
     {
         "Speaker": "FemaleOrc",
-        "Dialogue": "\"It's a bit worn, but I'll take it.\"",
+        "Dialogue": "It's a bit worn, but I'll take it.",
         "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "1st"
     },
     {
         "Speaker": "MaleSlyCynical",
-        "Dialogue": "\"Looks like it's my lucky day.\"",
+        "Dialogue": "Looks like it's my lucky day.",
         "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "1st"
     },
     {
         "Speaker": "MaleBrute",
-        "Dialogue": "\"Hmm. What's this?\"",
+        "Dialogue": "Hmm. What's this?",
         "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "1st"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"You're too slow. I saw it first.\"",
+        "Dialogue": "You're too slow. I saw it first.",
         "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "2nd"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Hey! That's my sword.\" (if item is a sword)",
+        "Dialogue": "Hey! That's my sword. (if item is a sword)",
         "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "2nd"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Don't touch that dagger! It's mine.\" (if item is a dagger)",
+        "Dialogue": "Don't touch that dagger! It's mine. (if item is a dagger)",
         "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "2nd"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"I don't think so. That axe is mine.\" (if item is a war axe or battleaxe)",
+        "Dialogue": "I don't think so. That axe is mine. (if item is a war axe or battleaxe)",
         "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "2nd"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Keep away from that bow. It's mine.\" (if item is a bow)",
+        "Dialogue": "Keep away from that bow. It's mine. (if item is a bow)",
         "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "2nd"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Hands off. That's my armor now!\" (if item is a light or heavy armor)",
+        "Dialogue": "Hands off. That's my armor now! (if item is a light or heavy armor)",
         "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "2nd"
     },
     {
         "Speaker": "MaleNord",
-        "Dialogue": "\"No. It's mine!\"",
+        "Dialogue": "No. It's mine!",
         "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "3rd"
     },
     {
         "Speaker": "FemaleNord",
-        "Dialogue": "\"Not if I get it first.\"",
+        "Dialogue": "Not if I get it first.",
         "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "3rd"
     },
     {
         "Speaker": "MaleDarkElf",
-        "Dialogue": "\"I saw it first! I'm taking it.\"",
+        "Dialogue": "I saw it first! I'm taking it.",
         "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "3rd"
     },
     {
         "Speaker": "FemaleDarkElf",
-        "Dialogue": "\"I don't think so!\"",
+        "Dialogue": "I don't think so!",
         "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "3rd"
     },
     {
         "Speaker": "MaleOrc",
-        "Dialogue": "\"I'm taking it anyway.\"",
+        "Dialogue": "I'm taking it anyway.",
         "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "3rd"
     },
     {
         "Speaker": "FemaleOrc",
-        "Dialogue": "\"We'll see about that.\"",
+        "Dialogue": "We'll see about that.",
         "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "3rd"
     },
     {
         "Speaker": "MaleSlyCynical",
-        "Dialogue": "\"I think not.\"",
+        "Dialogue": "I think not.",
         "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "3rd"
     },
     {
         "Speaker": "MaleBrute",
-        "Dialogue": "\"No!\"",
+        "Dialogue": "No!",
         "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "3rd"
     },
     {
         "Speaker": "MaleNord",
-        "Dialogue": "\"If it's a fight you want, it's a fight you'll get.\"",
+        "Dialogue": "If it's a fight you want, it's a fight you'll get.",
         "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "4th"
     },
     {
         "Speaker": "FemaleNord",
-        "Dialogue": "\"You can take it over my dead body!\"",
+        "Dialogue": "You can take it over my dead body!",
         "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "4th"
     },
     {
         "Speaker": "MaleDarkElf",
-        "Dialogue": "\"You'll have to take it from me.\"",
+        "Dialogue": "You'll have to take it from me.",
         "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "4th"
     },
     {
         "Speaker": "FemaleDarkElf",
-        "Dialogue": "\"Back off!\"",
+        "Dialogue": "Back off!",
         "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "4th"
     },
     {
         "Speaker": "MaleOrc",
-        "Dialogue": "\"Your blood won't bother me!\"",
+        "Dialogue": "Your blood won't bother me!",
         "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "4th"
     },
     {
         "Speaker": "FemaleOrc",
-        "Dialogue": "\"You'll have to fight me for it.\"",
+        "Dialogue": "You'll have to fight me for it.",
         "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "4th"
     },
     {
         "Speaker": "MaleSlyCynical",
-        "Dialogue": "\"You're too slow and stupid to take it from me.\"",
+        "Dialogue": "You're too slow and stupid to take it from me.",
         "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "4th"
     },
     {
         "Speaker": "MaleBrute",
-        "Dialogue": "\"I'll hurt you if I have to.\"",
+        "Dialogue": "I'll hurt you if I have to.",
         "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "4th"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"That can be arranged.\"",
+        "Dialogue": "That can be arranged.",
         "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "5th"
     },
     {
         "Speaker": "Bystander",
-        "Dialogue": "\"What's all the commotion?\"",
+        "Dialogue": "What's all the commotion?",
         "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "6th"
     },
     {
         "Speaker": "Bystander",
-        "Dialogue": "\"Someone's going to get hurt.\"",
+        "Dialogue": "Someone's going to get hurt.",
         "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "6th"
     },
     {
         "Speaker": "Bystander 2",
-        "Dialogue": "\"Damn. Another fight.\"",
+        "Dialogue": "Damn. Another fight.",
         "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "7th"
     },
     {
         "Speaker": "Bystander 2",
-        "Dialogue": "\"They're fighting over that thing, I think.\"",
+        "Dialogue": "They're fighting over that thing, I think.",
         "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "7th"
     }

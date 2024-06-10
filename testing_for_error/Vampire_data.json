@@ -1,82 +1,82 @@
 [
     {
         "Speaker": "MaleCommoner",
-        "Dialogue": "\"Don't like those eyes you got. There's a bad hunger to them.\"",
+        "Dialogue": "Don't like those eyes you got. There's a bad hunger to them.",
         "Event": "the Player being a vampire in front of an NPC"
     },
     {
         "Speaker": "MaleCommonerAccented",
-        "Dialogue": "\"Don't like those eyes you got. There's a bad hunger to them.\"",
+        "Dialogue": "Don't like those eyes you got. There's a bad hunger to them.",
         "Event": "the Player being a vampire in front of an NPC"
     },
     {
         "Speaker": "FemaleCommoner",
-        "Dialogue": "\"Don't like those eyes you got. There's a bad hunger to them.\"",
+        "Dialogue": "Don't like those eyes you got. There's a bad hunger to them.",
         "Event": "the Player being a vampire in front of an NPC"
     },
     {
         "Speaker": "MaleEvenToned",
-        "Dialogue": "\"Don't like those eyes you got. There's a bad hunger to them.\"",
+        "Dialogue": "Don't like those eyes you got. There's a bad hunger to them.",
         "Event": "the Player being a vampire in front of an NPC"
     },
     {
         "Speaker": "MaleEvenTonedAccented",
-        "Dialogue": "\"Don't like those eyes you got. There's a bad hunger to them.\"",
+        "Dialogue": "Don't like those eyes you got. There's a bad hunger to them.",
         "Event": "the Player being a vampire in front of an NPC"
     },
     {
         "Speaker": "FemaleEvenToned",
-        "Dialogue": "\"Don't like those eyes you got. There's a bad hunger to them.\"",
+        "Dialogue": "Don't like those eyes you got. There's a bad hunger to them.",
         "Event": "the Player being a vampire in front of an NPC"
     },
     {
         "Speaker": "MaleNord",
-        "Dialogue": "\"Don't like those eyes you got. There's a bad hunger to them.\"",
+        "Dialogue": "Don't like those eyes you got. There's a bad hunger to them.",
         "Event": "the Player being a vampire in front of an NPC"
     },
     {
         "Speaker": "FemaleNord",
-        "Dialogue": "\"Don't like those eyes you got. There's a bad hunger to them.\"",
+        "Dialogue": "Don't like those eyes you got. There's a bad hunger to them.",
         "Event": "the Player being a vampire in front of an NPC"
     },
     {
         "Speaker": "MaleCommoner",
-        "Dialogue": "\"Your skin's as pale as the snow. You scared of sunlight, or something?\"",
+        "Dialogue": "Your skin's as pale as the snow. You scared of sunlight, or something?",
         "Event": "the Player being a vampire in front of an NPC"
     },
     {
         "Speaker": "MaleCommonerAccented",
-        "Dialogue": "\"Your skin's as pale as the snow. You scared of sunlight, or something?\"",
+        "Dialogue": "Your skin's as pale as the snow. You scared of sunlight, or something?",
         "Event": "the Player being a vampire in front of an NPC"
     },
     {
         "Speaker": "FemaleCommoner",
-        "Dialogue": "\"Your skin's as pale as the snow. You scared of sunlight, or something?\"",
+        "Dialogue": "Your skin's as pale as the snow. You scared of sunlight, or something?",
         "Event": "the Player being a vampire in front of an NPC"
     },
     {
         "Speaker": "MaleEvenToned",
-        "Dialogue": "\"Your skin's as pale as the snow. You scared of sunlight, or something?\"",
+        "Dialogue": "Your skin's as pale as the snow. You scared of sunlight, or something?",
         "Event": "the Player being a vampire in front of an NPC"
     },
     {
         "Speaker": "MaleEvenTonedAccented",
-        "Dialogue": "\"Your skin's as pale as the snow. You scared of sunlight, or something?\"",
+        "Dialogue": "Your skin's as pale as the snow. You scared of sunlight, or something?",
         "Event": "the Player being a vampire in front of an NPC"
     },
     {
         "Speaker": "FemaleEvenToned",
-        "Dialogue": "\"Your skin's as pale as the snow. You scared of sunlight, or something?\"",
+        "Dialogue": "Your skin's as pale as the snow. You scared of sunlight, or something?",
         "Event": "the Player being a vampire in front of an NPC"
     },
     {
         "Speaker": "MaleNord",
-        "Dialogue": "\"Your skin's as pale as the snow. You scared of sunlight, or something?\"",
+        "Dialogue": "Your skin's as pale as the snow. You scared of sunlight, or something?",
         "Event": "the Player being a vampire in front of an NPC"
     },
     {
         "Speaker": "FemaleNord",
-        "Dialogue": "\"Your skin's as pale as the snow. You scared of sunlight, or something?\"",
+        "Dialogue": "Your skin's as pale as the snow. You scared of sunlight, or something?",
         "Event": "the Player being a vampire in front of an NPC"
     }
 ]

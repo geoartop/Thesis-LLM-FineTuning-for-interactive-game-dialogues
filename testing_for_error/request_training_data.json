@@ -1,237 +1,237 @@
 [
     {
         "Speaker": "Babette",
-        "Dialogue": "\"It's as rewarding as it is dangerous. Let's see what I can show you.\"",
+        "Dialogue": "It's as rewarding as it is dangerous. Let's see what I can show you.",
         "Event": "the Player asking a trainer NPC for training in Alcehmy "
     },
     {
         "Speaker": "Arcadia",
-        "Dialogue": "\"I think I can teach you a thing or two.\"",
+        "Dialogue": "I think I can teach you a thing or two.",
         "Event": "the Player asking a trainer NPC for training in Alcehmy "
     },
     {
         "Speaker": "Lami",
-        "Dialogue": "\"I think I can teach you a thing or two.\"",
+        "Dialogue": "I think I can teach you a thing or two.",
         "Event": "the Player asking a trainer NPC for training in Alcehmy "
     },
     {
         "Speaker": "Aela the Huntress",
-        "Dialogue": "\"I'll show you what I know.\"",
+        "Dialogue": "I'll show you what I know.",
         "Event": "the Player asking a trainer NPC for training in Archery"
     },
     {
         "Speaker": "Faendal",
-        "Dialogue": "\"I'll show you what I know.\"",
+        "Dialogue": "I'll show you what I know.",
         "Event": "the Player asking a trainer NPC for training in Archery"
     },
     {
         "Speaker": "Niruin",
-        "Dialogue": "\"I'll show you what I know.\"",
+        "Dialogue": "I'll show you what I know.",
         "Event": "the Player asking a trainer NPC for training in Archery"
     },
     {
         "Speaker": "Dravynea the Stoneweaver",
-        "Dialogue": "\"I can certainly share a bit of what I know.\"",
+        "Dialogue": "I can certainly share a bit of what I know.",
         "Event": "the Player asking a trainer NPC for training in Alteration Magic"
     },
     {
         "Speaker": "Tolfdir",
-        "Dialogue": "\"I can certainly share a bit of what I know.\"",
+        "Dialogue": "I can certainly share a bit of what I know.",
         "Event": "the Player asking a trainer NPC for training in Alteration Magic"
     },
     {
         "Speaker": "Chief Larak",
-        "Dialogue": "\"You wish to learn from the best, eh? So be it.\"",
+        "Dialogue": "You wish to learn from the best, eh? So be it.",
         "Event": "the Player asking a trainer NPC for training in Blocking"
     },
     {
         "Speaker": "Njada Stonearm",
-        "Dialogue": "\"I can. It might save your life.\"",
+        "Dialogue": "I can. It might save your life.",
         "Event": "the Player asking a trainer NPC for training in Blocking"
     },
     {
         "Speaker": "Falion",
-        "Dialogue": "\"You deal with powerful forces. Take care they do not overwhelm you.\"",
+        "Dialogue": "You deal with powerful forces. Take care they do not overwhelm you.",
         "Event": "the Player asking a trainer NPC for training in Conjuction"
     },
     {
         "Speaker": "Phinis Gestor",
-        "Dialogue": "\"I'll teach you some of what I know, but be careful.\"",
+        "Dialogue": "I'll teach you some of what I know, but be careful.",
         "Event": "the Player asking a trainer NPC for training in Conjuction"
     },
     {
         "Speaker": "Runil",
-        "Dialogue": "\"I'll teach you some of what I know, but be careful.\"",
+        "Dialogue": "I'll teach you some of what I know, but be careful.",
         "Event": "the Player asking a trainer NPC for training in Conjuction"
     },
     {
         "Speaker": "Faralda",
-        "Dialogue": "\"I can teach you, but I won't be held responsible for what you do with the knowledge.\"",
+        "Dialogue": "I can teach you, but I won't be held responsible for what you do with the knowledge.",
         "Event": "the Player asking a trainer NPC for training in Dstruction Magic"
     },
     {
         "Speaker": "Sybille Stentor",
-        "Dialogue": "\"I can teach you, but I won't be held responsible for what you do with the knowledge.\"",
+        "Dialogue": "I can teach you, but I won't be held responsible for what you do with the knowledge.",
         "Event": "the Player asking a trainer NPC for training in Dstruction Magic"
     },
     {
         "Speaker": "Wuunferth the Unliving",
-        "Dialogue": "\"Mind what - or who - you practice this on.\"",
+        "Dialogue": "Mind what - or who - you practice this on.",
         "Event": "the Player asking a trainer NPC for training in Dstruction Magic"
     },
     {
         "Speaker": "Hamal",
-        "Dialogue": "\"You've come to the right place. I'd be happy to teach you.\"",
+        "Dialogue": "You've come to the right place. I'd be happy to teach you.",
         "Event": "the Player asking a trainer NPC for training in Enchanting"
     },
     {
         "Speaker": "Sergius Turrianus",
-        "Dialogue": "\"You've come to the right place. I'd be happy to teach you.\"",
+        "Dialogue": "You've come to the right place. I'd be happy to teach you.",
         "Event": "the Player asking a trainer NPC for training in Enchanting"
     },
     {
         "Speaker": "Farkas",
-        "Dialogue": "\"I'll show you what I can about protecting yourself.\"",
+        "Dialogue": "I'll show you what I can about protecting yourself.",
         "Event": "the Player asking a trainer NPC for training in the better use of Heavy Armor"
     },
     {
         "Speaker": "Gharol",
-        "Dialogue": "\"Use it right, and you won't feel a thing.\"",
+        "Dialogue": "Use it right, and you won't feel a thing.",
         "Event": "the Player asking a trainer NPC for training in the better use of Heavy Armor"
     },
     {
         "Speaker": "Drevis Neloren",
-        "Dialogue": "\"I shall explain to you the mysteries of the outer realms.\"",
+        "Dialogue": "I shall explain to you the mysteries of the outer realms.",
         "Event": "the Player asking a trainer NPC for training in Illusion Magic"
     },
     {
         "Speaker": "Atub",
-        "Dialogue": "\"Your power over others shall be great, like mine.\"",
+        "Dialogue": "Your power over others shall be great, like mine.",
         "Event": "the Player asking a trainer NPC for training in Illusion Magic"
     },
     {
         "Speaker": "Grelka",
-        "Dialogue": "\"I'll teach you how to use it effectively, and keep you quick on your feet.\"",
+        "Dialogue": "I'll teach you how to use it effectively, and keep you quick on your feet.",
         "Event": "the Player asking a trainer NPC for training in the better use of Light Armor"
     },
     {
         "Speaker": "Nazir",
-        "Dialogue": "\"I'll teach you how to use it effectively, and keep you quick on your feet.\"",
+        "Dialogue": "I'll teach you how to use it effectively, and keep you quick on your feet.",
         "Event": "the Player asking a trainer NPC for training in the better use of Light Armor"
     },
     {
         "Speaker": "Scouts-Many-Marshes",
-        "Dialogue": "\"You'll be able to run circles around the big, slow brutes in Heavy Armor.\"",
+        "Dialogue": "You'll be able to run circles around the big, slow brutes in Heavy Armor.",
         "Event": "the Player asking a trainer NPC for training in the better use of Light Armor"
     },
     {
         "Speaker": "Ma'jhad",
-        "Dialogue": "\"All right, but if you get arrested don't blame it on me.\"",
+        "Dialogue": "All right, but if you get arrested don't blame it on me.",
         "Event": "the Player asking a trainer NPC for training in Lockpicking"
     },
     {
         "Speaker": "Vex",
-        "Dialogue": "\"All right, but if you get arrested don't blame it on me.\"",
+        "Dialogue": "All right, but if you get arrested don't blame it on me.",
         "Event": "the Player asking a trainer NPC for training in Lockpicking"
     },
     {
         "Speaker": "Chief Burguk",
-        "Dialogue": "\"You'll never compare to me, but I can try and teach you anyway.\"'",
+        "Dialogue": "You'll never compare to me, but I can try and teach you anyway.'",
         "Event": "the Player asking a trainer NPC for training in One-Handed Weapons"
     },
     {
         "Speaker": "Amren",
-        "Dialogue": "\"I can teach you a few things.\"",
+        "Dialogue": "I can teach you a few things.",
         "Event": "the Player asking a trainer NPC for training in One-Handed Weapons"
     },
     {
         "Speaker": "Athis",
-        "Dialogue": "\"I can teach you a few things.\"",
+        "Dialogue": "I can teach you a few things.",
         "Event": "the Player asking a trainer NPC for training in One-Handed Weapons"
     },
     {
         "Speaker": "Vipir the Fleet",
-        "Dialogue": "\"Up to no good, are we? I'll teach you, but it'll cost you.\"",
+        "Dialogue": "Up to no good, are we? I'll teach you, but it'll cost you.",
         "Event": "the Player asking a trainer NPC for training in Pickpocketing"
     },
     {
         "Speaker": "Silda the Unseen",
-        "Dialogue": "\"Up to no good, are we? I'll teach you, but it'll cost you.\"",
+        "Dialogue": "Up to no good, are we? I'll teach you, but it'll cost you.",
         "Event": "the Player asking a trainer NPC for training in Pickpocketing"
     },
     {
         "Speaker": "Colette",
-        "Dialogue": "\"I'll gladly share my knowledge with you.\"",
+        "Dialogue": "I'll gladly share my knowledge with you.",
         "Event": "the Player asking a trainer NPC for training in Restoration Magic"
     },
     {
         "Speaker": "Danica",
-        "Dialogue": "\"I'll gladly share my knowledge with you.\"",
+        "Dialogue": "I'll gladly share my knowledge with you.",
         "Event": "the Player asking a trainer NPC for training in Restoration Magic"
     },
     {
         "Speaker": "Carcette",
-        "Dialogue": "\"I'll gladly share my knowledge with you.\"",
+        "Dialogue": "I'll gladly share my knowledge with you.",
         "Event": "the Player asking a trainer NPC for training in Restoration Magic"
     },
     {
         "Speaker": "Ghorza gra-Bagol",
-        "Dialogue": "\"It's an honorable craft. I'll show you what I can.\"",
+        "Dialogue": "It's an honorable craft. I'll show you what I can.",
         "Event": "the Player asking a trainer NPC for training in Smithing"
     },
     {
         "Speaker": "Eorlund Gray-Mane",
-        "Dialogue": "\"It's an honorable craft. I'll show you what I can.\"",
+        "Dialogue": "It's an honorable craft. I'll show you what I can.",
         "Event": "the Player asking a trainer NPC for training in Smithing"
     },
     {
         "Speaker": "Balimund",
-        "Dialogue": "\"You wish to do what I do? Very well.\"",
+        "Dialogue": "You wish to do what I do? Very well.",
         "Event": "the Player asking a trainer NPC for training in Smithing"
     },
     {
         "Speaker": "Delvin Mallory",
-        "Dialogue": "\"Stick with me, and they'll never even know you're there.\"",
+        "Dialogue": "Stick with me, and they'll never even know you're there.",
         "Event": "the Player asking a trainer NPC for training in Sneaking "
     },
     {
         "Speaker": "Garvey",
-        "Dialogue": "\"I can show you a few things, but anyone asks, and my name never comes up. Understand?\"",
+        "Dialogue": "I can show you a few things, but anyone asks, and my name never comes up. Understand?",
         "Event": "the Player asking a trainer NPC for training in Sneaking "
     },
     {
         "Speaker": "Khayla",
-        "Dialogue": "\"They'll never see you coming.\"",
+        "Dialogue": "They'll never see you coming.",
         "Event": "the Player asking a trainer NPC for training in Sneaking "
     },
     {
         "Speaker": "Dro'marash",
-        "Dialogue": "\"Well, you've come to the right place.\"",
+        "Dialogue": "Well, you've come to the right place.",
         "Event": "the Player asking a trainer NPC for training in the art of Speech"
     },
     {
         "Speaker": "Giraud",
-        "Dialogue": "\"Well, you've come to the right place.\"",
+        "Dialogue": "Well, you've come to the right place.",
         "Event": "the Player asking a trainer NPC for training in the art of Speech"
     },
     {
         "Speaker": "Ogmund",
-        "Dialogue": "\"Well, you've come to the right place.\"",
+        "Dialogue": "Well, you've come to the right place.",
         "Event": "the Player asking a trainer NPC for training in the art of Speech"
     },
     {
         "Speaker": "Revyn",
-        "Dialogue": "\"Well, you've come to the right place.\"",
+        "Dialogue": "Well, you've come to the right place.",
         "Event": "the Player asking a trainer NPC for training in the art of Speech"
     },
     {
         "Speaker": "Torbjorn",
-        "Dialogue": "\"It's all in the swing. Let me show you.\"",
+        "Dialogue": "It's all in the swing. Let me show you.",
         "Event": "the Player asking a trainer NPC for training in Two-Handed Weapons"
     },
     {
         "Speaker": "Vilkas",
-        "Dialogue": "\"It's all in the swing. Let me show you.\"",
+        "Dialogue": "It's all in the swing. Let me show you.",
         "Event": "the Player asking a trainer NPC for training in Two-Handed Weapons"
     }
 ]

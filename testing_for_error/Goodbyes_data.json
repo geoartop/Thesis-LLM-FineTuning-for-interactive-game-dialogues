@@ -1,37 +1,37 @@
 [
     {
         "Speaker": "Any",
-        "Dialogue": "\"Until next time.\"",
+        "Dialogue": "Until next time.",
         "Event": "Goodbye"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Hmm hmm.\"",
+        "Dialogue": "Hmm hmm.",
         "Event": "Goodbye"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"All right, then.\"",
+        "Dialogue": "All right, then.",
         "Event": "Goodbye"
     },
     {
         "Speaker": "MaleCommander",
-        "Dialogue": "\"I'll take my leave, then.\"",
+        "Dialogue": "I'll take my leave, then.",
         "Event": "Goodbye"
     },
     {
         "Speaker": "MaleNordCommander",
-        "Dialogue": "\"I'll take my leave, then.\"",
+        "Dialogue": "I'll take my leave, then.",
         "Event": "Goodbye"
     },
     {
         "Speaker": "FemaleCommander",
-        "Dialogue": "\"I'll take my leave, then.\"",
+        "Dialogue": "I'll take my leave, then.",
         "Event": "Goodbye"
     },
     {
         "Speaker": "MaleCondescending",
-        "Dialogue": "\"Now if you'll excuse me...\"",
+        "Dialogue": "Now if you'll excuse me...",
         "Event": "Goodbye"
     },
     {
@@ -41,97 +41,97 @@
     },
     {
         "Speaker": "MaleDarkElf",
-        "Dialogue": "\"Safe travels.\"",
+        "Dialogue": "Safe travels.",
         "Event": "Goodbye"
     },
     {
         "Speaker": "FemaleDarkElf",
-        "Dialogue": "\"Safe travels.\"",
+        "Dialogue": "Safe travels.",
         "Event": "Goodbye"
     },
     {
         "Speaker": "MaleDrunk",
-        "Dialogue": "\"Yeah yeah...\"",
+        "Dialogue": "Yeah yeah...",
         "Event": "Goodbye"
     },
     {
         "Speaker": "MaleEvenToned",
-        "Dialogue": "\"Farewell.\"",
+        "Dialogue": "Farewell.",
         "Event": "Goodbye"
     },
     {
         "Speaker": "MaleEvenTonedAccented",
-        "Dialogue": "\"Farewell.\"",
+        "Dialogue": "Farewell.",
         "Event": "Goodbye"
     },
     {
         "Speaker": "FemaleEvenToned",
-        "Dialogue": "\"Farewell.\"",
+        "Dialogue": "Farewell.",
         "Event": "Goodbye"
     },
     {
         "Speaker": "MaleKhajiit",
-        "Dialogue": "\"Swift hunting.\"",
+        "Dialogue": "Swift hunting.",
         "Event": "Goodbye"
     },
     {
         "Speaker": "FemaleKhajiit",
-        "Dialogue": "\"Swift hunting.\"",
+        "Dialogue": "Swift hunting.",
         "Event": "Goodbye"
     },
     {
         "Speaker": "MaleKhajiit",
-        "Dialogue": "\"May you walk on warm sands.\"",
+        "Dialogue": "May you walk on warm sands.",
         "Event": "Goodbye"
     },
     {
         "Speaker": "FemaleKhajiit",
-        "Dialogue": "\"May you walk on warm sands.\"",
+        "Dialogue": "May you walk on warm sands.",
         "Event": "Goodbye"
     },
     {
         "Speaker": "MaleNord",
-        "Dialogue": "\"Aye.\"",
+        "Dialogue": "Aye.",
         "Event": "Goodbye"
     },
     {
         "Speaker": "FemaleNord",
-        "Dialogue": "\"Aye.\"",
+        "Dialogue": "Aye.",
         "Event": "Goodbye"
     },
     {
         "Speaker": "MaleOldKindly",
-        "Dialogue": "\"Take care, now.\"",
+        "Dialogue": "Take care, now.",
         "Event": "Goodbye"
     },
     {
         "Speaker": "FemaleOldKindly",
-        "Dialogue": "\"Take care, now.\"",
+        "Dialogue": "Take care, now.",
         "Event": "Goodbye"
     },
     {
         "Speaker": "MaleOrc",
-        "Dialogue": "\"Fight well.\"",
+        "Dialogue": "Fight well.",
         "Event": "Goodbye"
     },
     {
         "Speaker": "FemaleOrc",
-        "Dialogue": "\"Fight well.\"",
+        "Dialogue": "Fight well.",
         "Event": "Goodbye"
     },
     {
         "Speaker": "FemaleSultry",
-        "Dialogue": "\"It's been a pleasure.\"",
+        "Dialogue": "It's been a pleasure.",
         "Event": "Goodbye"
     },
     {
         "Speaker": "FemaleSultry",
-        "Dialogue": "\"See you around.\"",
+        "Dialogue": "See you around.",
         "Event": "Goodbye"
     },
     {
         "Speaker": "MaleYoungEager",
-        "Dialogue": "\"I'd better get going.\"",
+        "Dialogue": "I'd better get going.",
         "Event": "Goodbye"
     }
 ]

@@ -1,842 +1,842 @@
 [
     {
         "Speaker": "MaleArgonian",
-        "Dialogue": "\"Ah! That felt refreshing.\"",
+        "Dialogue": "Ah! That felt refreshing.",
         "Event": "the Player casting a healing spell on the NPC"
     },
     {
         "Speaker": "FemaleArgonian",
-        "Dialogue": "\"Healing spells always leave me light-headed...\"",
+        "Dialogue": "Healing spells always leave me light-headed...",
         "Event": "the Player casting a healing spell on the NPC"
     },
     {
         "Speaker": "MaleBrute",
-        "Dialogue": "\"What...hey! That felt good.\"",
+        "Dialogue": "What...hey! That felt good.",
         "Event": "the Player casting a healing spell on the NPC"
     },
     {
         "Speaker": "MaleChild",
-        "Dialogue": "\"Wow! What was that? Do it again!\"",
+        "Dialogue": "Wow! What was that? Do it again!",
         "Event": "the Player casting a healing spell on the NPC"
     },
     {
         "Speaker": "FemaleChild",
-        "Dialogue": "\"Wow! What was that? Do it again!\"",
+        "Dialogue": "Wow! What was that? Do it again!",
         "Event": "the Player casting a healing spell on the NPC"
     },
     {
         "Speaker": "MaleCommander",
-        "Dialogue": "\"No need to do that now.\"",
+        "Dialogue": "No need to do that now.",
         "Event": "the Player casting a healing spell on the NPC"
     },
     {
         "Speaker": "MaleNordCommander",
-        "Dialogue": "\"Save it for the battlefield.\"",
+        "Dialogue": "Save it for the battlefield.",
         "Event": "the Player casting a healing spell on the NPC"
     },
     {
         "Speaker": "FemaleCommander",
-        "Dialogue": "\"My thanks. I feel... better.\"",
+        "Dialogue": "My thanks. I feel... better.",
         "Event": "the Player casting a healing spell on the NPC"
     },
     {
         "Speaker": "MaleCommoner",
-        "Dialogue": "\"Hmm. Feel a bit better now. Thanks.\"",
+        "Dialogue": "Hmm. Feel a bit better now. Thanks.",
         "Event": "the Player casting a healing spell on the NPC"
     },
     {
         "Speaker": "MaleCommonerAccented",
-        "Dialogue": "\"Hmm. Feel a bit better now. Thanks.\"",
+        "Dialogue": "Hmm. Feel a bit better now. Thanks.",
         "Event": "the Player casting a healing spell on the NPC"
     },
     {
         "Speaker": "FemaleCommoner",
-        "Dialogue": "\"I wasn't hurt, but that did make me feel better.\"",
+        "Dialogue": "I wasn't hurt, but that did make me feel better.",
         "Event": "the Player casting a healing spell on the NPC"
     },
     {
         "Speaker": "MaleCondescending",
-        "Dialogue": "\"I suppose you think you're better than me because you can do that?\"",
+        "Dialogue": "I suppose you think you're better than me because you can do that?",
         "Event": "the Player casting a healing spell on the NPC"
     },
     {
         "Speaker": "FemaleCondescending",
-        "Dialogue": "\"I suppose you think you're better than me because you can do that?\"",
+        "Dialogue": "I suppose you think you're better than me because you can do that?",
         "Event": "the Player casting a healing spell on the NPC"
     },
     {
         "Speaker": "MaleCoward",
-        "Dialogue": "\"Ah! What did you do? Stop that!\"",
+        "Dialogue": "Ah! What did you do? Stop that!",
         "Event": "the Player casting a healing spell on the NPC"
     },
     {
         "Speaker": "FemaleCoward",
-        "Dialogue": "\"Ah! What did you do? Stop that!\"",
+        "Dialogue": "Ah! What did you do? Stop that!",
         "Event": "the Player casting a healing spell on the NPC"
     },
     {
         "Speaker": "MaleDarkElf",
-        "Dialogue": "\"I hope you're not expecting a thank you.\"",
+        "Dialogue": "I hope you're not expecting a thank you.",
         "Event": "the Player casting a healing spell on the NPC"
     },
     {
         "Speaker": "FemaleDarkElf",
-        "Dialogue": "\"I hope you're not expecting a thank you.\"",
+        "Dialogue": "I hope you're not expecting a thank you.",
         "Event": "the Player casting a healing spell on the NPC"
     },
     {
         "Speaker": "MaleDrunk",
-        "Dialogue": "\"Hey! My hangover is gone!\"",
+        "Dialogue": "Hey! My hangover is gone!",
         "Event": "the Player casting a healing spell on the NPC"
     },
     {
         "Speaker": "MaleElfHaughty",
-        "Dialogue": "\"A healing spell? Was that really necessary?\"",
+        "Dialogue": "A healing spell? Was that really necessary?",
         "Event": "the Player casting a healing spell on the NPC"
     },
     {
         "Speaker": "FemaleElfHaughty",
-        "Dialogue": "\"A healing spell? Was that really necessary?\"",
+        "Dialogue": "A healing spell? Was that really necessary?",
         "Event": "the Player casting a healing spell on the NPC"
     },
     {
         "Speaker": "MaleEvenToned",
-        "Dialogue": "\"Was that some sort of... healing spell?\"",
+        "Dialogue": "Was that some sort of... healing spell?",
         "Event": "the Player casting a healing spell on the NPC"
     },
     {
         "Speaker": "FemaleEvenToned",
-        "Dialogue": "\"A healing spell? Are you a priest?\"",
+        "Dialogue": "A healing spell? Are you a priest?",
         "Event": "the Player casting a healing spell on the NPC"
     },
     {
         "Speaker": "MaleKhajiit",
-        "Dialogue": "\"Ah! I feel like I just woke from a nap.\"",
+        "Dialogue": "Ah! I feel like I just woke from a nap.",
         "Event": "the Player casting a healing spell on the NPC"
     },
     {
         "Speaker": "FemaleKhajiit",
-        "Dialogue": "\"Mmm. That felt nice.\"",
+        "Dialogue": "Mmm. That felt nice.",
         "Event": "the Player casting a healing spell on the NPC"
     },
     {
         "Speaker": "MaleNord",
-        "Dialogue": "\"Suddenly I feel much better.\"",
+        "Dialogue": "Suddenly I feel much better.",
         "Event": "the Player casting a healing spell on the NPC"
     },
     {
         "Speaker": "FemaleNord",
-        "Dialogue": "\"Huh. I feel better now.\"",
+        "Dialogue": "Huh. I feel better now.",
         "Event": "the Player casting a healing spell on the NPC"
     },
     {
         "Speaker": "MaleOldGrumpy",
-        "Dialogue": "\"My old bones don't hurt so much now.\"",
+        "Dialogue": "My old bones don't hurt so much now.",
         "Event": "the Player casting a healing spell on the NPC"
     },
     {
         "Speaker": "FemaleOldGrumpy",
-        "Dialogue": "\"My old bones don't hurt so much now.\"",
+        "Dialogue": "My old bones don't hurt so much now.",
         "Event": "the Player casting a healing spell on the NPC"
     },
     {
         "Speaker": "MaleOldKindly",
-        "Dialogue": "\"My old bones don't hurt so much now.\"",
+        "Dialogue": "My old bones don't hurt so much now.",
         "Event": "the Player casting a healing spell on the NPC"
     },
     {
         "Speaker": "FemaleOldKindly",
-        "Dialogue": "\"My old bones don't hurt so much now.\"",
+        "Dialogue": "My old bones don't hurt so much now.",
         "Event": "the Player casting a healing spell on the NPC"
     },
     {
         "Speaker": "MaleOrc",
-        "Dialogue": "\"You heal away my scars and there's gonna be a problem...\"",
+        "Dialogue": "You heal away my scars and there's gonna be a problem...",
         "Event": "the Player casting a healing spell on the NPC"
     },
     {
         "Speaker": "FemaleOrc",
-        "Dialogue": "\"Healing magic? An Orc lets her wounds heal naturally...\"",
+        "Dialogue": "Healing magic? An Orc lets her wounds heal naturally...",
         "Event": "the Player casting a healing spell on the NPC"
     },
     {
         "Speaker": "FemaleShrill",
-        "Dialogue": "\"Don't go casting spells on a woman without asking her permission.\"",
+        "Dialogue": "Don't go casting spells on a woman without asking her permission.",
         "Event": "the Player casting a healing spell on the NPC"
     },
     {
         "Speaker": "MaleSlyCynical",
-        "Dialogue": "\"Hey! You trying to pull a fast one on me?\"",
+        "Dialogue": "Hey! You trying to pull a fast one on me?",
         "Event": "the Player casting a healing spell on the NPC"
     },
     {
         "Speaker": "MaleSoldier",
-        "Dialogue": "\"That put a spring in my step.\"",
+        "Dialogue": "That put a spring in my step.",
         "Event": "the Player casting a healing spell on the NPC"
     },
     {
         "Speaker": "FemaleSultry",
-        "Dialogue": "\"Huh? What...oh! That felt nice.\"",
+        "Dialogue": "Huh? What...oh! That felt nice.",
         "Event": "the Player casting a healing spell on the NPC"
     },
     {
         "Speaker": "MaleYoungEager",
-        "Dialogue": "\"Thanks! Not sure it was necessary, though.\"",
+        "Dialogue": "Thanks! Not sure it was necessary, though.",
         "Event": "the Player casting a healing spell on the NPC"
     },
     {
         "Speaker": "FemaleYoungEager",
-        "Dialogue": "\"Thanks!\"",
+        "Dialogue": "Thanks!",
         "Event": "the Player casting a healing spell on the NPC"
     },
     {
         "Speaker": "MaleArgonian",
-        "Dialogue": "\"I feel... unbeatable.\"",
+        "Dialogue": "I feel... unbeatable.",
         "Event": "the Player casting a courage spell on the NPC"
     },
     {
         "Speaker": "FemaleArgonian",
-        "Dialogue": "\"I feel like I can beat anything.\"",
+        "Dialogue": "I feel like I can beat anything.",
         "Event": "the Player casting a courage spell on the NPC"
     },
     {
         "Speaker": "MaleBrute",
-        "Dialogue": "\"By the gods, I feel like I could crush a giant's head like a walnut.\"",
+        "Dialogue": "By the gods, I feel like I could crush a giant's head like a walnut.",
         "Event": "the Player casting a courage spell on the NPC"
     },
     {
         "Speaker": "MaleCommander",
-        "Dialogue": "\"I'm just itching for a fight.\"",
+        "Dialogue": "I'm just itching for a fight.",
         "Event": "the Player casting a courage spell on the NPC"
     },
     {
         "Speaker": "MaleNordCommander",
-        "Dialogue": "\"I'm just itching for a fight.\"",
+        "Dialogue": "I'm just itching for a fight.",
         "Event": "the Player casting a courage spell on the NPC"
     },
     {
         "Speaker": "FemaleCommander",
-        "Dialogue": "\"I'm just itching for a fight.\"",
+        "Dialogue": "I'm just itching for a fight.",
         "Event": "the Player casting a courage spell on the NPC"
     },
     {
         "Speaker": "MaleCommoner",
-        "Dialogue": "\"Ha ha! Look out. Here I come!\"",
+        "Dialogue": "Ha ha! Look out. Here I come!",
         "Event": "the Player casting a courage spell on the NPC"
     },
     {
         "Speaker": "MaleCommonerAccented",
-        "Dialogue": "\"Ha ha! Look out. Here I come!\"",
+        "Dialogue": "Ha ha! Look out. Here I come!",
         "Event": "the Player casting a courage spell on the NPC"
     },
     {
         "Speaker": "FemaleCommoner",
-        "Dialogue": "\"I ain't scared of nothin'.\"",
+        "Dialogue": "I ain't scared of nothin'.",
         "Event": "the Player casting a courage spell on the NPC"
     },
     {
         "Speaker": "MaleCondescending",
-        "Dialogue": "\"No one can defeat me.\"",
+        "Dialogue": "No one can defeat me.",
         "Event": "the Player casting a courage spell on the NPC"
     },
     {
         "Speaker": "FemaleCondescending",
-        "Dialogue": "\"No one can defeat me.\"",
+        "Dialogue": "No one can defeat me.",
         "Event": "the Player casting a courage spell on the NPC"
     },
     {
         "Speaker": "MaleCoward",
-        "Dialogue": "\"I've never felt this brave.\"",
+        "Dialogue": "I've never felt this brave.",
         "Event": "the Player casting a courage spell on the NPC"
     },
     {
         "Speaker": "FemaleCoward",
-        "Dialogue": "\"I've never felt this brave.\"",
+        "Dialogue": "I've never felt this brave.",
         "Event": "the Player casting a courage spell on the NPC"
     },
     {
         "Speaker": "MaleDarkElf",
-        "Dialogue": "\"There is none who can stand in my way.\"",
+        "Dialogue": "There is none who can stand in my way.",
         "Event": "the Player casting a courage spell on the NPC"
     },
     {
         "Speaker": "FemaleDarkElf",
-        "Dialogue": "\"Suddenly I feel like I can take on the world.\"",
+        "Dialogue": "Suddenly I feel like I can take on the world.",
         "Event": "the Player casting a courage spell on the NPC"
     },
     {
         "Speaker": "MaleDrunk",
-        "Dialogue": "\"Come on, I can take anyone. And that ain't just the mead talkin'.\"",
+        "Dialogue": "Come on, I can take anyone. And that ain't just the mead talkin'.",
         "Event": "the Player casting a courage spell on the NPC"
     },
     {
         "Speaker": "MaleElfHaughty",
-        "Dialogue": "\"Bah! Is there no one who can offer a challenge?\"",
+        "Dialogue": "Bah! Is there no one who can offer a challenge?",
         "Event": "the Player casting a courage spell on the NPC"
     },
     {
         "Speaker": "FemaleElfHaughty",
-        "Dialogue": "\"Bah! Is there no one who can offer a challenge?\"",
+        "Dialogue": "Bah! Is there no one who can offer a challenge?",
         "Event": "the Player casting a courage spell on the NPC"
     },
     {
         "Speaker": "MaleEvenToned",
-        "Dialogue": "\"I feel like I can beat anyone.\"",
+        "Dialogue": "I feel like I can beat anyone.",
         "Event": "the Player casting a courage spell on the NPC"
     },
     {
         "Speaker": "MaleEvenTonedAccented",
-        "Dialogue": "\"I feel like I can beat anyone.\"",
+        "Dialogue": "I feel like I can beat anyone.",
         "Event": "the Player casting a courage spell on the NPC"
     },
     {
         "Speaker": "FemaleEvenToned",
-        "Dialogue": "\"I've never been more ready!\"",
+        "Dialogue": "I've never been more ready!",
         "Event": "the Player casting a courage spell on the NPC"
     },
     {
         "Speaker": "MaleKhajiit",
-        "Dialogue": "\"Even my claws feel sharper.\"",
+        "Dialogue": "Even my claws feel sharper.",
         "Event": "the Player casting a courage spell on the NPC"
     },
     {
         "Speaker": "FemaleKhajiit",
-        "Dialogue": "\"My claws are sharp. My will to kill... unquenchable.\"",
+        "Dialogue": "My claws are sharp. My will to kill... unquenchable.",
         "Event": "the Player casting a courage spell on the NPC"
     },
     {
         "Speaker": "MaleNord",
-        "Dialogue": "\"By Ysmir, I feel... invincible!\"",
+        "Dialogue": "By Ysmir, I feel... invincible!",
         "Event": "the Player casting a courage spell on the NPC"
     },
     {
         "Speaker": "FemaleNord",
-        "Dialogue": "\"I cannot be beaten!\"",
+        "Dialogue": "I cannot be beaten!",
         "Event": "the Player casting a courage spell on the NPC"
     },
     {
         "Speaker": "MaleOldGrumpy",
-        "Dialogue": "\"I may be old, but I can show 'em a trick or two.\"",
+        "Dialogue": "I may be old, but I can show 'em a trick or two.",
         "Event": "the Player casting a courage spell on the NPC"
     },
     {
         "Speaker": "FemaleOldGrumpy",
-        "Dialogue": "\"I may be old, but I can show 'em a trick or two.\"",
+        "Dialogue": "I may be old, but I can show 'em a trick or two.",
         "Event": "the Player casting a courage spell on the NPC"
     },
     {
         "Speaker": "MaleOldKindly",
-        "Dialogue": "\"I may be old, but I can show 'em a trick or two.\"",
+        "Dialogue": "I may be old, but I can show 'em a trick or two.",
         "Event": "the Player casting a courage spell on the NPC"
     },
     {
         "Speaker": "FemaleOldKindly",
-        "Dialogue": "\"I may be old, but I can show 'em a trick or two.\"",
+        "Dialogue": "I may be old, but I can show 'em a trick or two.",
         "Event": "the Player casting a courage spell on the NPC"
     },
     {
         "Speaker": "MaleOrc",
-        "Dialogue": "\"Been too long since I've embraced my rage...\"",
+        "Dialogue": "Been too long since I've embraced my rage...",
         "Event": "the Player casting a courage spell on the NPC"
     },
     {
         "Speaker": "FemaleOrc",
-        "Dialogue": "\"I'm ready. Let's go!\"",
+        "Dialogue": "I'm ready. Let's go!",
         "Event": "the Player casting a courage spell on the NPC"
     },
     {
         "Speaker": "FemaleShrill",
-        "Dialogue": "\"Hmph. Everyone seems so insignificant now.\"",
+        "Dialogue": "Hmph. Everyone seems so insignificant now.",
         "Event": "the Player casting a courage spell on the NPC"
     },
     {
         "Speaker": "MaleSlyCynical",
-        "Dialogue": "\"I fight and I'll win. Simple as that.\"",
+        "Dialogue": "I fight and I'll win. Simple as that.",
         "Event": "the Player casting a courage spell on the NPC"
     },
     {
         "Speaker": "MaleSoldier",
-        "Dialogue": "\"Just point me to the fight.\"",
+        "Dialogue": "Just point me to the fight.",
         "Event": "the Player casting a courage spell on the NPC"
     },
     {
         "Speaker": "FemaleSultry",
-        "Dialogue": "\"I'm ready. More than ready.\"",
+        "Dialogue": "I'm ready. More than ready.",
         "Event": "the Player casting a courage spell on the NPC"
     },
     {
         "Speaker": "MaleYoungEager",
-        "Dialogue": "\"I feel like I can take on all of Skyrim.\"",
+        "Dialogue": "I feel like I can take on all of Skyrim.",
         "Event": "the Player casting a courage spell on the NPC"
     },
     {
         "Speaker": "FemaleYoungEager",
-        "Dialogue": "\"Come on! Let's go.\"",
+        "Dialogue": "Come on! Let's go.",
         "Event": "the Player casting a courage spell on the NPC"
     },
     {
         "Speaker": "MaleArgonian",
-        "Dialogue": "\"What was that? Don't do it again.\"",
+        "Dialogue": "What was that? Don't do it again.",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "FemaleArgonian",
-        "Dialogue": "\"Stop it! I don't like magic.\"",
+        "Dialogue": "Stop it! I don't like magic.",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleBrute",
-        "Dialogue": "\"Huh? Don't do that!\"",
+        "Dialogue": "Huh? Don't do that!",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleChild",
-        "Dialogue": "\"Wow! That was fun. Do it again!\"",
+        "Dialogue": "Wow! That was fun. Do it again!",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "FemaleChild",
-        "Dialogue": "\"Wow! That was fun. Do it again!\"",
+        "Dialogue": "Wow! That was fun. Do it again!",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleCommander",
-        "Dialogue": "\"Hey! What the... keep your damn magic to yourself.\"",
+        "Dialogue": "Hey! What the... keep your damn magic to yourself.",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleNordCommander",
-        "Dialogue": "\"Hey! What the... keep your damn magic to yourself.\"",
+        "Dialogue": "Hey! What the... keep your damn magic to yourself.",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "FemaleCommander",
-        "Dialogue": "\"Hey! What the... keep your damn magic to yourself.\"",
+        "Dialogue": "Hey! What the... keep your damn magic to yourself.",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleCommoner",
-        "Dialogue": "\"Hey! I didn't ask you to magic me.\"",
+        "Dialogue": "Hey! I didn't ask you to magic me.",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleCommonerAccented",
-        "Dialogue": "\"Hey! I didn't ask you to magic me.\"",
+        "Dialogue": "Hey! I didn't ask you to magic me.",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "FemaleCommoner",
-        "Dialogue": "\"Ah! Keep your spells away from me.\"",
+        "Dialogue": "Ah! Keep your spells away from me.",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleCondescending",
-        "Dialogue": "\"What the... Don't do that!\"",
+        "Dialogue": "What the... Don't do that!",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "FemaleCondescending",
-        "Dialogue": "\"What the... Don't do that!\"",
+        "Dialogue": "What the... Don't do that!",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleCoward",
-        "Dialogue": "\"Ah Please! Don't hurt me!\"",
+        "Dialogue": "Ah Please! Don't hurt me!",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "FemaleCoward",
-        "Dialogue": "\"Ah Please! Don't hurt me!\"",
+        "Dialogue": "Ah Please! Don't hurt me!",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleDarkElf",
-        "Dialogue": "\"Don't know what that was, but don't try it again.\"",
+        "Dialogue": "Don't know what that was, but don't try it again.",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "FemaleDarkElf",
-        "Dialogue": "\"Keep your damn spells to yourself.\"",
+        "Dialogue": "Keep your damn spells to yourself.",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleDrunk",
-        "Dialogue": "\"Huh... what was that? What'd you do?\"",
+        "Dialogue": "Huh... what was that? What'd you do?",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleElfHaughty",
-        "Dialogue": "\"That was pathetic. It didn't even do anything.\"",
+        "Dialogue": "That was pathetic. It didn't even do anything.",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "FemaleElfHaughty",
-        "Dialogue": "\"That was pathetic. It didn't even do anything.\"",
+        "Dialogue": "That was pathetic. It didn't even do anything.",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleEvenToned",
-        "Dialogue": "\"Hey! Don't do that.\"",
+        "Dialogue": "Hey! Don't do that.",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleEvenTonedAccented",
-        "Dialogue": "\"Hey! Don't do that.\"",
+        "Dialogue": "Hey! Don't do that.",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "FemaleEvenToned",
-        "Dialogue": "\"Ah! Don't do that.\"",
+        "Dialogue": "Ah! Don't do that.",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleKhajiit",
-        "Dialogue": "\"I did not ask for that! No more magic.\"",
+        "Dialogue": "I did not ask for that! No more magic.",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "FemaleKhajiit",
-        "Dialogue": "\"You there! That was uninvited. No more.\"",
+        "Dialogue": "You there! That was uninvited. No more.",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleNord",
-        "Dialogue": "\"Hey! Stop that.\"",
+        "Dialogue": "Hey! Stop that.",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "FemaleNord",
-        "Dialogue": "\"Ah! Damn wizard. Keep your spells off of me.\"",
+        "Dialogue": "Ah! Damn wizard. Keep your spells off of me.",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleOldGrumpy",
-        "Dialogue": "\"Stop that! Keep your spells to yourself.\"",
+        "Dialogue": "Stop that! Keep your spells to yourself.",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "FemaleOldGrumpy",
-        "Dialogue": "\"Stop that! Keep your spells to yourself.\"",
+        "Dialogue": "Stop that! Keep your spells to yourself.",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleOldKindly",
-        "Dialogue": "\"Ah! Picking on an old man? What did I ever do to you?\"",
+        "Dialogue": "Ah! Picking on an old man? What did I ever do to you?",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "FemaleOldKindly",
-        "Dialogue": "\"Ah! I'm just an old woman. Don't hurt me.\"",
+        "Dialogue": "Ah! I'm just an old woman. Don't hurt me.",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleOrc",
-        "Dialogue": "\"Magic is for the weak. Pick up some steel if you want to fight me.\"",
+        "Dialogue": "Magic is for the weak. Pick up some steel if you want to fight me.",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "FemaleOrc",
-        "Dialogue": "\"Don't try to magic me, you damn wizard.\"",
+        "Dialogue": "Don't try to magic me, you damn wizard.",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "FemaleShrill",
-        "Dialogue": "\"You stop that! I will not be violated by some... half-Septim magician!\"",
+        "Dialogue": "You stop that! I will not be violated by some... half-Septim magician!",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleSlyCynical",
-        "Dialogue": "\"Whoa, whoa, whoa? What did you do?\"",
+        "Dialogue": "Whoa, whoa, whoa? What did you do?",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleSoldier",
-        "Dialogue": "\"Wizards. There oughta be a law against them.\"",
+        "Dialogue": "Wizards. There oughta be a law against them.",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "FemaleSultry",
-        "Dialogue": "\"Hey! What are you trying to pull?\"",
+        "Dialogue": "Hey! What are you trying to pull?",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleYoungEager",
-        "Dialogue": "\"Oh! I don't feel any different. What did you do?\"",
+        "Dialogue": "Oh! I don't feel any different. What did you do?",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "FemaleYoungEager",
-        "Dialogue": "\"Oh! What did you just do?\"",
+        "Dialogue": "Oh! What did you just do?",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "FemaleChild",
-        "Dialogue": "\"Oooh... pretty colors.\"",
+        "Dialogue": "Oooh... pretty colors.",
         "Event": "the Player casting a colourful with an NPC watching"
     },
     {
         "Speaker": "MaleChild",
-        "Dialogue": "\"Wow! Look at all the colors!\"",
+        "Dialogue": "Wow! Look at all the colors!",
         "Event": "the Player casting a colourful with an NPC watching"
     },
     {
         "Speaker": "FemaleCommoner",
-        "Dialogue": "\"What a display of color!\"",
+        "Dialogue": "What a display of color!",
         "Event": "the Player casting a colourful with an NPC watching"
     },
     {
         "Speaker": "MaleCommoner or MaleCommonerAccented",
-        "Dialogue": "\"Colorful...\"",
+        "Dialogue": "Colorful...",
         "Event": "the Player casting a colourful with an NPC watching"
     },
     {
         "Speaker": "MaleDrunk",
-        "Dialogue": "\"Whoa.\"",
+        "Dialogue": "Whoa.",
         "Event": "the Player casting a colourful with an NPC watching"
     },
     {
         "Speaker": "FemaleEvenToned",
-        "Dialogue": "\"Oh, such colors!\"",
+        "Dialogue": "Oh, such colors!",
         "Event": "the Player casting a colourful with an NPC watching"
     },
     {
         "Speaker": "MaleEvenToned or MaleEvenTonedAccented",
-        "Dialogue": "\"Brilliant!\"",
+        "Dialogue": "Brilliant!",
         "Event": "the Player casting a colourful with an NPC watching"
     },
     {
         "Speaker": "FemaleNord",
-        "Dialogue": "\"Is that magic? Careful, please...\"",
+        "Dialogue": "Is that magic? Careful, please...",
         "Event": "the Player casting a colourful with an NPC watching"
     },
     {
         "Speaker": "MaleNord",
-        "Dialogue": "\"Keep that magic away from me.\"",
+        "Dialogue": "Keep that magic away from me.",
         "Event": "the Player casting a colourful with an NPC watching"
     },
     {
         "Speaker": "FemaleYoungEager",
-        "Dialogue": "\"Oh, look at the colors!\"",
+        "Dialogue": "Oh, look at the colors!",
         "Event": "the Player casting a colourful with an NPC watching"
     },
     {
         "Speaker": "MaleYoungEager",
-        "Dialogue": "\"Well hey, that's not something you see everyday.\"",
+        "Dialogue": "Well hey, that's not something you see everyday.",
         "Event": "the Player casting a colourful with an NPC watching"
     },
     {
         "Speaker": "FemaleArgonian",
-        "Dialogue": "\"Don't come too close with that.\"",
+        "Dialogue": "Don't come too close with that.",
         "Event": "the Player casting dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleArgonian",
-        "Dialogue": "\"It's wearing a dangerous spell...\"",
+        "Dialogue": "It's wearing a dangerous spell...",
         "Event": "the Player casting dangerous with an NPC watching"
     },
     {
         "Speaker": "FemaleChild",
-        "Dialogue": "\"Get away from me!\"",
+        "Dialogue": "Get away from me!",
         "Event": "the Player casting dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleChild",
-        "Dialogue": "\"That looks dangerous...\"",
+        "Dialogue": "That looks dangerous...",
         "Event": "the Player casting dangerous with an NPC watching"
     },
     {
         "Speaker": "FemaleCommander",
-        "Dialogue": "\"That spell looks dangerous... keep your distance.\"",
+        "Dialogue": "That spell looks dangerous... keep your distance.",
         "Event": "the Player casting dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleCommander",
-        "Dialogue": "\"That spell looks dangerous... keep your distance.\"",
+        "Dialogue": "That spell looks dangerous... keep your distance.",
         "Event": "the Player casting dangerous with an NPC watching"
     },
     {
         "Speaker": "FemaleCondescending",
-        "Dialogue": "\"That spell looks dangerous... keep your distance.\"",
+        "Dialogue": "That spell looks dangerous... keep your distance.",
         "Event": "the Player casting dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleCondescending",
-        "Dialogue": "\"That spell looks dangerous... keep your distance.\"",
+        "Dialogue": "That spell looks dangerous... keep your distance.",
         "Event": "the Player casting dangerous with an NPC watching"
     },
     {
         "Speaker": "FemaleDarkElf",
-        "Dialogue": "\"That spell looks dangerous... keep your distance.\"",
+        "Dialogue": "That spell looks dangerous... keep your distance.",
         "Event": "the Player casting dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleDrunk",
-        "Dialogue": "\"That spell looks dangerous... keep your distance.\"",
+        "Dialogue": "That spell looks dangerous... keep your distance.",
         "Event": "the Player casting dangerous with an NPC watching"
     },
     {
         "Speaker": "FemaleEvenToned",
-        "Dialogue": "\"That spell looks dangerous... keep your distance.\"",
+        "Dialogue": "That spell looks dangerous... keep your distance.",
         "Event": "the Player casting dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleEvenToned",
-        "Dialogue": "\"That spell looks dangerous... keep your distance.\"",
+        "Dialogue": "That spell looks dangerous... keep your distance.",
         "Event": "the Player casting dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleEvenTonedAccented",
-        "Dialogue": "\"That spell looks dangerous... keep your distance.\"",
+        "Dialogue": "That spell looks dangerous... keep your distance.",
         "Event": "the Player casting dangerous with an NPC watching"
     },
     {
         "Speaker": "FemaleOldGrumpy",
-        "Dialogue": "\"That spell looks dangerous... keep your distance.\"",
+        "Dialogue": "That spell looks dangerous... keep your distance.",
         "Event": "the Player casting dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleOldGrumpy",
-        "Dialogue": "\"That spell looks dangerous... keep your distance.\"",
+        "Dialogue": "That spell looks dangerous... keep your distance.",
         "Event": "the Player casting dangerous with an NPC watching"
     },
     {
         "Speaker": "FemaleShrill",
-        "Dialogue": "\"That spell looks dangerous... keep your distance.\"",
+        "Dialogue": "That spell looks dangerous... keep your distance.",
         "Event": "the Player casting dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleSoldier",
-        "Dialogue": "\"That spell looks dangerous... keep your distance.\"",
+        "Dialogue": "That spell looks dangerous... keep your distance.",
         "Event": "the Player casting dangerous with an NPC watching"
     },
     {
         "Speaker": "FemaleSultry",
-        "Dialogue": "\"That spell looks dangerous... keep your distance.\"",
+        "Dialogue": "That spell looks dangerous... keep your distance.",
         "Event": "the Player casting dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleYoungEager",
-        "Dialogue": "\"That spell looks dangerous... keep your distance.\"",
+        "Dialogue": "That spell looks dangerous... keep your distance.",
         "Event": "the Player casting dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleBrute",
-        "Dialogue": "\"That spell looks like it'll hurt.\"",
+        "Dialogue": "That spell looks like it'll hurt.",
         "Event": "the Player casting dangerous with an NPC watching"
     },
     {
         "Speaker": "FemaleCommoner",
-        "Dialogue": "\"That spell looks dangerous...\"",
+        "Dialogue": "That spell looks dangerous...",
         "Event": "the Player casting dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleCommoner",
-        "Dialogue": "\"Please stay away while you got that spell on you.\"",
+        "Dialogue": "Please stay away while you got that spell on you.",
         "Event": "the Player casting dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleCommonerAccented",
-        "Dialogue": "\"Please stay away while you got that spell on you.\"",
+        "Dialogue": "Please stay away while you got that spell on you.",
         "Event": "the Player casting dangerous with an NPC watching"
     },
     {
         "Speaker": "FemaleCoward",
-        "Dialogue": "\"Please! Keep that magic away from me.\"",
+        "Dialogue": "Please! Keep that magic away from me.",
         "Event": "the Player casting dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleCoward",
-        "Dialogue": "\"Don't hurt me!\"",
+        "Dialogue": "Don't hurt me!",
         "Event": "the Player casting dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleDarkElf",
-        "Dialogue": "\"Keep your distance.\"",
+        "Dialogue": "Keep your distance.",
         "Event": "the Player casting dangerous with an NPC watching"
     },
     {
         "Speaker": "FemaleElfHaughty",
-        "Dialogue": "\"You really should be more careful with the spells you cast.\"",
+        "Dialogue": "You really should be more careful with the spells you cast.",
         "Event": "the Player casting dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleElfHaughty",
-        "Dialogue": "\"Walking around like that is why magic gets a bad name. Shame on you.\"",
+        "Dialogue": "Walking around like that is why magic gets a bad name. Shame on you.",
         "Event": "the Player casting dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleKhajiit",
-        "Dialogue": "\"This one thinks you should be more careful with your spells.\"",
+        "Dialogue": "This one thinks you should be more careful with your spells.",
         "Event": "the Player casting dangerous with an NPC watching"
     },
     {
         "Speaker": "FemaleNord",
-        "Dialogue": "\"You keep your distance with that magic [sic]\"",
+        "Dialogue": "You keep your distance with that magic [sic]",
         "Event": "the Player casting dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleNord",
-        "Dialogue": "\"You're asking for trouble walking around with dangerous magic like that.\"",
+        "Dialogue": "You're asking for trouble walking around with dangerous magic like that.",
         "Event": "the Player casting dangerous with an NPC watching"
     },
     {
         "Speaker": "FemaleOldKindly",
-        "Dialogue": "\"Dear, that spell is making me nervous.\"",
+        "Dialogue": "Dear, that spell is making me nervous.",
         "Event": "the Player casting dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleOldKindly",
-        "Dialogue": "\"Do be careful with that spell, will you?\"",
+        "Dialogue": "Do be careful with that spell, will you?",
         "Event": "the Player casting dangerous with an NPC watching"
     },
     {
         "Speaker": "FemaleOrc",
-        "Dialogue": "\"Hurt anyone with that spell and you'll be sorry.\"",
+        "Dialogue": "Hurt anyone with that spell and you'll be sorry.",
         "Event": "the Player casting dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleOrc",
-        "Dialogue": "\"You better be careful with that magic, if you know what's good for you.\"",
+        "Dialogue": "You better be careful with that magic, if you know what's good for you.",
         "Event": "the Player casting dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleSlyCynical",
-        "Dialogue": "\"I trust you know what you're doing with that spell?\"",
+        "Dialogue": "I trust you know what you're doing with that spell?",
         "Event": "the Player casting dangerous with an NPC watching"
     },
     {
         "Speaker": "FemaleYoungEager",
-        "Dialogue": "\"Uuh. Would you mind dousing that magic?\"",
+        "Dialogue": "Uuh. Would you mind dousing that magic?",
         "Event": "the Player casting dangerous with an NPC watching"
     },
     {
         "Speaker": "FemaleElfHaughty",
-        "Dialogue": "\"Are you a member of the College, or did you just steal those robes from a real wizard?\"",
+        "Dialogue": "Are you a member of the College, or did you just steal those robes from a real wizard?",
         "Event": "the Player  wearing a mage robe "
     },
     {
         "Speaker": "FemaleNord",
-        "Dialogue": "\"You must be one of those wizards. From the College in Winterhold.\"",
+        "Dialogue": "You must be one of those wizards. From the College in Winterhold.",
         "Event": "the Player  wearing a mage robe "
     },
     {
         "Speaker": "MaleChild",
-        "Dialogue": "\"Wow! Look at that robe. Are you a wizard?\"",
+        "Dialogue": "Wow! Look at that robe. Are you a wizard?",
         "Event": "the Player  wearing a mage robe "
     },
     {
         "Speaker": "MaleElfHaughty",
-        "Dialogue": "\"Those are College of Winterhold robes, aren't they?\"",
+        "Dialogue": "Those are College of Winterhold robes, aren't they?",
         "Event": "the Player  wearing a mage robe "
     },
     {
         "Speaker": "MaleNord",
-        "Dialogue": "\"Fancy robes. You a wizard or somethin'?\"",
+        "Dialogue": "Fancy robes. You a wizard or somethin'?",
         "Event": "the Player  wearing a mage robe "
     },
     {
         "Speaker": "MaleYoungEager",
-        "Dialogue": "\"I like your robes. Are you a sorcerer? From the College?\"",
+        "Dialogue": "I like your robes. Are you a sorcerer? From the College?",
         "Event": "the Player  wearing a mage robe "
     }
 ]

@@ -1,241 +1,241 @@
 [
     {
         "Speaker": "FemaleCoward",
-        "Dialogue": "\"It's so good to see you again.\"",
+        "Dialogue": "It's so good to see you again.",
         "Tone": "Friendly",
         "Event": "Greeting"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Need something?\"",
+        "Dialogue": "Need something?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleCoward",
-        "Dialogue": "\"Divines bless you. May the ground you walk quake as you pass.\"",
+        "Dialogue": "Divines bless you. May the ground you walk quake as you pass.",
         "Tone": "Friendly",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleOrc",
-        "Dialogue": "\"May your next fight bring you victory, friend.\"",
+        "Dialogue": "May your next fight bring you victory, friend.",
         "Tone": "Friendly",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleEvenTonedAccented",
-        "Dialogue": "\"What do you need?\"",
+        "Dialogue": "What do you need?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleEvenToned",
-        "Dialogue": "\"What do you need?\"",
+        "Dialogue": "What do you need?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleKhajiit",
-        "Dialogue": "\"Its scent is foul, unclean. Hurtful.\"",
+        "Dialogue": "Its scent is foul, unclean. Hurtful.",
         "Tone": "Hostile",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleEvenToned",
-        "Dialogue": "\"Good morning/afternoon/evening.\"",
+        "Dialogue": "Good morning/afternoon/evening.",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleOldGrumpy",
-        "Dialogue": "\"Well, look at you. If only everyone acted like you did.\"",
+        "Dialogue": "Well, look at you. If only everyone acted like you did.",
         "Tone": "Friendly",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleBrute",
-        "Dialogue": "\"I should bash your face in after all you've done.\"",
+        "Dialogue": "I should bash your face in after all you've done.",
         "Tone": "Hostile",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleKhajiit",
-        "Dialogue": "\"This one needs something?\"",
+        "Dialogue": "This one needs something?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleNord",
-        "Dialogue": "\"Hmph.\"",
+        "Dialogue": "Hmph.",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleCoward",
-        "Dialogue": "\"You want something from me?\"",
+        "Dialogue": "You want something from me?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleCondescending",
-        "Dialogue": "\"Now if you'll excuse me...\"",
+        "Dialogue": "Now if you'll excuse me...",
         "Event": "Goodbye"
     },
     {
         "Speaker": "FemaleNord",
-        "Dialogue": "\"Aye.\"",
+        "Dialogue": "Aye.",
         "Event": "Goodbye"
     },
     {
         "Speaker": "MaleDrunk",
-        "Dialogue": "\"Yeah yeah...\"",
+        "Dialogue": "Yeah yeah...",
         "Event": "Goodbye"
     },
     {
         "Speaker": "MaleEvenTonedAccented",
-        "Dialogue": "\"Your skin's as pale as the snow. You scared of sunlight, or something?\"",
+        "Dialogue": "Your skin's as pale as the snow. You scared of sunlight, or something?",
         "Event": "the Player being a vampire in front of an NPC"
     },
     {
         "Speaker": "MaleEvenToned",
-        "Dialogue": "\"Don't like those eyes you got. There's a bad hunger to them.\"",
+        "Dialogue": "Don't like those eyes you got. There's a bad hunger to them.",
         "Event": "the Player being a vampire in front of an NPC"
     },
     {
         "Speaker": "MaleEvenToned",
-        "Dialogue": "\"Come on! You monster!\"",
+        "Dialogue": "Come on! You monster!",
         "Event": "the Player being a werewolf in front of an NPC",
         "Condition": "the Player has transformed into a werewolf"
     },
     {
         "Speaker": "MaleCommoner",
-        "Dialogue": "\"Werewolf! Kill the monster!\"",
+        "Dialogue": "Werewolf! Kill the monster!",
         "Event": "the Player being a werewolf in front of an NPC",
         "Condition": "the Player has transformed into a werewolf"
     },
     {
         "Speaker": "FemaleNord",
-        "Dialogue": "\"Come on! You monster!\"",
+        "Dialogue": "Come on! You monster!",
         "Event": "the Player being a werewolf in front of an NPC",
         "Condition": "the Player has transformed into a werewolf"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"You're trespassing here. You'd better clear out.\"",
+        "Dialogue": "You're trespassing here. You'd better clear out.",
         "Event": "the Player trespassing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Don't do that.\"",
+        "Dialogue": "Don't do that.",
         "Event": "an NPC watching the Player grabbing an object"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Be careful!\"",
+        "Dialogue": "Be careful!",
         "Event": "an NPC seeing the Player swing a weapon"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"You remind me of the Shadowscales, from the old histories.\"",
+        "Dialogue": "You remind me of the Shadowscales, from the old histories.",
         "Event": "an NPC catching the Player sneaking"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"I hope you're not planning on picking my pocket.\"",
+        "Dialogue": "I hope you're not planning on picking my pocket.",
         "Event": "an NPC catching the Player sneaking"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Hands off.\"",
+        "Dialogue": "Hands off.",
         "Event": "an NPC seeing the Player being near a locked object"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Why you...\"",
+        "Dialogue": "Why you...",
         "Event": "an  NPC catching the Player pickpocketing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"I'll look the other way this time.\"",
+        "Dialogue": "I'll look the other way this time.",
         "Event": "an  NPC catching the Player stealing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Put that down, you mangy cat!\"",
+        "Dialogue": "Put that down, you mangy cat!",
         "Event": "an  NPC catching the Player stealing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Help, someone!\"",
+        "Dialogue": "Help, someone!",
         "Event": "an NPC witnessing a murder"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"By the gods, no!\"",
+        "Dialogue": "By the gods, no!",
         "Event": "an NPC witnessing a murder"
     },
     {
         "Speaker": "MaleYoungEager",
-        "Dialogue": "\"You've got that fire under control. Right?\"",
+        "Dialogue": "You've got that fire under control. Right?",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleCoward",
-        "Dialogue": "\"Umm... don't suppose you'd want to take that fire somewhere else? You know... somewhere away from me?\"",
+        "Dialogue": "Umm... don't suppose you'd want to take that fire somewhere else? You know... somewhere away from me?",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleOldGrumpy",
-        "Dialogue": "\"Plan on burning everything down, do you? Damn fool.\"",
+        "Dialogue": "Plan on burning everything down, do you? Damn fool.",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleNordCommander",
-        "Dialogue": "\"Take care with those flames.\"",
+        "Dialogue": "Take care with those flames.",
         "Event": "the Player walking around with flame"
     },
     {
         "Speaker": "MaleYoungEager",
-        "Dialogue": "\"I got this for you. It's nothing big, but I hope you like it. I want you to know I appreciate your friendship.\"",
+        "Dialogue": "I got this for you. It's nothing big, but I hope you like it. I want you to know I appreciate your friendship.",
         "Event": "an NPC giving the Player a gift"
     },
     {
         "Speaker": "MaleCoward",
-        "Dialogue": "\"So... I've been thinking... I'm grateful we're friends. I'd like you to have this. It's not much, but I hope it's something you like.\"",
+        "Dialogue": "So... I've been thinking... I'm grateful we're friends. I'd like you to have this. It's not much, but I hope it's something you like.",
         "Event": "an NPC giving the Player a gift"
     },
     {
         "Speaker": "MaleOldGrumpy",
-        "Dialogue": "\"Here. Something I want you to have. Now, don't embarrass either of us by saying something sappy. Just... take it.\"",
+        "Dialogue": "Here. Something I want you to have. Now, don't embarrass either of us by saying something sappy. Just... take it.",
         "Event": "an NPC giving the Player a gift"
     },
     {
         "Speaker": "MaleNordCommander",
-        "Dialogue": "\"Here. This is for you.\"",
+        "Dialogue": "Here. This is for you.",
         "Event": "an NPC giving the Player a gift"
     },
     {
         "Speaker": "MaleSlyCynical",
-        "Dialogue": "\"I think not.\"",
+        "Dialogue": "I think not.",
         "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "3rd"
     },
     {
         "Speaker": "MaleSlyCynical",
-        "Dialogue": "\"Looks like it's my lucky day.\"",
+        "Dialogue": "Looks like it's my lucky day.",
         "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "1st"
     },
     {
         "Speaker": "MaleBrute",
-        "Dialogue": "\"Hmm. What's this?\"",
+        "Dialogue": "Hmm. What's this?",
         "Event": "NPCs fighting over a Player's dropped item",
         "Line_of_dialogue": "1st"
     },
     {
         "Speaker": "MaleCommoner",
-        "Dialogue": "\"You should take more care, leaving things lying about. Here.\"",
+        "Dialogue": "You should take more care, leaving things lying about. Here.",
         "Event": "an NPC returning the Player's dropped item"
     },
     {
@@ -250,779 +250,779 @@
     },
     {
         "Speaker": "FemaleDarkElf",
-        "Dialogue": "\"I've seen enough. Put on some clothes.\"",
+        "Dialogue": "I've seen enough. Put on some clothes.",
         "Event": "the Player walking around naked in frond of an NPC"
     },
     {
         "Speaker": "FemaleOldKindly",
-        "Dialogue": "\"Dear. You really ought to put some clothes on. You're embarrassing yourself.\"",
+        "Dialogue": "Dear. You really ought to put some clothes on. You're embarrassing yourself.",
         "Event": "the Player walking around naked in frond of an NPC"
     },
     {
         "Speaker": "FemaleCommoner",
-        "Dialogue": "\"You ought to cover your... unmentionables.\"",
+        "Dialogue": "You ought to cover your... unmentionables.",
         "Event": "the Player walking around naked in frond of an NPC"
     },
     {
         "Speaker": "FemaleCoward",
-        "Dialogue": "\"Oh, well, um... thank you.\"",
+        "Dialogue": "Oh, well, um... thank you.",
         "Event": "NPC asking for the Player's dropped armor",
         "Response_to": "Consider it yours."
     },
     {
         "Speaker": "Player",
-        "Dialogue": "\"It's mine. Don't touch it\"",
+        "Dialogue": "It's mine. Don't touch it",
         "Event": "NPC asking for the Player's dropped armor",
         "Response_to": "Pardon. I saw you toss a piece of armor. You wouldn't mind if I take it, then?"
     },
     {
         "Speaker": "MaleCoward",
-        "Dialogue": "\"Aww. I thought you were done with it.\"",
+        "Dialogue": "Aww. I thought you were done with it.",
         "Event": "NPC asking for the Player's dropped armor",
         "Response_to": "It's mine. Don't touch it."
     },
     {
         "Speaker": "Player",
-        "Dialogue": "\"It's mine. Don't touch it\"",
+        "Dialogue": "It's mine. Don't touch it",
         "Event": "NPC asking for the Player's dropped armor",
         "Response_to": "If you're not going use that armor you dropped... do you mind if I take it?"
     },
     {
         "Speaker": "FemaleCoward",
-        "Dialogue": "\"Ah! What did you do? Stop that!\"",
+        "Dialogue": "Ah! What did you do? Stop that!",
         "Event": "the Player casting a healing spell on the NPC"
     },
     {
         "Speaker": "MaleOldKindly",
-        "Dialogue": "\"My old bones don't hurt so much now.\"",
+        "Dialogue": "My old bones don't hurt so much now.",
         "Event": "the Player casting a healing spell on the NPC"
     },
     {
         "Speaker": "FemaleCommander",
-        "Dialogue": "\"My thanks. I feel... better.\"",
+        "Dialogue": "My thanks. I feel... better.",
         "Event": "the Player casting a healing spell on the NPC"
     },
     {
         "Speaker": "FemaleDarkElf",
-        "Dialogue": "\"Suddenly I feel like I can take on the world.\"",
+        "Dialogue": "Suddenly I feel like I can take on the world.",
         "Event": "the Player casting a courage spell on the NPC"
     },
     {
         "Speaker": "FemaleOldKindly",
-        "Dialogue": "\"I may be old, but I can show 'em a trick or two.\"",
+        "Dialogue": "I may be old, but I can show 'em a trick or two.",
         "Event": "the Player casting a courage spell on the NPC"
     },
     {
         "Speaker": "MaleCommonerAccented",
-        "Dialogue": "\"Ha ha! Look out. Here I come!\"",
+        "Dialogue": "Ha ha! Look out. Here I come!",
         "Event": "the Player casting a courage spell on the NPC"
     },
     {
         "Speaker": "FemaleYoungEager",
-        "Dialogue": "\"Oh! What did you just do?\"",
+        "Dialogue": "Oh! What did you just do?",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "FemaleCoward",
-        "Dialogue": "\"Ah Please! Don't hurt me!\"",
+        "Dialogue": "Ah Please! Don't hurt me!",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "FemaleOldGrumpy",
-        "Dialogue": "\"Stop that! Keep your spells to yourself.\"",
+        "Dialogue": "Stop that! Keep your spells to yourself.",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "FemaleCommander",
-        "Dialogue": "\"Hey! What the... keep your damn magic to yourself.\"",
+        "Dialogue": "Hey! What the... keep your damn magic to yourself.",
         "Event": "the Player casting a non dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleCommoner or MaleCommonerAccented",
-        "Dialogue": "\"Colorful...\"",
+        "Dialogue": "Colorful...",
         "Event": "the Player casting a colourful with an NPC watching"
     },
     {
         "Speaker": "MaleOldGrumpy",
-        "Dialogue": "\"That spell looks dangerous... keep your distance.\"",
+        "Dialogue": "That spell looks dangerous... keep your distance.",
         "Event": "the Player casting dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleKhajiit",
-        "Dialogue": "\"This one thinks you should be more careful with your spells.\"",
+        "Dialogue": "This one thinks you should be more careful with your spells.",
         "Event": "the Player casting dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleCondescending",
-        "Dialogue": "\"That spell looks dangerous... keep your distance.\"",
+        "Dialogue": "That spell looks dangerous... keep your distance.",
         "Event": "the Player casting dangerous with an NPC watching"
     },
     {
         "Speaker": "MaleNord",
-        "Dialogue": "\"Fancy robes. You a wizard or somethin'?\"",
+        "Dialogue": "Fancy robes. You a wizard or somethin'?",
         "Event": "the Player  wearing a mage robe "
     },
     {
         "Speaker": "MaleYoungEager",
-        "Dialogue": "\"Wow!\"",
+        "Dialogue": "Wow!",
         "Event": "the Player dragon shouting"
     },
     {
         "Speaker": "MaleDrunk",
-        "Dialogue": "\"Did anyone else hear that?\"",
+        "Dialogue": "Did anyone else hear that?",
         "Event": "the Player dragon shouting"
     },
     {
         "Speaker": "FemaleEvenToned",
-        "Dialogue": "\"Are you Dragonborn?\"",
+        "Dialogue": "Are you Dragonborn?",
         "Event": "the Player dragon shouting"
     },
     {
         "Speaker": "MaleElfHaughty",
-        "Dialogue": "\"What sort of power was that?\"",
+        "Dialogue": "What sort of power was that?",
         "Event": "the Player dragon shouting"
     },
     {
         "Speaker": "MaleOldKindly or",
-        "Dialogue": "\"I haven't heard a true shout in generations!\"",
+        "Dialogue": "I haven't heard a true shout in generations!",
         "Event": "the Player dragon shouting"
     },
     {
         "Speaker": "FemaleYoungEager",
-        "Dialogue": "\"No...\"",
+        "Dialogue": "No...",
         "Event": "an NPC spotting a dead corpse"
     },
     {
         "Speaker": "MaleSlyCynical",
-        "Dialogue": "\"Well now, this is unexpected...\"",
+        "Dialogue": "Well now, this is unexpected...",
         "Event": "an NPC spotting a dead corpse"
     },
     {
         "Speaker": "MaleEvenToned",
-        "Dialogue": "\"I'm going to find whoever did this, and when I do...\"",
+        "Dialogue": "I'm going to find whoever did this, and when I do...",
         "Event": "an NPC spotting a dead corpse"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Is someone there?\"",
+        "Dialogue": "Is someone there?",
         "Event": "hearing an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"I'm going to find you...\"",
+        "Dialogue": "I'm going to find you...",
         "Event": "searching for an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"I knew I heard something!\"",
+        "Dialogue": "I knew I heard something!",
         "Event": "spotting an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"You can't get away from me!\"",
+        "Dialogue": "You can't get away from me!",
         "Event": "losing sight of an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Ran off, I suppose.\"",
+        "Dialogue": "Ran off, I suppose.",
         "Event": "giving up searching an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"I hope there aren't any more.\"",
+        "Dialogue": "I hope there aren't any more.",
         "Event": "defeating an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"That your best? Huh?\"",
+        "Dialogue": "That your best? Huh?",
         "Event": "taking a hit",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"I'm gonna wear that tail as a belt!\"",
+        "Dialogue": "I'm gonna wear that tail as a belt!",
         "Event": "taking a hit",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Give up while you still can!\"",
+        "Dialogue": "Give up while you still can!",
         "Event": "taunting an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"I'll have your head!\"",
+        "Dialogue": "I'll have your head!",
         "Event": "taunting an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Enough!\"",
+        "Dialogue": "Enough!",
         "Event": "losing a fight",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Okay. Just this once.\"",
+        "Dialogue": "Okay. Just this once.",
         "Event": "accepting the Player's persuasion",
         "Result": "there is not any further escalation"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"No need to get rough!\"",
+        "Dialogue": "No need to get rough!",
         "Event": "accepting the Player's intimidation",
         "Result": "there is not any further escalation"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"A little coin always greases the wheels.\"",
+        "Dialogue": "A little coin always greases the wheels.",
         "Event": "Accepting the Player's bribe",
         "Result": "there is not any further escalation"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"You expect me to believe that?\"",
+        "Dialogue": "You expect me to believe that?",
         "Event": "rejecting the Player's persuasion",
         "Result": "there is not any further escalation"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"I'll teach you to talk to me that way!\"",
+        "Dialogue": "I'll teach you to talk to me that way!",
         "Event": "rejecting the Player's intimidation",
         "Result": "a brawl begins"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"You lost?\"",
+        "Dialogue": "You lost?",
         "Event": "the Player entering an NPC's dwelling"
     },
     {
         "Speaker": "Merchant",
-        "Dialogue": "Let me know if you see anything you like.\"",
+        "Dialogue": "Let me know if you see anything you like.",
         "Event": "the Player entering the shop"
     },
     {
         "Speaker": "FemaleDarkElf",
-        "Dialogue": "\"You'd better know how to use that weapon if you plan on swinging it around in here.\"",
+        "Dialogue": "You'd better know how to use that weapon if you plan on swinging it around in here.",
         "Event": "the Player being armed when entering building"
     },
     {
         "Speaker": "FemaleOldKindly",
-        "Dialogue": "\"Dear. You should put that weapon away.\"",
+        "Dialogue": "Dear. You should put that weapon away.",
         "Event": "the Player being armed when entering building"
     },
     {
         "Speaker": "FemaleCommoner",
-        "Dialogue": "\"You planning on using that weapon?\"",
+        "Dialogue": "You planning on using that weapon?",
         "Event": "the Player being armed when entering building"
     },
     {
         "Speaker": "Fence",
-        "Dialogue": "\"Usual guild rate. Let's take a look at them.\"",
+        "Dialogue": "Usual guild rate. Let's take a look at them.",
         "Event": "the Player trying to buy something from the"
     },
     {
         "Speaker": "Innkeeper",
-        "Dialogue": "\"Drink for the thirsty, food for the hungry.\"",
+        "Dialogue": "Drink for the thirsty, food for the hungry.",
         "Event": "the Player trying to buy something from the"
     },
     {
         "Speaker": "Spell vendor",
-        "Dialogue": "\"Hmph. I had you figured for a mage. I think you'll appreciate this...\"",
+        "Dialogue": "Hmph. I had you figured for a mage. I think you'll appreciate this...",
         "Event": "the Player trying to buy something from the"
     },
     {
         "Speaker": "Innkeeper",
-        "Dialogue": "\"Come on in. Let me know if you need anything, or take a seat by the fire and I'll send someone over.\"",
+        "Dialogue": "Come on in. Let me know if you need anything, or take a seat by the fire and I'll send someone over.",
         "Event": "the Player entering the inn"
     },
     {
         "Speaker": "Babette",
-        "Dialogue": "\"It's as rewarding as it is dangerous. Let's see what I can show you.\"",
+        "Dialogue": "It's as rewarding as it is dangerous. Let's see what I can show you.",
         "Event": "the Player asking a trainer NPC for training in Alcehmy "
     },
     {
         "Speaker": "Aela the Huntress",
-        "Dialogue": "\"I'll show you what I know.\"",
+        "Dialogue": "I'll show you what I know.",
         "Event": "the Player asking a trainer NPC for training in Archery"
     },
     {
         "Speaker": "Falion",
-        "Dialogue": "\"You deal with powerful forces. Take care they do not overwhelm you.\"",
+        "Dialogue": "You deal with powerful forces. Take care they do not overwhelm you.",
         "Event": "the Player asking a trainer NPC for training in Conjuction"
     },
     {
         "Speaker": "Faralda",
-        "Dialogue": "\"I can teach you, but I won't be held responsible for what you do with the knowledge.\"",
+        "Dialogue": "I can teach you, but I won't be held responsible for what you do with the knowledge.",
         "Event": "the Player asking a trainer NPC for training in Dstruction Magic"
     },
     {
         "Speaker": "Grelka",
-        "Dialogue": "\"I'll teach you how to use it effectively, and keep you quick on your feet.\"",
+        "Dialogue": "I'll teach you how to use it effectively, and keep you quick on your feet.",
         "Event": "the Player asking a trainer NPC for training in the better use of Light Armor"
     },
     {
         "Speaker": "Chief Burguk",
-        "Dialogue": "\"You'll never compare to me, but I can try and teach you anyway.\"'",
+        "Dialogue": "You'll never compare to me, but I can try and teach you anyway.'",
         "Event": "the Player asking a trainer NPC for training in One-Handed Weapons"
     },
     {
         "Speaker": "Colette",
-        "Dialogue": "\"I'll gladly share my knowledge with you.\"",
+        "Dialogue": "I'll gladly share my knowledge with you.",
         "Event": "the Player asking a trainer NPC for training in Restoration Magic"
     },
     {
         "Speaker": "Ghorza gra-Bagol",
-        "Dialogue": "\"It's an honorable craft. I'll show you what I can.\"",
+        "Dialogue": "It's an honorable craft. I'll show you what I can.",
         "Event": "the Player asking a trainer NPC for training in Smithing"
     },
     {
         "Speaker": "Delvin Mallory",
-        "Dialogue": "\"Stick with me, and they'll never even know you're there.\"",
+        "Dialogue": "Stick with me, and they'll never even know you're there.",
         "Event": "the Player asking a trainer NPC for training in Sneaking "
     },
     {
         "Speaker": "Dro'marash",
-        "Dialogue": "\"Well, you've come to the right place.\"",
+        "Dialogue": "Well, you've come to the right place.",
         "Event": "the Player asking a trainer NPC for training in the art of Speech"
     },
     {
         "Speaker": "FemaleEvenToned",
-        "Dialogue": "\"It's settled then. Brief as life can be in Skyrim, at least we'll have each other.\"",
+        "Dialogue": "It's settled then. Brief as life can be in Skyrim, at least we'll have each other.",
         "Event": "an NPC spots the Player character having an amulet of mara",
         "Response_to": "Yes. Yes I am."
     },
     {
         "Speaker": "FemaleNord",
-        "Dialogue": "\"An Amulet of Mara? You're not married? Surprising.\"",
+        "Dialogue": "An Amulet of Mara? You're not married? Surprising.",
         "Event": "an NPC spots the Player character having an amulet of mara",
         "Response_to": null
     },
     {
         "Speaker": "FemaleOrc",
-        "Dialogue": "\"And mine is yours.\"",
+        "Dialogue": "And mine is yours.",
         "Event": "an NPC spots the Player character having an amulet of mara",
         "Response_to": "I do. My hand is yours."
     },
     {
         "Speaker": "Player",
-        "Dialogue": "\"Yes. Yes I am.\"",
+        "Dialogue": "Yes. Yes I am.",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "Well, yes. Why wouldn't I be? Are you... interested in me?\""
+        "Response_to": "Well, yes. Why wouldn't I be? Are you... interested in me?"
     },
     {
         "Speaker": "Player",
-        "Dialogue": "\"I'd be more than interested.\"",
+        "Dialogue": "I'd be more than interested.",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "You are pleasant company, more than pleasant. And what about you? Would you... be interested in a life together?\""
+        "Response_to": "You are pleasant company, more than pleasant. And what about you? Would you... be interested in a life together?"
     },
     {
         "Speaker": "MaleYoungEager",
-        "Dialogue": "\"Oh. I'm sorry I said anything, then.\"",
+        "Dialogue": "Oh. I'm sorry I said anything, then.",
         "Event": "an NPC spots the Player character having an amulet of mara",
         "Response_to": "No, I'm not."
     },
     {
         "Speaker": "FemaleEvenToned",
-        "Dialogue": "\"Is that an Amulet of Mara? I'm surprised someone like you isn't spoken for.\"",
+        "Dialogue": "Is that an Amulet of Mara? I'm surprised someone like you isn't spoken for.",
         "Event": "an NPC spots the Player character having an amulet of mara",
         "Response_to": null
     },
     {
         "Speaker": "MaleEvenToned",
-        "Dialogue": "\"Oh. I'm sorry I said anything, then.\"",
+        "Dialogue": "Oh. I'm sorry I said anything, then.",
         "Event": "an NPC spots the Player character having an amulet of mara",
         "Response_to": "No, I'm not."
     },
     {
         "Speaker": "Player",
-        "Dialogue": "\"I don't. Sorry.\"",
+        "Dialogue": "I don't. Sorry.",
         "Event": "an NPC spots the Player character having an amulet of mara",
         "Response_to": "You're strong. Clever. I'd be proud to face the challenges of life with you, if you feel the same way."
     },
     {
         "Speaker": "Player",
-        "Dialogue": "\"Interested in me, are you?\"",
+        "Dialogue": "Interested in me, are you?",
         "Event": "an NPC spots the Player character having an amulet of mara",
         "Response_to": "An Amulet of Mara, you're looking for marriage, then?"
     },
     {
         "Speaker": "Player",
-        "Dialogue": "\"Yes. Yes I am.\"",
+        "Dialogue": "Yes. Yes I am.",
         "Event": "an NPC spots the Player character having an amulet of mara",
         "Response_to": "Well, yes. Why wouldn't I be? Are you... interested in me?"
     },
     {
         "Speaker": "MaleEvenToned",
-        "Dialogue": "Well, yes. Why wouldn't I be? Are you... interested in me?\"",
+        "Dialogue": "Well, yes. Why wouldn't I be? Are you... interested in me?",
         "Event": "an NPC spots the Player character having an amulet of mara",
         "Response_to": "Interested in me, are you?"
     },
     {
         "Speaker": "Player",
-        "Dialogue": "\"No. Sorry.\"",
+        "Dialogue": "No. Sorry.",
         "Event": "an NPC spots the Player character having an amulet of mara",
-        "Response_to": "You are pleasant company, more than pleasant. And what about you? Would you... be interested in a life together?\""
+        "Response_to": "You are pleasant company, more than pleasant. And what about you? Would you... be interested in a life together?"
     },
     {
         "Speaker": "Player",
-        "Dialogue": "\"I don't. Sorry.\"",
+        "Dialogue": "I don't. Sorry.",
         "Event": "an NPC spots the Player character having an amulet of mara",
         "Response_to": "You're strong. Clever. I'd be proud to face the challenges of life with you, if you feel the same way."
     },
     {
         "Speaker": "Player",
-        "Dialogue": "\"No, I'm not.\"",
+        "Dialogue": "No, I'm not.",
         "Event": "an NPC spots the Player character having an amulet of mara",
         "Response_to": "Well, yes. Why wouldn't I be? Are you... interested in me?"
     },
     {
         "Speaker": "MaleCommoner",
-        "Dialogue": "\"I'll see you at our wedding!\"",
+        "Dialogue": "I'll see you at our wedding!",
         "Event": "the wedding arrangements between an NPC and the Player",
         "Condition": "the Player has arranged the wedding"
     },
     {
         "Speaker": "FemaleCommoner",
-        "Dialogue": "\"I'll see you at our wedding!\"",
+        "Dialogue": "I'll see you at our wedding!",
         "Event": "the wedding arrangements between an NPC and the Player",
         "Condition": "the Player has arranged the wedding"
     },
     {
         "Speaker": "FemaleNord",
-        "Dialogue": "\"You go ahead and arrange the wedding ceremony when you're ready.\"",
+        "Dialogue": "You go ahead and arrange the wedding ceremony when you're ready.",
         "Event": "the wedding arrangements between an NPC and the Player",
         "Condition": "the Player has not arranged the wedding yet"
     },
     {
         "Speaker": "FemaleEvenToned",
-        "Dialogue": "You should arrange the ceremony at the Temple of Mara right away. I can't wait.\"",
+        "Dialogue": "You should arrange the ceremony at the Temple of Mara right away. I can't wait.",
         "Event": "the wedding arrangements between an NPC and the Player",
         "Condition": "the Player has not arranged the wedding yet"
     },
     {
         "Speaker": "FemaleCommander",
-        "Dialogue": "\"The wedding is soon. It'll be a good day.\"",
+        "Dialogue": "The wedding is soon. It'll be a good day.",
         "Event": "the wedding arrangements between an NPC and the Player",
         "Condition": "the Player has arranged the wedding"
     },
     {
         "Speaker": "MaleCoward",
-        "Dialogue": "It's a simple ceremony, but it'll do. You're here. That's enough.\"",
+        "Dialogue": "It's a simple ceremony, but it'll do. You're here. That's enough.",
         "Event": "the wedding ceremony between the Player and the NPC",
         "Condition": null
     },
     {
         "Speaker": "MaleNord",
-        "Dialogue": "\"This is a fine wedding. And to think, it's for us.\"",
+        "Dialogue": "This is a fine wedding. And to think, it's for us.",
         "Event": "the wedding ceremony between the Player and the NPC",
         "Condition": null
     },
     {
         "Speaker": "MaleDrunk",
-        "Dialogue": "\"Weddings always make me cry. What am I supposed to do now that I'm the one getting married?\"",
+        "Dialogue": "Weddings always make me cry. What am I supposed to do now that I'm the one getting married?",
         "Event": "the wedding ceremony between the Player and the NPC",
         "Condition": null
     },
     {
         "Speaker": "MaleCoward",
-        "Dialogue": "\"You're abandoning me? Me? I never want to see you ever again.\"",
+        "Dialogue": "You're abandoning me? Me? I never want to see you ever again.",
         "Event": "the Player calling off the wedding between them and the NPC",
         "Condition": null
     },
     {
         "Speaker": "MaleNord",
-        "Dialogue": "I don't want to see you ever again.\"",
+        "Dialogue": "I don't want to see you ever again.",
         "Event": "the Player calling off the wedding between them and the NPC",
         "Condition": null
     },
     {
         "Speaker": "MaleDrunk",
-        "Dialogue": "\"Get out. Leave me alone!\"",
+        "Dialogue": "Get out. Leave me alone!",
         "Event": "the Player calling off the wedding between them and the NPC",
         "Condition": null
     },
     {
         "Speaker": "MaleCoward",
-        "Dialogue": "\"Look at you. Come crawling back, after everything you've done to me?\"",
+        "Dialogue": "Look at you. Come crawling back, after everything you've done to me?",
         "Event": "the Player taking to the npc they were supposed to marry after the cancelled wedding",
         "Condition": "the wedding has been cancelled"
     },
     {
         "Speaker": "MaleNord",
-        "Dialogue": "\"We have nothing to talk about. I can't believe what you did to me.\"",
+        "Dialogue": "We have nothing to talk about. I can't believe what you did to me.",
         "Event": "the Player taking to the npc they were supposed to marry after the cancelled wedding",
         "Condition": "the wedding has been cancelled"
     },
     {
         "Speaker": "MaleDrunk",
-        "Dialogue": "\"You. You should just go. I don't have enough ale to stomach talking to you.\"",
+        "Dialogue": "You. You should just go. I don't have enough ale to stomach talking to you.",
         "Event": "the Player taking to the npc they were supposed to marry after the cancelled wedding",
         "Condition": "the wedding has been cancelled"
     },
     {
         "Speaker": "MaleOrc",
-        "Dialogue": "\"You've no right to be here. This place is for Orcs. And Orcs alone.\"",
+        "Dialogue": "You've no right to be here. This place is for Orcs. And Orcs alone.",
         "Event": "the Player entering an Orc Stronghold",
         "Condition": "the Player is not a blood-kin"
     },
     {
         "Speaker": "FemaleOrc",
-        "Dialogue": "\"Malacath blesses this land for the Orcs. And the Orcs alone.\"",
+        "Dialogue": "Malacath blesses this land for the Orcs. And the Orcs alone.",
         "Event": "the Player entering an Orc Stronghold",
         "Condition": "the Player is not a blood-kin"
     },
     {
         "Speaker": "OrcMiner",
-        "Dialogue": "\"I'm here to mine, outlander. So unless you want to dig, get out.\"",
+        "Dialogue": "I'm here to mine, outlander. So unless you want to dig, get out.",
         "Event": "the Player talking to a miner Orc",
         "Condition": null
     },
     {
         "Speaker": "FemaleKhajiit",
-        "Dialogue": "\"The roads of Skyrim lead to many dangers.\"",
+        "Dialogue": "The roads of Skyrim lead to many dangers.",
         "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
         "Condition": "the Khajiit is a guard or a merchant"
     },
     {
         "Speaker": "FemaleKhajiit",
-        "Dialogue": "\"You honor Khajiit with your presence.\"",
+        "Dialogue": "You honor Khajiit with your presence.",
         "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
         "Condition": "the Khajiit is a merchant"
     },
     {
         "Speaker": "FemaleKhajiit",
-        "Dialogue": "\"The road makes this one weary.\"",
+        "Dialogue": "The road makes this one weary.",
         "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
         "Condition": "the Khajiit is a guard or a merchant"
     },
     {
         "Speaker": "MaleKhajiit",
-        "Dialogue": "\"Welcome to you.\"",
+        "Dialogue": "Welcome to you.",
         "Event": "the Player greeting a merchant on the Khajiit Caraban",
         "Condition": "the Khajiit is a merchant"
     },
     {
         "Speaker": "MaleKhajiit",
-        "Dialogue": "Tools, wares and weapons, all for sale at fair prices.\"",
+        "Dialogue": "Tools, wares and weapons, all for sale at fair prices.",
         "Event": "a Khajiit merchant shouting to grab the players attention",
         "Condition": "the Khajiit is a merchant"
     },
     {
         "Speaker": "MaleKhajiit",
-        "Dialogue": "\"Bring your coins, but do not bring trouble.\"",
+        "Dialogue": "Bring your coins, but do not bring trouble.",
         "Event": "the Player greeting a Khajiit Guard on the Khajit Caraban",
         "Condition": "the Khajiit is a guard"
     },
     {
         "Speaker": "Carriage Driver",
-        "Dialogue": "\"Nice weather for a ride. Hope it lasts.\"",
+        "Dialogue": "Nice weather for a ride. Hope it lasts.",
         "Event": "the Player is riding a Carriage anywhere in the world",
         "Condition": "the weather is pleasant"
     },
     {
         "Speaker": "Carriage Driver",
-        "Dialogue": "\"This'll clear up soon, I'm sure of it.\"",
+        "Dialogue": "This'll clear up soon, I'm sure of it.",
         "Event": "the Player is riding a Carriage anywhere in the world",
         "Condition": "it is raining"
     },
     {
         "Speaker": "Carriage Driver",
-        "Dialogue": "\"Ever been to Markarth? Some say it was built by the dwarves. I don't believe a word of it though.\"",
+        "Dialogue": "Ever been to Markarth? Some say it was built by the dwarves. I don't believe a word of it though.",
         "Event": "the Player is riding a Carriage in Markath",
         "Condition": "the Player has not visited Markarth before"
     },
     {
         "Speaker": "Carriage Driver",
-        "Dialogue": "\"If you've never been to Riften, be sure to visit the Black-Briar meadery. A few mugs of that and you'll forget all about the long trip.\"",
+        "Dialogue": "If you've never been to Riften, be sure to visit the Black-Briar meadery. A few mugs of that and you'll forget all about the long trip.",
         "Event": "the Player is riding a Carriage in Riften",
         "Condition": "the Player has not visited Riften before"
     },
     {
         "Speaker": "Carriage Driver",
-        "Dialogue": "\"First time to Solitude? Beautiful old city. Capital of Skyrim, but I'm sure you already knew that.\"",
+        "Dialogue": "First time to Solitude? Beautiful old city. Capital of Skyrim, but I'm sure you already knew that.",
         "Event": "the Player is riding a Carriage in Solitude",
         "Condition": "the Player has not visited Solitude before"
     },
     {
         "Speaker": "Carriage Driver",
-        "Dialogue": "\"Never been to Whiterun before? The Jarl's palace is something to see. Dragonsreach they call it. Big old dragon skull hanging on the wall.\"",
+        "Dialogue": "Never been to Whiterun before? The Jarl's palace is something to see. Dragonsreach they call it. Big old dragon skull hanging on the wall.",
         "Event": "the Player is riding a Carriage in Whiterun",
         "Condition": "the Player has not visited Whiterun before"
     },
     {
         "Speaker": "Carriage Driver",
-        "Dialogue": "\"Ever been to Windhelm? Oldest city in Skyrim, by some accounts. They say the big old palace there was built by Ysgramor himself.\"",
+        "Dialogue": "Ever been to Windhelm? Oldest city in Skyrim, by some accounts. They say the big old palace there was built by Ysgramor himself.",
         "Event": "the Player is riding a Carriage in Windhelm",
         "Condition": "the Player has not  visited Windhelm before"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Staying safe I hope.\"",
+        "Dialogue": "Staying safe I hope.",
         "Event": "the Player passing next to a guard on the road",
         "Condition": null
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Only burglars and vampires creep around after dark. So which are you?\"",
+        "Dialogue": "Only burglars and vampires creep around after dark. So which are you?",
         "Event": "the Player passing next to a guard on the road",
         "Condition": "it is nighttime"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"No lollygaggin'.\"",
+        "Dialogue": "No lollygaggin'.",
         "Event": "the Player passing next to a guard on the road",
         "Condition": null
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Whoa, whoa, whoa! Watch the magic!\"",
+        "Dialogue": "Whoa, whoa, whoa! Watch the magic!",
         "Event": "a Guard reacting to witnessed events",
         "Condition": "the player casts a spell in the guard's presence."
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Werewolf!\"",
+        "Dialogue": "Werewolf!",
         "Event": "a Guard reacting to the Player's condition",
         "Condition": "the Player is a Werewolf in beast form"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Don't cross me, Elf.\"",
-        "Event": "a Guard reacting to players race",
+        "Dialogue": "Don't cross me, Elf.",
+        "Event": "a Guard reacting to the Player's race",
         "Condition": "the Guard is Nord and a Stormcloak",
         "Race": "Altmer, Bosmer, or Dunmer"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"What is it, Khajiit?\"",
-        "Event": "a Guard reacting to players race",
+        "Dialogue": "What is it, Khajiit?",
+        "Event": "a Guard reacting to the Player's race",
         "Condition": null,
         "Race": "Khajiit"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Takes a fair bit of strength to carry a greatsword like that. But can you use it?\"",
-        "Event": "Guard reacting to Player's weapon",
+        "Dialogue": "Aye, now that's some fine armor. Good old-fashioned steel.",
+        "Event": "Guard reacting to the Player's weapon",
         "Condition": null,
-        "Equipment": "Greatsword"
+        "Equipment": "Steel Armor or Steel Plate Armor"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"That armor... Are you one of the Emperor's protectors? Not very good at your job, are you?\"",
-        "Event": "Guard reacting to Player's apparel",
-        "Condition": "the emperor is alive",
-        "Equipment": "Penitus Oculatus Armor"
-    },
-    {
-        "Speaker": "Guard",
-        "Dialogue": "\"Orcish armor, hmm? Had me a set of that once. Ugly and strong, like those that forged it.\"",
-        "Event": "Guard reacting to Player's apparel",
+        "Dialogue": "That's fine scale armor you've got on there. Shiny.",
+        "Event": "Guard reacting to the Player's weapon",
         "Condition": null,
-        "Equipment": "Orcish Armor"
+        "Equipment": "Scaled Armor"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Your shield... Dwarf-make, is it not? But yet it seems so much... more.\"",
-        "Event": "Guard reacting to Player's artifacts and unique items",
+        "Dialogue": "That Stormcloak armor's getting on my nerves...",
+        "Event": "Guard reacting to the Player's weapon",
+        "Condition": "the Guard speaking is an Imperial Guard",
+        "Equipment": "Stormcloak Cuirass"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "Your shield... Dwarf-make, is it not? But yet it seems so much... more.",
+        "Event": "Guard reacting to the Player's artifacts and unique items",
         "Condition": null,
         "Equipment": "Spellbreaker"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"'Tis a wicked axe you wield there, friend. That blade looks sharp enough to cut through a god.\"",
-        "Event": "Guard reacting to Player's artifacts and unique items",
+        "Dialogue": "Tis a wicked axe you wield there, friend. That blade looks sharp enough to cut through a god.",
+        "Event": "Guard reacting to the Player's artifacts and unique items",
         "Condition": null,
         "Equipment": "The Rueful Axe"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Fancy yourself an alchemist, hmm? Never could get the hang of that.\"",
-        "Event": "a Guard reacting to the players high skill level in Alchemy"
+        "Dialogue": "Fancy yourself an alchemist, hmm? Never could get the hang of that.",
+        "Event": "a Guard reacting to the Player's high skill level in Alchemy"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"I find your hand in my pocket, I'm going to cut it off.\"",
-        "Event": "a Guard reacting to the players high skill level in Pickpocketing"
+        "Dialogue": "I find your hand in my pocket, I'm going to cut it off.",
+        "Event": "a Guard reacting to the Player's high skill level in Pickpocketing"
     },
     {
         "Speaker": "Stormcloak Guard",
-        "Dialogue": "\"We couldn't have taken this city without you, sir.\"*",
+        "Dialogue": "We couldn't have taken this city without you, sir.*",
         "Event": "the Player interacting with a Stormcloak guard",
         "Condition": "the Stormcloaks control Solitude"
     },
     {
         "Speaker": "Imperial Guard",
-        "Dialogue": "\"Now that the Empire's arrived in Riften, we've finally established a launching point into Morrowind... Just in case.\"",
+        "Dialogue": "Now that the Empire's arrived in Riften, we've finally established a launching point into Morrowind... Just in case.",
         "Event": "the Player interacting with an Imperial guard",
         "Condition": "the Empire controls Riften"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"You've come to Dawnstar at a strange time, friend. Seems everyone in this town is having nightmares...\"",
+        "Dialogue": "You've come to Dawnstar at a strange time, friend. Seems everyone in this town is having nightmares...",
         "Event": "Player interacts with the guard in a specific location",
         "Condition": null,
         "Location": "Dawnstar"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Caught a case of Rockjoint, once. Bothela at the Hag's Cure fixed me right up.\"",
+        "Dialogue": "Caught a case of Rockjoint, once. Bothela at the Hag's Cure fixed me right up.",
         "Event": "Player interacts with the guard in a specific location",
         "Condition": null,
         "Location": "Markarth"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"You know I saw something near Shimmermist Cave to the northeast. Some sort of creature. Small and wicked, never seen its like before.\"",
+        "Dialogue": "You know I saw something near Shimmermist Cave to the northeast. Some sort of creature. Small and wicked, never seen its like before.",
         "Event": "Player interacts with the guard in a specific location",
         "Condition": null,
         "Location": "Whiterun"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Across the river to the northeast lies Yngol Barrow. Stear clear of the foul place, lest the walking dead claim you as their own.\"",
+        "Dialogue": "Across the river to the northeast lies Yngol Barrow. Stear clear of the foul place, lest the walking dead claim you as their own.",
         "Event": "Player interacts with the guard in a specific location",
         "Condition": null,
         "Location": "Windhelm"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"There's a small skeever den just east of the city, at Reachwater Rock.\"",
+        "Dialogue": "There's a small skeever den just east of the city, at Reachwater Rock.",
         "Event": "Player interacts with the guard in a specific location",
         "Condition": null,
         "Location": "Markarth"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"If you're heading east, stay clear of Hillgrund's Tomb. Thing about those old crypts - the dead have trouble staying that way.\"",
+        "Dialogue": "If you're heading east, stay clear of Hillgrund's Tomb. Thing about those old crypts - the dead have trouble staying that way.",
         "Event": "Player interacts with the guard in a specific location",
         "Condition": null,
         "Location": "Whiterun"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Beware of Frostmere Crypt, friend. Heard some bandits are living in the ruins now.\"",
+        "Dialogue": "Beware of Frostmere Crypt, friend. Heard some bandits are living in the ruins now.",
         "Event": "Player interacts with the guard in a specific location",
         "Condition": null,
         "Location": "Dawnstar"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Thinking of settling in? There's a home for sale - Breezehome. You should talk to the steward up in the keep if you're interested.\"",
+        "Dialogue": "Thinking of settling in? There's a home for sale - Breezehome. You should talk to the steward up in the keep if you're interested.",
         "Event": "Player interacts with the guard in a specific location",
-        "Condition": "the player has not purchased Breezehome",
+        "Condition": "the Player has not purchased Breezehome",
         "Location": "Whiterun"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Ah, Vlindrel Hall's a fine home, if you can afford it. The steward in the keep can tell you more.\"",
+        "Dialogue": "Ah, Vlindrel Hall's a fine home, if you can afford it. The steward in the keep can tell you more.",
         "Event": "Player interacts with the guard in a specific location",
         "Condition": "the Player has purchased Vlindrel Hall",
         "Location": "Markarth"

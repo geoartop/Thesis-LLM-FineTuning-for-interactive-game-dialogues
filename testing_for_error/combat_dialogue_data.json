@@ -1,601 +1,601 @@
 [
     {
         "Speaker": "Any",
-        "Dialogue": "\"Is someone there?\"",
+        "Dialogue": "Is someone there?",
         "Event": "hearing an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Huh?\"",
+        "Dialogue": "Huh?",
         "Event": "hearing an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"I know you're here somewhere.\"",
+        "Dialogue": "I know you're here somewhere.",
         "Event": "searching for an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"I know you can hear me!\"",
+        "Dialogue": "I know you can hear me!",
         "Event": "searching for an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Hello? Who's there?\"",
+        "Dialogue": "Hello? Who's there?",
         "Event": "searching for an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"I'm going to find you...\"",
+        "Dialogue": "I'm going to find you...",
         "Event": "searching for an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"I knew I heard something!\"",
+        "Dialogue": "I knew I heard something!",
         "Event": "spotting an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Ha! Found you!\"",
+        "Dialogue": "Ha! Found you!",
         "Event": "spotting an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Get back here!\"",
+        "Dialogue": "Get back here!",
         "Event": "losing sight of an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Where'd you go?\"",
+        "Dialogue": "Where'd you go?",
         "Event": "losing sight of an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Where are you?\"",
+        "Dialogue": "Where are you?",
         "Event": "losing sight of an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"You can't get away from me!\"",
+        "Dialogue": "You can't get away from me!",
         "Event": "losing sight of an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"I'll find you...\"",
+        "Dialogue": "I'll find you...",
         "Event": "losing sight of an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Must be my imagination.\"",
+        "Dialogue": "Must be my imagination.",
         "Event": "giving up searching an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Mind's playing tricks on me...\"",
+        "Dialogue": "Mind's playing tricks on me...",
         "Event": "giving up searching an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Hmm. Nothing here after all.\"",
+        "Dialogue": "Hmm. Nothing here after all.",
         "Event": "giving up searching an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Ran off, I suppose.\"",
+        "Dialogue": "Ran off, I suppose.",
         "Event": "giving up searching an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"No one/nobody here now.\"",
+        "Dialogue": "No one/nobody here now.",
         "Event": "giving up searching an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"That'll teach you.\"",
+        "Dialogue": "That'll teach you.",
         "Event": "defeating an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"That's the end of that.\"",
+        "Dialogue": "That's the end of that.",
         "Event": "defeating an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Teach you to mess with me.\"",
+        "Dialogue": "Teach you to mess with me.",
         "Event": "defeating an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"I hope there aren't any more.\"",
+        "Dialogue": "I hope there aren't any more.",
         "Event": "defeating an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Phew!\"",
+        "Dialogue": "Phew!",
         "Event": "defeating an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"By Ysmir, you'll pay for that!\"",
+        "Dialogue": "By Ysmir, you'll pay for that!",
         "Event": "taking a hit",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Ha! Like the bite of a flea!\"",
+        "Dialogue": "Ha! Like the bite of a flea!",
         "Event": "taking a hit",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Agh! Flithy n'wah!\"",
+        "Dialogue": "Agh! Flithy n'wah!",
         "Event": "taking a hit",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Damn you!\"",
+        "Dialogue": "Damn you!",
         "Event": "taking a hit",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Do your worst!\"",
+        "Dialogue": "Do your worst!",
         "Event": "taking a hit",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Ha! I've suffered worse during training!\"",
+        "Dialogue": "Ha! I've suffered worse during training!",
         "Event": "taking a hit",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Lucky... hit...\"",
+        "Dialogue": "Lucky... hit...",
         "Event": "taking a hit",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Agh! Enough! This ends now!\"",
+        "Dialogue": "Agh! Enough! This ends now!",
         "Event": "taking a hit",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"That's... all you've got?\"",
+        "Dialogue": "That's... all you've got?",
         "Event": "taking a hit",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Azura curse you!\"",
+        "Dialogue": "Azura curse you!",
         "Event": "taking a hit",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"I'm gonna wear that tail as a belt!\"",
+        "Dialogue": "I'm gonna wear that tail as a belt!",
         "Event": "taking a hit",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Agh! Bastard!\"",
+        "Dialogue": "Agh! Bastard!",
         "Event": "taking a hit",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Fall to me, dragon!\"",
+        "Dialogue": "Fall to me, dragon!",
         "Event": "fighting a dragon",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Die, N'wah!\"",
+        "Dialogue": "Die, N'wah!",
         "Event": "taunting an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Hsssss!\"",
+        "Dialogue": "Hsssss!",
         "Event": "taunting an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Ha! I think you're bleeding!\"",
+        "Dialogue": "Ha! I think you're bleeding!",
         "Event": "taunting an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Just... stand still!\"",
+        "Dialogue": "Just... stand still!",
         "Event": "taunting an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"I'm going to... put you down!\"",
+        "Dialogue": "I'm going to... put you down!",
         "Event": "taunting an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Not impressed!\"",
+        "Dialogue": "Not impressed!",
         "Event": "taunting an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"I'll try and make this quick!\"",
+        "Dialogue": "I'll try and make this quick!",
         "Event": "taunting an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Give up while you still can!\"",
+        "Dialogue": "Give up while you still can!",
         "Event": "taunting an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"I'll mount your head on my wall\"",
+        "Dialogue": "I'll mount your head on my wall",
         "Event": "taunting an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Aghh! Just... die already!\"",
+        "Dialogue": "Aghh! Just... die already!",
         "Event": "taunting an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"No more! I yield! I yield!\"",
+        "Dialogue": "No more! I yield! I yield!",
         "Event": "losing a fight",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Death is highly overrated!\"",
+        "Dialogue": "Death is highly overrated!",
         "Event": "losing a fight",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"I cannot best you!\"",
+        "Dialogue": "I cannot best you!",
         "Event": "losing a fight",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Enough!\"",
+        "Dialogue": "Enough!",
         "Event": "losing a fight",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"What was that?\"",
+        "Dialogue": "What was that?",
         "Event": "hearing an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"What was that?\"",
+        "Dialogue": "What was that?",
         "Event": "hearing an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"I know I heard something.\"",
+        "Dialogue": "I know I heard something.",
         "Event": "searching for an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Come on, show yourself!\"",
+        "Dialogue": "Come on, show yourself!",
         "Event": "searching for an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Anybody there?\"",
+        "Dialogue": "Anybody there?",
         "Event": "searching for an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Anybody there?\"",
+        "Dialogue": "Anybody there?",
         "Event": "searching for an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Over here!\"",
+        "Dialogue": "Over here!",
         "Event": "spotting an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Over here!\"",
+        "Dialogue": "Over here!",
         "Event": "spotting an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Show yourself!\"",
+        "Dialogue": "Show yourself!",
         "Event": "losing sight of an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Come back here!\"",
+        "Dialogue": "Come back here!",
         "Event": "losing sight of an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"You can't hide forever!\"",
+        "Dialogue": "You can't hide forever!",
         "Event": "losing sight of an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"You can't hide from me!\"",
+        "Dialogue": "You can't hide from me!",
         "Event": "losing sight of an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Where are you hiding?\"",
+        "Dialogue": "Where are you hiding?",
         "Event": "losing sight of an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Just getting jumpy I guess.\"",
+        "Dialogue": "Just getting jumpy I guess.",
         "Event": "giving up searching an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"I guess I was just hearing things.\"",
+        "Dialogue": "I guess I was just hearing things.",
         "Event": "giving up searching an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"I was sure I heard something.\"",
+        "Dialogue": "I was sure I heard something.",
         "Event": "giving up searching an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Must've scared 'em off.\"",
+        "Dialogue": "Must've scared 'em off.",
         "Event": "giving up searching an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Cleared out, I guess.\"",
+        "Dialogue": "Cleared out, I guess.",
         "Event": "giving up searching an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"That'll teach you to cross me.\"",
+        "Dialogue": "That'll teach you to cross me.",
         "Event": "defeating an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"That takes care of that.\"",
+        "Dialogue": "That takes care of that.",
         "Event": "defeating an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"That's the last of them.\"",
+        "Dialogue": "That's the last of them.",
         "Event": "defeating an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"All over now.\"",
+        "Dialogue": "All over now.",
         "Event": "defeating an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Good enough.\"",
+        "Dialogue": "Good enough.",
         "Event": "defeating an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Ugh! That it? That your best?\"",
+        "Dialogue": "Ugh! That it? That your best?",
         "Event": "taking a hit",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Just a... scratch!\"",
+        "Dialogue": "Just a... scratch!",
         "Event": "taking a hit",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"That the best you can do?\"",
+        "Dialogue": "That the best you can do?",
         "Event": "taking a hit",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Gods, no!\"",
+        "Dialogue": "Gods, no!",
         "Event": "taking a hit",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Agh! I been wounded worse by better!\"",
+        "Dialogue": "Agh! I been wounded worse by better!",
         "Event": "taking a hit",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"That's it? That's all you've got?\"",
+        "Dialogue": "That's it? That's all you've got?",
         "Event": "taking a hit",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Son of a...\"",
+        "Dialogue": "Son of a...",
         "Event": "taking a hit",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"That your best? Huh?\"",
+        "Dialogue": "That your best? Huh?",
         "Event": "taking a hit",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"It's... nothing...\"",
+        "Dialogue": "It's... nothing...",
         "Event": "taking a hit",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"You'll make a fine rug, cat!\"",
+        "Dialogue": "You'll make a fine rug, cat!",
         "Event": "taking a hit",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"I'll see you burn!\"",
+        "Dialogue": "I'll see you burn!",
         "Event": "taking a hit",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"I'll see you burn!\"",
+        "Dialogue": "I'll see you burn!",
         "Event": "taking a hit",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Die, dragon!\"",
+        "Dialogue": "Die, dragon!",
         "Event": "fighting a dragon",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Filthy fetcher!\"",
+        "Dialogue": "Filthy fetcher!",
         "Event": "taunting an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"For Skyrim!\"",
+        "Dialogue": "For Skyrim!",
         "Event": "taunting an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Weren't expecting that, were you!\"",
+        "Dialogue": "Weren't expecting that, were you!",
         "Event": "taunting an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Die, damn you!\"",
+        "Dialogue": "Die, damn you!",
         "Event": "taunting an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"I'll have your head!\"",
+        "Dialogue": "I'll have your head!",
         "Event": "taunting an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Going to cry now? Huh?\"",
+        "Dialogue": "Going to cry now? Huh?",
         "Event": "taunting an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"You can't win this!\"",
+        "Dialogue": "You can't win this!",
         "Event": "taunting an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Gods... damn you!\"",
+        "Dialogue": "Gods... damn you!",
         "Event": "taunting an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Going to enjoy killing you!\"",
+        "Dialogue": "Going to enjoy killing you!",
         "Event": "taunting an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"I've had enough of you!\"",
+        "Dialogue": "I've had enough of you!",
         "Event": "taunting an enemy",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Mercy!\"",
+        "Dialogue": "Mercy!",
         "Event": "losing a fight",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"We are routed! Fall back!\"",
+        "Dialogue": "We are routed! Fall back!",
         "Event": "losing a fight",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Victory is yours! I submit!\"",
+        "Dialogue": "Victory is yours! I submit!",
         "Event": "losing a fight",
         "Condition": "in combat"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"I'll live to drink another day!\"",
+        "Dialogue": "I'll live to drink another day!",
         "Event": "losing a fight",
         "Condition": "in combat"
     }

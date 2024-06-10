@@ -1,102 +1,102 @@
 [
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Fancy yourself an alchemist, hmm? Never could get the hang of that.\"",
-        "Event": "a Guard reacting to the players high skill level in Alchemy"
+        "Dialogue": "Fancy yourself an alchemist, hmm? Never could get the hang of that.",
+        "Event": "a Guard reacting to the Player's high skill level in Alchemy"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Hey, you mix potions, right? Can you brew me an ale?\"",
-        "Event": "a Guard reacting to the players high skill level in Alchemy"
+        "Dialogue": "Hey, you mix potions, right? Can you brew me an ale?",
+        "Event": "a Guard reacting to the Player's high skill level in Alchemy"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Favor the bow, eh? I'm a sword man, myself.\"",
-        "Event": "a Guard reacting to the players high skill level in Alchemy"
+        "Dialogue": "Favor the bow, eh? I'm a sword man, myself.",
+        "Event": "a Guard reacting to the Player's high skill level in Alchemy"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Keep your arrows in their quiver, archer.\"",
-        "Event": "a Guard reacting to the players high skill level in Alchemy"
+        "Dialogue": "Keep your arrows in their quiver, archer.",
+        "Event": "a Guard reacting to the Player's high skill level in Alchemy"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Hail, summoner. Conjure me up a warm bed, would you?\"",
-        "Event": "a Guard reacting to the players high skill level in Conjuration"
+        "Dialogue": "Hail, summoner. Conjure me up a warm bed, would you?",
+        "Event": "a Guard reacting to the Player's high skill level in Conjuration"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Destruction magic's fine, just don't go burning down any buildings.\"",
-        "Event": "a Guard reacting to the players high skill level in Destruction"
+        "Dialogue": "Destruction magic's fine, just don't go burning down any buildings.",
+        "Event": "a Guard reacting to the Player's high skill level in Destruction"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Don't suppose you'd enchant my sword? Dull old blade can barely cut butter.\"",
-        "Event": "a Guard reacting to the players high skill level in Enchanting"
+        "Dialogue": "Don't suppose you'd enchant my sword? Dull old blade can barely cut butter.",
+        "Event": "a Guard reacting to the Player's high skill level in Enchanting"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Best offense is a good defense, am I right?\"",
-        "Event": "a Guard reacting to the players high skill level in the use of heavy armor"
+        "Dialogue": "Best offense is a good defense, am I right?",
+        "Event": "a Guard reacting to the Player's high skill level in the use of heavy armor"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"You're the one that casts those illusions. Impressive.\"",
-        "Event": "a Guard reacting to the players high skill level in Illusions"
+        "Dialogue": "You're the one that casts those illusions. Impressive.",
+        "Event": "a Guard reacting to the Player's high skill level in Illusions"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Lightly armored means light on your feet. Smart.\"",
-        "Event": "a Guard reacting to the players high skill level in the use of light armor"
+        "Dialogue": "Lightly armored means light on your feet. Smart.",
+        "Event": "a Guard reacting to the Player's high skill level in the use of light armor"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Go fiddling with any locks around here, we're going to have a real problem.\"",
-        "Event": "a Guard reacting to the players high skill level in Lockpicking"
+        "Dialogue": "Go fiddling with any locks around here, we're going to have a real problem.",
+        "Event": "a Guard reacting to the Player's high skill level in Lockpicking"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"You're like me, eh? Don't fancy those clunky two-handed weapons.\"",
-        "Event": "a Guard reacting to the players high skill level in the use of one-handed weapons"
+        "Dialogue": "You're like me, eh? Don't fancy those clunky two-handed weapons.",
+        "Event": "a Guard reacting to the Player's high skill level in the use of one-handed weapons"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"I find your hand in my pocket, I'm going to cut it off.\"",
-        "Event": "a Guard reacting to the players high skill level in Pickpocketing"
+        "Dialogue": "I find your hand in my pocket, I'm going to cut it off.",
+        "Event": "a Guard reacting to the Player's high skill level in Pickpocketing"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"I know your kind, always sneaking about.\"",
-        "Event": "a Guard reacting to the players high skill level in Pickpocketing"
+        "Dialogue": "I know your kind, always sneaking about.",
+        "Event": "a Guard reacting to the Player's high skill level in Pickpocketing"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"I have a lot of respect for the Restoration School. Skyrim could use more healers.\"",
-        "Event": "a Guard reacting to the players high skill level in Restoration"
+        "Dialogue": "I have a lot of respect for the Restoration School. Skyrim could use more healers.",
+        "Event": "a Guard reacting to the Player's high skill level in Restoration"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Hands to yourself, sneak thief.\"",
-        "Event": "a Guard reacting to the players high skill level in Pickpocketing"
+        "Dialogue": "Hands to yourself, sneak thief.",
+        "Event": "a Guard reacting to the Player's high skill level in Pickpocketing"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Hands to yourself, sneak thief.\"",
-        "Event": "a Guard reacting to the players high skill level in Sneaking"
+        "Dialogue": "Hands to yourself, sneak thief.",
+        "Event": "a Guard reacting to the Player's high skill level in Sneaking"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Don't think you can barter with me like I'm one of those damned shopkeepers.\"",
-        "Event": "a Guard reacting to the players high skill level in the use of Speech"
+        "Dialogue": "Don't think you can barter with me like I'm one of those damned shopkeepers.",
+        "Event": "a Guard reacting to the Player's high skill level in the use of Speech"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Heard about you and your honeyed words...\"",
-        "Event": "a Guard reacting to the players high skill level in the use of Speech"
+        "Dialogue": "Heard about you and your honeyed words...",
+        "Event": "a Guard reacting to the Player's high skill level in the use of Speech"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"The gods gave you two hands, and you use them both for your weapon. I can respect that.\"",
-        "Event": "a Guard reacting to the players high skill level in the use of Two-Handed weapons"
+        "Dialogue": "The gods gave you two hands, and you use them both for your weapon. I can respect that.",
+        "Event": "a Guard reacting to the Player's high skill level in the use of Two-Handed weapons"
     }
 ]

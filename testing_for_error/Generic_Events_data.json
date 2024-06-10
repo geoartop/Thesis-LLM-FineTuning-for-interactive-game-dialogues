@@ -1,472 +1,472 @@
 [
     {
         "Speaker": "Any",
-        "Dialogue": "\"You dirty thief!\"",
+        "Dialogue": "You dirty thief!",
         "Event": "the an NPC witnessing a theft"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Stop, thief!\"",
+        "Dialogue": "Stop, thief!",
         "Event": "the an NPC witnessing a theft"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"You're not supposed to be in here.\"",
+        "Dialogue": "You're not supposed to be in here.",
         "Event": "the Player trespassing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Last warning. Leave, now.\"",
+        "Dialogue": "Last warning. Leave, now.",
         "Event": "the Player trespassing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"I'm not going to warn you again. Get out, or I'll call the guards!\"",
+        "Dialogue": "I'm not going to warn you again. Get out, or I'll call the guards!",
         "Event": "the Player trespassing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"You're trespassing here. You'd better clear out.\"",
+        "Dialogue": "You're trespassing here. You'd better clear out.",
         "Event": "the Player trespassing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Can't a man have a bit of privacy? Get out of here!\"",
+        "Dialogue": "Can't a man have a bit of privacy? Get out of here!",
         "Event": "the Player trespassing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Can't a woman get a moment to herself? Leave me!\"",
+        "Dialogue": "Can't a woman get a moment to herself? Leave me!",
         "Event": "the Player trespassing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Guards! Trespasser!\"",
+        "Dialogue": "Guards! Trespasser!",
         "Event": "the Player trespassing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"This is the last time I'll say it. Get out.\"",
+        "Dialogue": "This is the last time I'll say it. Get out.",
         "Event": "the Player trespassing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"It's time for you to leave, my friend.\"",
+        "Dialogue": "It's time for you to leave, my friend.",
         "Event": "the Player trespassing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"You, of all people. Get out!\"",
+        "Dialogue": "You, of all people. Get out!",
         "Event": "the Player trespassing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"You're not supposed to be here...\"",
+        "Dialogue": "You're not supposed to be here...",
         "Event": "the Player trespassing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"What do you think you're doing?\"",
+        "Dialogue": "What do you think you're doing?",
         "Event": "the Player knocking an object"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Watch what you're doing.\"",
+        "Dialogue": "Watch what you're doing.",
         "Event": "the Player knocking an object"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"You could have just asked.\"",
+        "Dialogue": "You could have just asked.",
         "Event": "an NPC witnessing the Player taking an owned object"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"I saw you do that, you know.\"",
+        "Dialogue": "I saw you do that, you know.",
         "Event": "an NPC witnessing the Player taking an owned object"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Don't do that.\"",
+        "Dialogue": "Don't do that.",
         "Event": "an NPC watching the Player grabbing an object"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"What are you doing that for?\"",
+        "Dialogue": "What are you doing that for?",
         "Event": "an NPC watching the Player grabbing an object"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Put that down.\"",
+        "Dialogue": "Put that down.",
         "Event": "an NPC watching the Player grabbing an object"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Careful with that.\"",
+        "Dialogue": "Careful with that.",
         "Event": "an NPC watching the Player grabbing an object"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Be careful!\"",
+        "Dialogue": "Be careful!",
         "Event": "an NPC seeing the Player swing a weapon"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Hey, watch it!\"",
+        "Dialogue": "Hey, watch it!",
         "Event": "an NPC seeing the Player swing a weapon"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"You mind swinging that somewhere else?\"",
+        "Dialogue": "You mind swinging that somewhere else?",
         "Event": "an NPC seeing the Player swing a weapon"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Don't even think about it.\"",
+        "Dialogue": "Don't even think about it.",
         "Event": "an NPC catching the Player sneaking"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Get away from me.\"",
+        "Dialogue": "Get away from me.",
         "Event": "an NPC catching the Player sneaking"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Keep your hands to yourself.\"",
+        "Dialogue": "Keep your hands to yourself.",
         "Event": "an NPC catching the Player sneaking"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"You remind me of the Shadowscales, from the old histories.\"",
+        "Dialogue": "You remind me of the Shadowscales, from the old histories.",
         "Event": "an NPC catching the Player sneaking"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"It will keep it's hands to itself, yes?\"",
+        "Dialogue": "It will keep it's hands to itself, yes?",
         "Event": "an NPC catching the Player sneaking"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Umm... are you in trouble? Is that why you're hiding like that?\"",
+        "Dialogue": "Umm... are you in trouble? Is that why you're hiding like that?",
         "Event": "an NPC catching the Player sneaking"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"I hope you're not planning on picking my pocket.\"",
+        "Dialogue": "I hope you're not planning on picking my pocket.",
         "Event": "an NPC catching the Player sneaking"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"What? Why are you skulking about like that?\"",
+        "Dialogue": "What? Why are you skulking about like that?",
         "Event": "an NPC catching the Player sneaking"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Look at you, up to no good.\"",
+        "Dialogue": "Look at you, up to no good.",
         "Event": "an NPC catching the Player sneaking"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Are you playing hide and seek?\"",
+        "Dialogue": "Are you playing hide and seek?",
         "Event": "an NPC catching the Player sneaking"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"I trust you aren't considering any... thievery.\"",
+        "Dialogue": "I trust you aren't considering any... thievery.",
         "Event": "an NPC catching the Player sneaking"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"You're not a thief trying to rob me, right?\"",
+        "Dialogue": "You're not a thief trying to rob me, right?",
         "Event": "an NPC catching the Player sneaking"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"You trying to hide? 'Cause I can see you plain as day.\"",
+        "Dialogue": "You trying to hide? 'Cause I can see you plain as day.",
         "Event": "an NPC catching the Player sneaking"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"You're a bad sneak. You're not creeping up on anybody like that.\"",
+        "Dialogue": "You're a bad sneak. You're not creeping up on anybody like that.",
         "Event": "an NPC catching the Player sneaking"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"You, my friend, need practice...\"",
+        "Dialogue": "You, my friend, need practice...",
         "Event": "an NPC catching the Player sneaking"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Hands off.\"",
+        "Dialogue": "Hands off.",
         "Event": "an NPC seeing the Player being near a locked object"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Stay away from that.\"",
+        "Dialogue": "Stay away from that.",
         "Event": "an NPC seeing the Player being near a locked object"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"It's locked for a reason.\"",
+        "Dialogue": "It's locked for a reason.",
         "Event": "an NPC seeing the Player being near a locked object"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Leave that dog alone!\"",
+        "Dialogue": "Leave that dog alone!",
         "Event": "an  NPC seeing the Player attacking a dog"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Hey, that's a valuable animal!\"",
+        "Dialogue": "Hey, that's a valuable animal!",
         "Event": "an  NPC seeing the Player attacking a horse, chicken or cow"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Think you can steal from me?\"",
+        "Dialogue": "Think you can steal from me?",
         "Event": "an  NPC catching the Player pickpocketing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Oh no you don't!\"",
+        "Dialogue": "Oh no you don't!",
         "Event": "an  NPC catching the Player pickpocketing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"You little thief!\"",
+        "Dialogue": "You little thief!",
         "Event": "an  NPC catching the Player pickpocketing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Why you...\"",
+        "Dialogue": "Why you...",
         "Event": "an  NPC catching the Player pickpocketing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"You're not getting anything from me!\"",
+        "Dialogue": "You're not getting anything from me!",
         "Event": "an  NPC catching the Player pickpocketing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Nice try, fat-fingers!\"",
+        "Dialogue": "Nice try, fat-fingers!",
         "Event": "an  NPC catching the Player pickpocketing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"You dare try and steal from me?\"",
+        "Dialogue": "You dare try and steal from me?",
         "Event": "an  NPC catching the Player pickpocketing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Get back, thief!\"",
+        "Dialogue": "Get back, thief!",
         "Event": "an  NPC catching the Player pickpocketing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Filthy pickpocket!\"",
+        "Dialogue": "Filthy pickpocket!",
         "Event": "an  NPC catching the Player pickpocketing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Pickpocket! We've got a pickpocket!\"",
+        "Dialogue": "Pickpocket! We've got a pickpocket!",
         "Event": "an  NPC catching the Player pickpocketing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"You little wretch, I saw that!\"",
+        "Dialogue": "You little wretch, I saw that!",
         "Event": "an  NPC catching the Player pickpocketing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Hey! Hands off!\"",
+        "Dialogue": "Hey! Hands off!",
         "Event": "an  NPC catching the Player stealing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Hey, that isn't yours!\"",
+        "Dialogue": "Hey, that isn't yours!",
         "Event": "an  NPC catching the Player stealing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"I saw you steal that!\"",
+        "Dialogue": "I saw you steal that!",
         "Event": "an  NPC catching the Player stealing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"How dare you!\"",
+        "Dialogue": "How dare you!",
         "Event": "an  NPC catching the Player stealing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Why you little filcher...\"",
+        "Dialogue": "Why you little filcher...",
         "Event": "an  NPC catching the Player stealing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Get your thieving hands off that!\"",
+        "Dialogue": "Get your thieving hands off that!",
         "Event": "an  NPC catching the Player stealing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"You won't get away with that!\"",
+        "Dialogue": "You won't get away with that!",
         "Event": "an  NPC catching the Player stealing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"You can't take that!\"",
+        "Dialogue": "You can't take that!",
         "Event": "an  NPC catching the Player stealing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Stop, thief!\"",
+        "Dialogue": "Stop, thief!",
         "Event": "an  NPC catching the Player stealing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"You dirty thief!\"",
+        "Dialogue": "You dirty thief!",
         "Event": "an  NPC catching the Player stealing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Put that down, you mangy cat!\"",
+        "Dialogue": "Put that down, you mangy cat!",
         "Event": "an  NPC catching the Player stealing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"By Ysmir, a thief!\"",
+        "Dialogue": "By Ysmir, a thief!",
         "Event": "an  NPC catching the Player stealing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"You thieving little elf!\"",
+        "Dialogue": "You thieving little elf!",
         "Event": "an  NPC catching the Player stealing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"You dirty, filching lizard!\"",
+        "Dialogue": "You dirty, filching lizard!",
         "Event": "an  NPC catching the Player stealing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"What are you doing, s'wit?\"",
+        "Dialogue": "What are you doing, s'wit?",
         "Event": "an  NPC catching the Player stealing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Help yourself, by all means. Who cares if I starve?\"",
+        "Dialogue": "Help yourself, by all means. Who cares if I starve?",
         "Event": "an  NPC catching the Player stealing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Don't worry about it. Keep it.\"",
+        "Dialogue": "Don't worry about it. Keep it.",
         "Event": "an  NPC catching the Player stealing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"I guess you can have that.\"",
+        "Dialogue": "I guess you can have that.",
         "Event": "an  NPC catching the Player stealing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"You must really need that.\"",
+        "Dialogue": "You must really need that.",
         "Event": "an  NPC catching the Player stealing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"I'll look the other way this time.\"",
+        "Dialogue": "I'll look the other way this time.",
         "Event": "an  NPC catching the Player stealing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"I didn't really want that anyway.\"",
+        "Dialogue": "I didn't really want that anyway.",
         "Event": "an  NPC catching the Player stealing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"I suppose that's yours now.\"",
+        "Dialogue": "I suppose that's yours now.",
         "Event": "an  NPC catching the Player stealing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Oh, what a clever thief you are.\"",
+        "Dialogue": "Oh, what a clever thief you are.",
         "Event": "an  NPC catching the Player stealing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"You could have asked before just taking it.\"",
+        "Dialogue": "You could have asked before just taking it.",
         "Event": "an  NPC catching the Player stealing"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Help! Murder!\"",
+        "Dialogue": "Help! Murder!",
         "Event": "an NPC witnessing a murder"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"What the...?!\"",
+        "Dialogue": "What the...?!",
         "Event": "an NPC witnessing a murder"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Someone do something!\"",
+        "Dialogue": "Someone do something!",
         "Event": "an NPC witnessing a murder"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Help, someone!\"",
+        "Dialogue": "Help, someone!",
         "Event": "an NPC witnessing a murder"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Murdered! In cold blood!\"",
+        "Dialogue": "Murdered! In cold blood!",
         "Event": "an NPC witnessing a murder"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Ysmir's beard!\"",
+        "Dialogue": "Ysmir's beard!",
         "Event": "an NPC witnessing a murder"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"By the gods, no!\"",
+        "Dialogue": "By the gods, no!",
         "Event": "an NPC witnessing a murder"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"By the gods, did that really just happen?!\"",
+        "Dialogue": "By the gods, did that really just happen?!",
         "Event": "an NPC witnessing a murder"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Murder! Murder!\"",
+        "Dialogue": "Murder! Murder!",
         "Event": "an NPC witnessing a murder"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Help! Somebody, help!\"",
+        "Dialogue": "Help! Somebody, help!",
         "Event": "an NPC witnessing a murder"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Guess they deserved it...\"",
+        "Dialogue": "Guess they deserved it...",
         "Event": "an NPC witnessing a murder"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"What's done is done.\"",
+        "Dialogue": "What's done is done.",
         "Event": "an NPC witnessing a murder"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Well... that was an unpleasant bit of business.\"",
+        "Dialogue": "Well... that was an unpleasant bit of business.",
         "Event": "an NPC witnessing a murder"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"I didn't know you were so cold-blooded...\"",
+        "Dialogue": "I didn't know you were so cold-blooded...",
         "Event": "an NPC witnessing a murder"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Remind me not to make you angry.\"",
+        "Dialogue": "Remind me not to make you angry.",
         "Event": "an NPC witnessing a murder"
     }
 ]

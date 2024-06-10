@@ -1,289 +1,289 @@
 [
     {
         "Speaker": "Any",
-        "Dialogue": "\"Hmm?\"",
+        "Dialogue": "Hmm?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Need something?\"",
+        "Dialogue": "Need something?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Yes?\"",
+        "Dialogue": "Yes?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleArgonian",
-        "Dialogue": "\"Ours is to smile at your passing, friend.\"",
+        "Dialogue": "Ours is to smile at your passing, friend.",
         "Tone": "Friendly",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleArgonian",
-        "Dialogue": "\"It fills us with rage. What harm does it bring to us now?\"",
+        "Dialogue": "It fills us with rage. What harm does it bring to us now?",
         "Tone": "Hostile",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleArgonian",
-        "Dialogue": "\"You have questions?\"",
+        "Dialogue": "You have questions?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleArgonian",
-        "Dialogue": "\"You have questions?\"",
+        "Dialogue": "You have questions?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleArgonian",
-        "Dialogue": "\"Tidings.\"",
+        "Dialogue": "Tidings.",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleArgonian",
-        "Dialogue": "\"Tidings.\"",
+        "Dialogue": "Tidings.",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleArgonian",
-        "Dialogue": "\"It is our most favored company.\"",
+        "Dialogue": "It is our most favored company.",
         "Tone": "Friendly",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleArgonian",
-        "Dialogue": "\"It annoys us. What does it want to take from us now?\"",
+        "Dialogue": "It annoys us. What does it want to take from us now?",
         "Tone": "Hostile",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleBrute",
-        "Dialogue": "\"You've been a good friend to me. That means something.\"",
+        "Dialogue": "You've been a good friend to me. That means something.",
         "Tone": "Friendly",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleBrute",
-        "Dialogue": "\"Yeah?\"",
+        "Dialogue": "Yeah?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleBrute",
-        "Dialogue": "\"Huh?\"",
+        "Dialogue": "Huh?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleBrute",
-        "Dialogue": "\"I should bash your face in after all you've done.\"",
+        "Dialogue": "I should bash your face in after all you've done.",
         "Tone": "Hostile",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleChild",
-        "Dialogue": "\"You're the best! Can you be my father/mother?\"",
+        "Dialogue": "You're the best! Can you be my father/mother?",
         "Tone": "Friendly",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleChild",
-        "Dialogue": "\"You're mean. I hate you. I hate you forever and ever and ever.\"",
+        "Dialogue": "You're mean. I hate you. I hate you forever and ever and ever.",
         "Tone": "Hostile",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleChild",
-        "Dialogue": "\"Hi there.\"",
+        "Dialogue": "Hi there.",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleChild",
-        "Dialogue": "\"Hi there.\"",
+        "Dialogue": "Hi there.",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleChild",
-        "Dialogue": "\"I bet you could slay one of those mean old dragons. I bet you could do anything.\"",
+        "Dialogue": "I bet you could slay one of those mean old dragons. I bet you could do anything.",
         "Tone": "Friendly",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleChild",
-        "Dialogue": "\"I hope monsters come and eat you.\"",
+        "Dialogue": "I hope monsters come and eat you.",
         "Tone": "Hostile",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleCommander",
-        "Dialogue": "\"Good to have you by my side, friend. I need reliable people around.\"",
+        "Dialogue": "Good to have you by my side, friend. I need reliable people around.",
         "Tone": "Friendly",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleNordCommander",
-        "Dialogue": "\"Good to have you by my side, friend. I need reliable people around.\"",
+        "Dialogue": "Good to have you by my side, friend. I need reliable people around.",
         "Tone": "Friendly",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleCommander",
-        "Dialogue": "\"I don't like talking to someone who holds their honor so cheaply.\"",
+        "Dialogue": "I don't like talking to someone who holds their honor so cheaply.",
         "Tone": "Hostile",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleNordCommander",
-        "Dialogue": "\"I don't like talking to someone who holds their honor so cheaply.\"",
+        "Dialogue": "I don't like talking to someone who holds their honor so cheaply.",
         "Tone": "Hostile",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleCommander",
-        "Dialogue": "\"I'm waiting.\"",
+        "Dialogue": "I'm waiting.",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleNordCommander",
-        "Dialogue": "\"I'm waiting.\"",
+        "Dialogue": "I'm waiting.",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleCommander",
-        "Dialogue": "\"I'm waiting.\"",
+        "Dialogue": "I'm waiting.",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleCommander",
-        "Dialogue": "\"Out with it.\"",
+        "Dialogue": "Out with it.",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleNordCommander",
-        "Dialogue": "\"Out with it.\"",
+        "Dialogue": "Out with it.",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleCommander",
-        "Dialogue": "\"Out with it.\"",
+        "Dialogue": "Out with it.",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleCommander",
-        "Dialogue": "\"You're someone who can get things done. I like that.\"",
+        "Dialogue": "You're someone who can get things done. I like that.",
         "Tone": "Friendly",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleCommander",
-        "Dialogue": "\"You have something to say, dog? Something on your mind?\"",
+        "Dialogue": "You have something to say, dog? Something on your mind?",
         "Tone": "Hostile",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleCommoner",
-        "Dialogue": "\"Good to see you again, friend.\"",
+        "Dialogue": "Good to see you again, friend.",
         "Tone": "Friendly",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleCommonerAccented",
-        "Dialogue": "\"Good to see you again, friend.\"",
+        "Dialogue": "Good to see you again, friend.",
         "Tone": "Friendly",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleCommoner",
-        "Dialogue": "\"What do you want? You've caused enough trouble.\"",
+        "Dialogue": "What do you want? You've caused enough trouble.",
         "Tone": "Hostile",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleCommonerAccented",
-        "Dialogue": "\"What do you want? You've caused enough trouble.\"",
+        "Dialogue": "What do you want? You've caused enough trouble.",
         "Tone": "Hostile",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleCommoner",
-        "Dialogue": "\"Good morning/afternoon/evening.\"",
+        "Dialogue": "Good morning/afternoon/evening.",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleCommonerAccented",
-        "Dialogue": "\"Good morning/afternoon/evening.\"",
+        "Dialogue": "Good morning/afternoon/evening.",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleCommoner",
-        "Dialogue": "\"Good morning/afternoon/evening.\"",
+        "Dialogue": "Good morning/afternoon/evening.",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleCommoner",
-        "Dialogue": "\"Now here's a man/woman I'm glad to see.\"",
+        "Dialogue": "Now here's a man/woman I'm glad to see.",
         "Tone": "Friendly",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleCommoner",
-        "Dialogue": "\"You. What do you want?\"",
+        "Dialogue": "You. What do you want?",
         "Tone": "Hostile",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleCondescending",
-        "Dialogue": "\"Good to see you. Finally someone useful is around.\"",
+        "Dialogue": "Good to see you. Finally someone useful is around.",
         "Tone": "Friendly",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleCondescending",
-        "Dialogue": "\"Something you need, you miserable wretch?\"",
+        "Dialogue": "Something you need, you miserable wretch?",
         "Tone": "Hostile",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleCondescending",
-        "Dialogue": "\"Yes, yes. I haven't got all day...\"",
+        "Dialogue": "Yes, yes. I haven't got all day...",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleCondescending",
-        "Dialogue": "\"Yes, yes. I haven't got all day...\"",
+        "Dialogue": "Yes, yes. I haven't got all day...",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleCondescending",
-        "Dialogue": "\"Speak.\"",
+        "Dialogue": "Speak.",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleCondescending",
-        "Dialogue": "\"Speak.\"",
+        "Dialogue": "Speak.",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
@@ -301,343 +301,343 @@
     },
     {
         "Speaker": "FemaleCondescending",
-        "Dialogue": "\"Friends like you are hard to find and very valuable to me.\"",
+        "Dialogue": "Friends like you are hard to find and very valuable to me.",
         "Tone": "Friendly",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleCondescending",
-        "Dialogue": "\"Now why would I want to talk to you?\"",
+        "Dialogue": "Now why would I want to talk to you?",
         "Tone": "Hostile",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleCoward",
-        "Dialogue": "\"It's so good to see you again.\"",
+        "Dialogue": "It's so good to see you again.",
         "Tone": "Friendly",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleCoward",
-        "Dialogue": "\"You! You're going to hurt me again aren't you? Just stay away.\"",
+        "Dialogue": "You! You're going to hurt me again aren't you? Just stay away.",
         "Tone": "Hostile",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleCoward",
-        "Dialogue": "\"Y...Yes?\"",
+        "Dialogue": "Y...Yes?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleCoward",
-        "Dialogue": "\"Y...Yes?\"",
+        "Dialogue": "Y...Yes?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleCoward",
-        "Dialogue": "\"You want something from me?\"",
+        "Dialogue": "You want something from me?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleCoward",
-        "Dialogue": "\"You want something from me?\"",
+        "Dialogue": "You want something from me?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleCoward",
-        "Dialogue": "\"Divines bless you. May the ground you walk quake as you pass.\"",
+        "Dialogue": "Divines bless you. May the ground you walk quake as you pass.",
         "Tone": "Friendly",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleCoward",
-        "Dialogue": "\"I don't mean you any trouble. Just leave me alone.\"",
+        "Dialogue": "I don't mean you any trouble. Just leave me alone.",
         "Tone": "Hostile",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleDarkElf",
-        "Dialogue": "\"Azura's wisdom to you, friend.\"",
+        "Dialogue": "Azura's wisdom to you, friend.",
         "Tone": "Friendly",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleDarkElf",
-        "Dialogue": "\"Filth. Run to the horizon before I hunt you down.\"",
+        "Dialogue": "Filth. Run to the horizon before I hunt you down.",
         "Tone": "Hostile",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleDarkElf",
-        "Dialogue": "\"Yes, sera?\"",
+        "Dialogue": "Yes, sera?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleDarkElf",
-        "Dialogue": "\"Yes, sera?\"",
+        "Dialogue": "Yes, sera?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleDarkElf",
-        "Dialogue": "\"And what might you need? Hmm?\"",
+        "Dialogue": "And what might you need? Hmm?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleDarkElf",
-        "Dialogue": "\"And what might you need? Hmm?\"",
+        "Dialogue": "And what might you need? Hmm?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleDarkElf",
-        "Dialogue": "\"We're one of the same kind, you and I. I'm glad to have met you.\"",
+        "Dialogue": "We're one of the same kind, you and I. I'm glad to have met you.",
         "Tone": "Friendly",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleDarkElf",
-        "Dialogue": "\"There are so many delightful ways I've pictured you dead.\"",
+        "Dialogue": "There are so many delightful ways I've pictured you dead.",
         "Tone": "Hostile",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleDrunk",
-        "Dialogue": "\"My favorite drinking buddy. Let's get some mead.\"",
+        "Dialogue": "My favorite drinking buddy. Let's get some mead.",
         "Tone": "Friendly",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleDrunk",
-        "Dialogue": "\"What do you want?\"",
+        "Dialogue": "What do you want?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleDrunk",
-        "Dialogue": "\"I don't owe you money, do I?\"",
+        "Dialogue": "I don't owe you money, do I?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleDrunk",
-        "Dialogue": "\"What are you starin' at?\"",
+        "Dialogue": "What are you starin' at?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleDrunk",
-        "Dialogue": "\"Gods strike you down.\"",
+        "Dialogue": "Gods strike you down.",
         "Tone": "Hostile",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleElfHaughty",
-        "Dialogue": "\"So nice to have pleasant company for a change.\"",
+        "Dialogue": "So nice to have pleasant company for a change.",
         "Tone": "Friendly",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleElfHaughty",
-        "Dialogue": "\"Oh, it's you. I was wondering why I was smelling something unpleasant.\"",
+        "Dialogue": "Oh, it's you. I was wondering why I was smelling something unpleasant.",
         "Tone": "Hostile",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleElfHaughty",
-        "Dialogue": "\"Make it quick.\"",
+        "Dialogue": "Make it quick.",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleElfHaughty",
-        "Dialogue": "\"Make it quick.\"",
+        "Dialogue": "Make it quick.",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleElfHaughty",
-        "Dialogue": "\"You want something from me?\"",
+        "Dialogue": "You want something from me?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleElfHaughty",
-        "Dialogue": "\"You want something from me?\"",
+        "Dialogue": "You want something from me?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleElfHaughty",
-        "Dialogue": "\"Speak quickly.\"",
+        "Dialogue": "Speak quickly.",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleElfHaughty",
-        "Dialogue": "\"Speak quickly.\"",
+        "Dialogue": "Speak quickly.",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleElfHaughty",
-        "Dialogue": "\"There are so few pleasures in life as fine as your company.\"",
+        "Dialogue": "There are so few pleasures in life as fine as your company.",
         "Tone": "Friendly",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleElfHaughty",
-        "Dialogue": "\"Absolutely no time to deal with lowlifes these days. Go away.\"",
+        "Dialogue": "Absolutely no time to deal with lowlifes these days. Go away.",
         "Tone": "Hostile",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleEvenToned",
-        "Dialogue": "\"Divines smile on you, friend.\"",
+        "Dialogue": "Divines smile on you, friend.",
         "Tone": "Friendly",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleEvenTonedAccented",
-        "Dialogue": "\"Divines smile on you, friend.\"",
+        "Dialogue": "Divines smile on you, friend.",
         "Tone": "Friendly",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleEvenToned",
-        "Dialogue": "\"You want to talk to me? After everything you've done?\"",
+        "Dialogue": "You want to talk to me? After everything you've done?",
         "Tone": "Hostile",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleEvenTonedAccented",
-        "Dialogue": "\"You want to talk to me? After everything you've done?\"",
+        "Dialogue": "You want to talk to me? After everything you've done?",
         "Tone": "Hostile",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleEvenToned",
-        "Dialogue": "\"What do you need?\"",
+        "Dialogue": "What do you need?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleEvenTonedAccented",
-        "Dialogue": "\"What do you need?\"",
+        "Dialogue": "What do you need?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleEvenToned",
-        "Dialogue": "\"What do you need?\"",
+        "Dialogue": "What do you need?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleEvenToned",
-        "Dialogue": "\"Good morning/afternoon/evening.\"",
+        "Dialogue": "Good morning/afternoon/evening.",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleEvenTonedAccented",
-        "Dialogue": "\"Good morning/afternoon/evening.\"",
+        "Dialogue": "Good morning/afternoon/evening.",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleEvenToned",
-        "Dialogue": "\"Good morning/afternoon/evening.\"",
+        "Dialogue": "Good morning/afternoon/evening.",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleEvenToned",
-        "Dialogue": "\"What do you need, my friend?\"",
+        "Dialogue": "What do you need, my friend?",
         "Tone": "Friendly",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleEvenToned",
-        "Dialogue": "\"I hope the wilds claim you, one of these days.\"",
+        "Dialogue": "I hope the wilds claim you, one of these days.",
         "Tone": "Hostile",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleKhajiit",
-        "Dialogue": "\"These sands are cold, but Khajiit feels warmness from your presence.\"",
+        "Dialogue": "These sands are cold, but Khajiit feels warmness from your presence.",
         "Tone": "Friendly",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleKhajiit",
-        "Dialogue": "\"Khajiit wishes for you to go away. You have done us too much harm.\"",
+        "Dialogue": "Khajiit wishes for you to go away. You have done us too much harm.",
         "Tone": "Hostile",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleKhajiit",
-        "Dialogue": "\"How can I assist, hmm?\"",
+        "Dialogue": "How can I assist, hmm?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleKhajiit",
-        "Dialogue": "\"How can I assist, hmm?\"",
+        "Dialogue": "How can I assist, hmm?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleKhajiit",
-        "Dialogue": "\"This one needs something?\"",
+        "Dialogue": "This one needs something?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleKhajiit",
-        "Dialogue": "\"This one needs something?\"",
+        "Dialogue": "This one needs something?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleKhajiit",
-        "Dialogue": "\"Speak. Khajiit will listen until all the sugars in the world turn sour.\"",
+        "Dialogue": "Speak. Khajiit will listen until all the sugars in the world turn sour.",
         "Tone": "Friendly",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleKhajiit",
-        "Dialogue": "\"Its scent is foul, unclean. Hurtful.\"",
+        "Dialogue": "Its scent is foul, unclean. Hurtful.",
         "Tone": "Hostile",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleNord",
-        "Dialogue": "\"May the gods watch over your battles, friend.\"",
+        "Dialogue": "May the gods watch over your battles, friend.",
         "Tone": "Friendly",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleNord",
-        "Dialogue": "\"What do you want, milk drinker?\"",
+        "Dialogue": "What do you want, milk drinker?",
         "Tone": "Hostile",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleNord",
-        "Dialogue": "\"Hmph.\"",
+        "Dialogue": "Hmph.",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleNord",
-        "Dialogue": "\"Hmph.\"",
+        "Dialogue": "Hmph.",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
@@ -655,307 +655,307 @@
     },
     {
         "Speaker": "MaleNord",
-        "Dialogue": "\"Yeah?\"",
+        "Dialogue": "Yeah?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleNord",
-        "Dialogue": "\"Yeah?\"",
+        "Dialogue": "Yeah?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleNord",
-        "Dialogue": "\"A fine day to you, friend. May you die with a sword in your hands.\"",
+        "Dialogue": "A fine day to you, friend. May you die with a sword in your hands.",
         "Tone": "Friendly",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleNord",
-        "Dialogue": "\"The gods know what you've done.\"",
+        "Dialogue": "The gods know what you've done.",
         "Tone": "Hostile",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleOldGrumpy",
-        "Dialogue": "\"You're not as dumb as you look.\"",
+        "Dialogue": "You're not as dumb as you look.",
         "Tone": "Friendly",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleOldGrumpy",
-        "Dialogue": "\"Leave me alone. Can't an old man have some peace?\"",
+        "Dialogue": "Leave me alone. Can't an old man have some peace?",
         "Tone": "Hostile",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleOldGrumpy",
-        "Dialogue": "\"Come, come. I haven't got all day.\"",
+        "Dialogue": "Come, come. I haven't got all day.",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleOldGrumpy",
-        "Dialogue": "\"Come, come. I haven't got all day.\"",
+        "Dialogue": "Come, come. I haven't got all day.",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleOldGrumpy",
-        "Dialogue": "\"Make it quick.\"",
+        "Dialogue": "Make it quick.",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleOldGrumpy",
-        "Dialogue": "\"Make it quick.\"",
+        "Dialogue": "Make it quick.",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleOldGrumpy",
-        "Dialogue": "\"Let's hear it.\"",
+        "Dialogue": "Let's hear it.",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleOldGrumpy",
-        "Dialogue": "\"Let's hear it.\"",
+        "Dialogue": "Let's hear it.",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleOldGrumpy",
-        "Dialogue": "\"Well, look at you. If only everyone acted like you did.\"",
+        "Dialogue": "Well, look at you. If only everyone acted like you did.",
         "Tone": "Friendly",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleOldGrumpy",
-        "Dialogue": "\"Here to shame an old woman? Leave me be.\"",
+        "Dialogue": "Here to shame an old woman? Leave me be.",
         "Tone": "Hostile",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleOldKindly",
-        "Dialogue": "\"Good to see Skyrim still has such fine people. You give an old man hope.\"",
+        "Dialogue": "Good to see Skyrim still has such fine people. You give an old man hope.",
         "Tone": "Friendly",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleOldKindly",
-        "Dialogue": "\"Just looking at you makes me upset.\"",
+        "Dialogue": "Just looking at you makes me upset.",
         "Tone": "Hostile",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleOldKindly",
-        "Dialogue": "\"Well hello.\"",
+        "Dialogue": "Well hello.",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleOldKindly",
-        "Dialogue": "\"Well hello.\"",
+        "Dialogue": "Well hello.",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleOldKindly",
-        "Dialogue": "\"I hope your parents are proud of you. They have a lot of reason to be.\"",
+        "Dialogue": "I hope your parents are proud of you. They have a lot of reason to be.",
         "Tone": "Friendly",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleOldKindly",
-        "Dialogue": "\"You're just rotten. No good.\"",
+        "Dialogue": "You're just rotten. No good.",
         "Tone": "Hostile",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleOrc",
-        "Dialogue": "\"May your next fight bring you victory, friend.\"",
+        "Dialogue": "May your next fight bring you victory, friend.",
         "Tone": "Friendly",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleOrc",
-        "Dialogue": "\"What do you want?\"",
+        "Dialogue": "What do you want?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleOrc",
-        "Dialogue": "\"What're you lookin' at?\"",
+        "Dialogue": "What're you lookin' at?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleOrc",
-        "Dialogue": "\"What do you want? Aren't your hands coated with enough blood?\"",
+        "Dialogue": "What do you want? Aren't your hands coated with enough blood?",
         "Tone": "Hostile",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleOrc",
-        "Dialogue": "\"What now...\"",
+        "Dialogue": "What now...",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleOrc",
-        "Dialogue": "\"What now...\"",
+        "Dialogue": "What now...",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleOrc",
-        "Dialogue": "\"This better be good...\"",
+        "Dialogue": "This better be good...",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleOrc",
-        "Dialogue": "\"This better be good...\"",
+        "Dialogue": "This better be good...",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleOrc",
-        "Dialogue": "\"May your weapons be sharp and your prey fresh.\"",
+        "Dialogue": "May your weapons be sharp and your prey fresh.",
         "Tone": "Friendly",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleOrc",
-        "Dialogue": "\"For your crimes, may Malacath boil your blood and grind your bones.\"",
+        "Dialogue": "For your crimes, may Malacath boil your blood and grind your bones.",
         "Tone": "Hostile",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleShrill",
-        "Dialogue": "\"Good to see you. At least you know how to treat someone properly.\"",
+        "Dialogue": "Good to see you. At least you know how to treat someone properly.",
         "Tone": "Friendly",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleShrill",
-        "Dialogue": "\"Yeah? What?\"",
+        "Dialogue": "Yeah? What?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleShrill",
-        "Dialogue": "\"Worthless. Everyone like you is completely worthless.\"",
+        "Dialogue": "Worthless. Everyone like you is completely worthless.",
         "Tone": "Hostile",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleSlyCynical",
-        "Dialogue": "\"You and me, we're the only people around who aren't complete fools.\"",
+        "Dialogue": "You and me, we're the only people around who aren't complete fools.",
         "Tone": "Friendly",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleSlyCynical",
-        "Dialogue": "\"Got somethin' to say?\"",
+        "Dialogue": "Got somethin' to say?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleSlyCynical",
-        "Dialogue": "\"I'm all ears.\"",
+        "Dialogue": "I'm all ears.",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleSlyCynical",
-        "Dialogue": "\"I've had just about all I'm willing to take from you. What is it?\"",
+        "Dialogue": "I've had just about all I'm willing to take from you. What is it?",
         "Tone": "Hostile",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleSultry",
-        "Dialogue": "\"It's so good to see you again.\"",
+        "Dialogue": "It's so good to see you again.",
         "Tone": "Friendly",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleSultry",
-        "Dialogue": "\"What do you need, handsome?\"",
+        "Dialogue": "What do you need, handsome?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleSultry",
-        "Dialogue": "\"Is there... something I can do for you?\"",
+        "Dialogue": "Is there... something I can do for you?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleSultry",
-        "Dialogue": "\"Hi there.\"",
+        "Dialogue": "Hi there.",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleSultry",
-        "Dialogue": "\"What can I do for you?\"",
+        "Dialogue": "What can I do for you?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleSultry",
-        "Dialogue": "\"Every time I think of you, I imagine a Saber Cat closing its claws around your face.\"",
+        "Dialogue": "Every time I think of you, I imagine a Saber Cat closing its claws around your face.",
         "Tone": "Hostile",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleYoungEager",
-        "Dialogue": "\"Good day, friend! Keeping well?\"",
+        "Dialogue": "Good day, friend! Keeping well?",
         "Tone": "Friendly",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleYoungEager",
-        "Dialogue": "\"You're nothing but trouble.\"",
+        "Dialogue": "You're nothing but trouble.",
         "Tone": "Hostile",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleYoungEager",
-        "Dialogue": "\"What can I do for you?\"",
+        "Dialogue": "What can I do for you?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleYoungEager",
-        "Dialogue": "\"What can I do for you?\"",
+        "Dialogue": "What can I do for you?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "MaleYoungEager",
-        "Dialogue": "\"Oh, did you need something?\"",
+        "Dialogue": "Oh, did you need something?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleYoungEager",
-        "Dialogue": "\"Oh, did you need something?\"",
+        "Dialogue": "Oh, did you need something?",
         "Tone": "Neutral",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleYoungEager",
-        "Dialogue": "\"It's a fine day with you around.\"",
+        "Dialogue": "It's a fine day with you around.",
         "Tone": "Friendly",
         "Event": "Greeting"
     },
     {
         "Speaker": "FemaleYoungEager",
-        "Dialogue": "\"You. Every time I look at you my blood boils.\"",
+        "Dialogue": "You. Every time I look at you my blood boils.",
         "Tone": "Hostile",
         "Event": "Greeting"
     }

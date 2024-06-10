@@ -1,407 +1,407 @@
 [
     {
         "Speaker": "Any",
-        "Dialogue": "\"You lost?\"",
+        "Dialogue": "You lost?",
         "Event": "the Player entering an NPC's dwelling"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"Can I help you?\"",
+        "Dialogue": "Can I help you?",
         "Event": "the Player entering an NPC's dwelling"
     },
     {
         "Speaker": "Any",
-        "Dialogue": "\"I trust you're not planning any trouble. What can I do for you, friend?",
+        "Dialogue": "I trust you're not planning any trouble. What can I do for you, friend?",
         "Event": "the Player entering an NPC's dwelling"
     },
     {
         "Speaker": "Merchant",
-        "Dialogue": "Let me know if you see anything you like.\"",
+        "Dialogue": "Let me know if you see anything you like.",
         "Event": "the Player entering the shop"
     },
     {
         "Speaker": "Merchant",
-        "Dialogue": "\"Got something for just about everybody in here. Give a holler if you have any questions.\"",
+        "Dialogue": "Got something for just about everybody in here. Give a holler if you have any questions.",
         "Event": "the Player entering the shop"
     },
     {
         "Speaker": "Merchant",
-        "Dialogue": "\"Take a good look around. I'm sure you'll find what you're looking for. If not, let me know, I might have it stored away.\"",
+        "Dialogue": "Take a good look around. I'm sure you'll find what you're looking for. If not, let me know, I might have it stored away.",
         "Event": "the Player entering the shop"
     },
     {
         "Speaker": "FemaleArgonian",
-        "Dialogue": "\"Why the drawn weapon? Is it contemplating violence?\"",
+        "Dialogue": "Why the drawn weapon? Is it contemplating violence?",
         "Event": "the Player being armed when entering building"
     },
     {
         "Speaker": "MaleArgonian",
-        "Dialogue": "\"What's this? Is it spoiling for a fight? If not, it should hide its weapon away.\"",
+        "Dialogue": "What's this? Is it spoiling for a fight? If not, it should hide its weapon away.",
         "Event": "the Player being armed when entering building"
     },
     {
         "Speaker": "MaleBrute",
-        "Dialogue": "\"You want to fight? That why you have your weapon out?\"",
+        "Dialogue": "You want to fight? That why you have your weapon out?",
         "Event": "the Player being armed when entering building"
     },
     {
         "Speaker": "FemaleChild",
-        "Dialogue": "\"Neat weapon. You're not going to hurt anybody, though. Right?\"",
+        "Dialogue": "Neat weapon. You're not going to hurt anybody, though. Right?",
         "Event": "the Player being armed when entering building"
     },
     {
         "Speaker": "MaleChild",
-        "Dialogue": "\"Wow. Nice weapon! Can I hold it? I promise not to break anything. Honest!\"",
+        "Dialogue": "Wow. Nice weapon! Can I hold it? I promise not to break anything. Honest!",
         "Event": "the Player being armed when entering building"
     },
     {
         "Speaker": "FemaleCommander",
-        "Dialogue": "\"I trust you'll put your weapon away?\"",
+        "Dialogue": "I trust you'll put your weapon away?",
         "Event": "the Player being armed when entering building"
     },
     {
         "Speaker": "MaleCommander",
-        "Dialogue": "\"Put your weapon away.\"",
+        "Dialogue": "Put your weapon away.",
         "Event": "the Player being armed when entering building"
     },
     {
         "Speaker": "FemaleCommoner",
-        "Dialogue": "\"You planning on using that weapon?\"",
+        "Dialogue": "You planning on using that weapon?",
         "Event": "the Player being armed when entering building"
     },
     {
         "Speaker": "MaleCommoner or",
-        "Dialogue": "\"You're not planning on hurting anyone with that weapon there, are you?\"",
+        "Dialogue": "You're not planning on hurting anyone with that weapon there, are you?",
         "Event": "the Player being armed when entering building"
     },
     {
         "Speaker": "MaleCommonerAccented",
-        "Dialogue": "\"You're not planning on hurting anyone with that weapon there, are you?\"",
+        "Dialogue": "You're not planning on hurting anyone with that weapon there, are you?",
         "Event": "the Player being armed when entering building"
     },
     {
         "Speaker": "FemaleCondescending",
-        "Dialogue": "\"Civilized people don't brandish their weapons unless they plan to use them.\"",
+        "Dialogue": "Civilized people don't brandish their weapons unless they plan to use them.",
         "Event": "the Player being armed when entering building"
     },
     {
         "Speaker": "MaleCondescending",
-        "Dialogue": "\"So... carrying that weapon around like that makes you feel safe, does it?\"",
+        "Dialogue": "So... carrying that weapon around like that makes you feel safe, does it?",
         "Event": "the Player being armed when entering building"
     },
     {
         "Speaker": "FemaleCoward",
-        "Dialogue": "\"Umm... you're not planning on using that weapon, are you? At least not on me... right?\"",
+        "Dialogue": "Umm... you're not planning on using that weapon, are you? At least not on me... right?",
         "Event": "the Player being armed when entering building"
     },
     {
         "Speaker": "MaleCoward",
-        "Dialogue": "\"Uh. Hey. That weapon there is just for show. Right? I mean, you aren't going to hurt me or anything... right?\"",
+        "Dialogue": "Uh. Hey. That weapon there is just for show. Right? I mean, you aren't going to hurt me or anything... right?",
         "Event": "the Player being armed when entering building"
     },
     {
         "Speaker": "FemaleDarkElf",
-        "Dialogue": "\"You'd better know how to use that weapon if you plan on swinging it around in here.\"",
+        "Dialogue": "You'd better know how to use that weapon if you plan on swinging it around in here.",
         "Event": "the Player being armed when entering building"
     },
     {
         "Speaker": "MaleDarkElf",
-        "Dialogue": "\"In some parts of the world, wielding a weapon openly like that is an invitation to combat...\"",
+        "Dialogue": "In some parts of the world, wielding a weapon openly like that is an invitation to combat...",
         "Event": "the Player being armed when entering building"
     },
     {
         "Speaker": "MaleDrunk",
-        "Dialogue": "\"Ooh, real tough, wagging your weapon around...\"",
+        "Dialogue": "Ooh, real tough, wagging your weapon around...",
         "Event": "the Player being armed when entering building"
     },
     {
         "Speaker": "FemaleElfHaughty",
-        "Dialogue": "\"Perhaps you'd care to put your weapon away? Hmm?\"",
+        "Dialogue": "Perhaps you'd care to put your weapon away? Hmm?",
         "Event": "the Player being armed when entering building"
     },
     {
         "Speaker": "MaleElfHaughty",
-        "Dialogue": "\"I suggest you put away your weapon. Wouldn't want to cause a... scene.\"",
+        "Dialogue": "I suggest you put away your weapon. Wouldn't want to cause a... scene.",
         "Event": "the Player being armed when entering building"
     },
     {
         "Speaker": "FemaleEvenToned",
-        "Dialogue": "\"There a reason you're walking around with an unsheathed weapon?\"",
+        "Dialogue": "There a reason you're walking around with an unsheathed weapon?",
         "Event": "the Player being armed when entering building"
     },
     {
         "Speaker": "MaleEvenToned or",
-        "Dialogue": "\"You're not planning on using that weapon in here, I hope.\"",
+        "Dialogue": "You're not planning on using that weapon in here, I hope.",
         "Event": "the Player being armed when entering building"
     },
     {
         "Speaker": "MaleEvenTonedAccented",
-        "Dialogue": "\"You're not planning on using that weapon in here, I hope.\"",
+        "Dialogue": "You're not planning on using that weapon in here, I hope.",
         "Event": "the Player being armed when entering building"
     },
     {
         "Speaker": "FemaleKhajiit",
-        "Dialogue": "\"This one wonders why you brandish your weapon so?\"",
+        "Dialogue": "This one wonders why you brandish your weapon so?",
         "Event": "the Player being armed when entering building"
     },
     {
         "Speaker": "MaleKhajiit",
-        "Dialogue": "\"That's mighty bold, strutting about like that, looking for a fight. This one will oblige if he must.\"",
+        "Dialogue": "That's mighty bold, strutting about like that, looking for a fight. This one will oblige if he must.",
         "Event": "the Player being armed when entering building"
     },
     {
         "Speaker": "FemaleNord",
-        "Dialogue": "\"Might want to put it away that weapon... unless you plan on using it.\"",
+        "Dialogue": "Might want to put it away that weapon... unless you plan on using it.",
         "Event": "the Player being armed when entering building"
     },
     {
         "Speaker": "MaleNord",
-        "Dialogue": "\"Oh ho! What's with the weapon? Looks like it's about to get rough in here.\"",
+        "Dialogue": "Oh ho! What's with the weapon? Looks like it's about to get rough in here.",
         "Event": "the Player being armed when entering building"
     },
     {
         "Speaker": "FemaleOldGrumpy",
-        "Dialogue": "\"You got no respect, strutting about with that weapon out, threatening everyone.\"",
+        "Dialogue": "You got no respect, strutting about with that weapon out, threatening everyone.",
         "Event": "the Player being armed when entering building"
     },
     {
         "Speaker": "MaleOldGrumpy",
-        "Dialogue": "\"Damn fool parading around with your weapon out. You planning on hurting someone, huh?\"",
+        "Dialogue": "Damn fool parading around with your weapon out. You planning on hurting someone, huh?",
         "Event": "the Player being armed when entering building"
     },
     {
         "Speaker": "FemaleOldKindly",
-        "Dialogue": "\"Dear. You should put that weapon away.\"",
+        "Dialogue": "Dear. You should put that weapon away.",
         "Event": "the Player being armed when entering building"
     },
     {
         "Speaker": "MaleOldKindly",
-        "Dialogue": "\"You're making people a bit nervous. Should consider putting that weapon away.\"",
+        "Dialogue": "You're making people a bit nervous. Should consider putting that weapon away.",
         "Event": "the Player being armed when entering building"
     },
     {
         "Speaker": "FemaleOrc",
-        "Dialogue": "\"You got guts walking around with that weapon out. Looking for a fight? Is that it?\"",
+        "Dialogue": "You got guts walking around with that weapon out. Looking for a fight? Is that it?",
         "Event": "the Player being armed when entering building"
     },
     {
         "Speaker": "MaleOrc",
-        "Dialogue": "\"Ever see someone killed with their own weapon? Would you like to?\"",
+        "Dialogue": "Ever see someone killed with their own weapon? Would you like to?",
         "Event": "the Player being armed when entering building"
     },
     {
         "Speaker": "FemaleShrill",
-        "Dialogue": "\"Put that thing away before someone gets hurt!\"",
+        "Dialogue": "Put that thing away before someone gets hurt!",
         "Event": "the Player being armed when entering building"
     },
     {
         "Speaker": "MaleSlyCynical",
-        "Dialogue": "\"Walk into the the [sic] wrong place with your weapon drawn? You might not walk out again....\"",
+        "Dialogue": "Walk into the the [sic] wrong place with your weapon drawn? You might not walk out again....",
         "Event": "the Player being armed when entering building"
     },
     {
         "Speaker": "MaleSoldier",
-        "Dialogue": "\"It's probably best if you put that weapon away.\"",
+        "Dialogue": "It's probably best if you put that weapon away.",
         "Event": "the Player being armed when entering building"
     },
     {
         "Speaker": "FemaleSultry",
-        "Dialogue": "\"Now, now... no need for weapons.\"",
+        "Dialogue": "Now, now... no need for weapons.",
         "Event": "the Player being armed when entering building"
     },
     {
         "Speaker": "FemaleYoungEager",
-        "Dialogue": "\"Nice weapon you have there. But I don't suppose you'd consider putting it away?\"",
+        "Dialogue": "Nice weapon you have there. But I don't suppose you'd consider putting it away?",
         "Event": "the Player being armed when entering building"
     },
     {
         "Speaker": "MaleYoungEager",
-        "Dialogue": "\"Nice weapon you got there. Care to put it away?\"",
+        "Dialogue": "Nice weapon you got there. Care to put it away?",
         "Event": "the Player being armed when entering building"
     },
     {
         "Speaker": "Merchant",
-        "Dialogue": "\"Take a look.\"",
+        "Dialogue": "Take a look.",
         "Event": "the Player trying to buy something from the"
     },
     {
         "Speaker": "Alchemist",
-        "Dialogue": "\"So you're interested in my potions and ingredients?\"",
+        "Dialogue": "So you're interested in my potions and ingredients?",
         "Event": "the Player trying to buy something from the"
     },
     {
         "Speaker": "Alchemist",
-        "Dialogue": "\"Got a pretty full stock of potions and alchemy reagents.\"",
+        "Dialogue": "Got a pretty full stock of potions and alchemy reagents.",
         "Event": "the Player trying to buy something from the"
     },
     {
         "Speaker": "Alchemist",
-        "Dialogue": "\"Ah, so you're an alchemist, then?\"",
+        "Dialogue": "Ah, so you're an alchemist, then?",
         "Event": "the Player trying to buy something from the"
     },
     {
         "Speaker": "Smith",
-        "Dialogue": "\"The finest weapons and armor.\"",
+        "Dialogue": "The finest weapons and armor.",
         "Event": "the Player trying to buy something from the"
     },
     {
         "Speaker": "Smith",
-        "Dialogue": "\"Hmm... Blades, helmets. Pretty much anything to suit your needs.\"",
+        "Dialogue": "Hmm... Blades, helmets. Pretty much anything to suit your needs.",
         "Event": "the Player trying to buy something from the"
     },
     {
         "Speaker": "Smith",
-        "Dialogue": "\"Looking to protect yourself, or deal some damage?\"",
+        "Dialogue": "Looking to protect yourself, or deal some damage?",
         "Event": "the Player trying to buy something from the"
     },
     {
         "Speaker": "Fence",
-        "Dialogue": "\"Usual guild rate. Let's take a look at them.\"",
+        "Dialogue": "Usual guild rate. Let's take a look at them.",
         "Event": "the Player trying to buy something from the"
     },
     {
         "Speaker": "Fence",
-        "Dialogue": "\"Why don't you take a look at some of my merchandise and we'll see what kind of a deal we can make.\"",
+        "Dialogue": "Why don't you take a look at some of my merchandise and we'll see what kind of a deal we can make.",
         "Event": "the Player trying to buy something from the"
     },
     {
         "Speaker": "Fence",
-        "Dialogue": "\"I've got coin and I've got merchandise. Let's see what we can do.\"",
+        "Dialogue": "I've got coin and I've got merchandise. Let's see what we can do.",
         "Event": "the Player trying to buy something from the"
     },
     {
         "Speaker": "Fence",
-        "Dialogue": "\"I give special rates to members of the Thieves Guild. Show me what you've got.\"",
+        "Dialogue": "I give special rates to members of the Thieves Guild. Show me what you've got.",
         "Event": "the Player trying to buy something from the"
     },
     {
         "Speaker": "Fletcher",
-        "Dialogue": "\"Bow and arrows for the mighty huntsman.\"",
+        "Dialogue": "Bow and arrows for the mighty huntsman.",
         "Event": "the Player trying to buy something from the"
     },
     {
         "Speaker": "Fletcher",
-        "Dialogue": "\"An archer, eh? Oh, I've got just what you need.\"",
+        "Dialogue": "An archer, eh? Oh, I've got just what you need.",
         "Event": "the Player trying to buy something from the"
     },
     {
         "Speaker": "Fletcher",
-        "Dialogue": "\"What are you hunting? Never mind. I don't want to know.\"",
+        "Dialogue": "What are you hunting? Never mind. I don't want to know.",
         "Event": "the Player trying to buy something from the"
     },
     {
         "Speaker": "Innkeeper",
-        "Dialogue": "\"Drink for the thirsty, food for the hungry.\"",
+        "Dialogue": "Drink for the thirsty, food for the hungry.",
         "Event": "the Player trying to buy something from the"
     },
     {
         "Speaker": "Innkeeper",
-        "Dialogue": "\"Let's sate that appetite, hmm?\"",
+        "Dialogue": "Let's sate that appetite, hmm?",
         "Event": "the Player trying to buy something from the"
     },
     {
         "Speaker": "Innkeeper",
-        "Dialogue": "\"Depends. Are you thirsty, hungry, both?\"",
+        "Dialogue": "Depends. Are you thirsty, hungry, both?",
         "Event": "the Player trying to buy something from the"
     },
     {
         "Speaker": "Jeweler",
-        "Dialogue": "\"Beautiful things for beautiful people.\"",
+        "Dialogue": "Beautiful things for beautiful people.",
         "Event": "the Player trying to buy something from the"
     },
     {
         "Speaker": "Jeweler",
-        "Dialogue": "\"Let see what adornments I might have available...\"",
+        "Dialogue": "Let see what adornments I might have available...",
         "Event": "the Player trying to buy something from the"
     },
     {
         "Speaker": "Jeweler",
-        "Dialogue": "\"I've got some wonderful jewelry.\"",
+        "Dialogue": "I've got some wonderful jewelry.",
         "Event": "the Player trying to buy something from the"
     },
     {
         "Speaker": "General goods",
-        "Dialogue": "\"Oh, a bit of this and a bit of that.\"",
+        "Dialogue": "Oh, a bit of this and a bit of that.",
         "Event": "the Player trying to buy something from the"
     },
     {
         "Speaker": "General goods",
-        "Dialogue": "\"Trinkets, odds and ends, that sort of thing.\"",
+        "Dialogue": "Trinkets, odds and ends, that sort of thing.",
         "Event": "the Player trying to buy something from the"
     },
     {
         "Speaker": "General goods",
-        "Dialogue": "\"Some may call this junk. Me, I call them treasures.\"",
+        "Dialogue": "Some may call this junk. Me, I call them treasures.",
         "Event": "the Player trying to buy something from the"
     },
     {
         "Speaker": "Street vendor",
-        "Dialogue": "\"Just what you see here.\"",
+        "Dialogue": "Just what you see here.",
         "Event": "the Player trying to buy something from the"
     },
     {
         "Speaker": "Street vendor",
-        "Dialogue": "\"Everything I've got on display, really.\"",
+        "Dialogue": "Everything I've got on display, really.",
         "Event": "the Player trying to buy something from the"
     },
     {
         "Speaker": "Street vendor",
-        "Dialogue": "\"See for yourself.\"",
+        "Dialogue": "See for yourself.",
         "Event": "the Player trying to buy something from the"
     },
     {
         "Speaker": "Spell vendor",
-        "Dialogue": "\"Spells and incantations for those with the talent to cast them.\"",
+        "Dialogue": "Spells and incantations for those with the talent to cast them.",
         "Event": "the Player trying to buy something from the"
     },
     {
         "Speaker": "Spell vendor",
-        "Dialogue": "\"So, you wish to master the arcane arts...\"",
+        "Dialogue": "So, you wish to master the arcane arts...",
         "Event": "the Player trying to buy something from the"
     },
     {
         "Speaker": "Spell vendor",
-        "Dialogue": "\"Hmph. I had you figured for a mage. I think you'll appreciate this...\"",
+        "Dialogue": "Hmph. I had you figured for a mage. I think you'll appreciate this...",
         "Event": "the Player trying to buy something from the"
     },
     {
         "Speaker": "Tailor",
-        "Dialogue": "\"Clothes and raiment for the discerning customer.\"",
+        "Dialogue": "Clothes and raiment for the discerning customer.",
         "Event": "the Player trying to buy something from the"
     },
     {
         "Speaker": "Tailor",
-        "Dialogue": "\"Breeches, gowns... clothes for any occasion, really.\"",
+        "Dialogue": "Breeches, gowns... clothes for any occasion, really.",
         "Event": "the Player trying to buy something from the"
     },
     {
         "Speaker": "Tailor",
-        "Dialogue": "\"Let's see if we can't find an outfit that suits you.\"",
+        "Dialogue": "Let's see if we can't find an outfit that suits you.",
         "Event": "the Player trying to buy something from the"
     },
     {
         "Speaker": "Quartermaster",
-        "Dialogue": "\"Here's what I can spare.\"",
+        "Dialogue": "Here's what I can spare.",
         "Event": "the Player trying to buy something from the"
     },
     {
         "Speaker": "Innkeeper",
-        "Dialogue": "\"Come on in. Let me know if you need anything, or take a seat by the fire and I'll send someone over.\"",
+        "Dialogue": "Come on in. Let me know if you need anything, or take a seat by the fire and I'll send someone over.",
         "Event": "the Player entering the inn"
     },
     {
         "Speaker": "Innkeeper",
-        "Dialogue": "\"Come on in. Just stoked the fire. Take a seat and get the cold out.\"",
+        "Dialogue": "Come on in. Just stoked the fire. Take a seat and get the cold out.",
         "Event": "the Player entering the inn"
     },
     {
         "Speaker": "Innkeeper",
-        "Dialogue": "\"Welcome. Let me know if you want anything... think I got a clean mug around here somewhere.\"",
+        "Dialogue": "Welcome. Let me know if you want anything... think I got a clean mug around here somewhere.",
         "Event": "the Player entering the inn"
     },
     {
         "Speaker": "Innkeeper",
-        "Dialogue": "\"Come on in. We got warm food, warm drinks, and warm beds.\"",
+        "Dialogue": "Come on in. We got warm food, warm drinks, and warm beds.",
         "Event": "the Player entering the inn"
     }
 ]

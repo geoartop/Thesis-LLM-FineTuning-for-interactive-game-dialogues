@@ -1,127 +1,127 @@
 [
     {
         "Speaker": "Guard",
-        "Dialogue": "\"What is it, Argonian?\"",
-        "Event": "a Guard reacting to players race",
+        "Dialogue": "What is it, Argonian?",
+        "Event": "a Guard reacting to the Player's race",
         "Condition": null,
         "Race": "Argonian"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Stay out of trouble, Argonian.\"",
-        "Event": "a Guard reacting to players race",
+        "Dialogue": "Stay out of trouble, Argonian.",
+        "Event": "a Guard reacting to the Player's race",
         "Condition": null,
         "Race": "Argonian"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Stay out of trouble, lizard.\"",
-        "Event": "a Guard reacting to players race",
+        "Dialogue": "Stay out of trouble, lizard.",
+        "Event": "a Guard reacting to the Player's race",
         "Condition": "the Guard is a Stormcloak",
         "Race": "Argonian"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Staying out of trouble, kinsman?\"",
-        "Event": "a Guard reacting to players race",
+        "Dialogue": "Staying out of trouble, kinsman?",
+        "Event": "a Guard reacting to the Player's race",
         "Condition": "the Guard is Nord",
         "Race": "Nord"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"How can I help a brother Nord?\"",
-        "Event": "a Guard reacting to players race",
+        "Dialogue": "How can I help a brother Nord?",
+        "Event": "a Guard reacting to the Player's race",
         "Condition": "the Guard is Nord",
         "Race": "Nord"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Stay out of trouble, Nord.\"",
-        "Event": "a Guard reacting to players race",
+        "Dialogue": "Stay out of trouble, Nord.",
+        "Event": "a Guard reacting to the Player's race",
         "Condition": "the Guard is not Nord",
         "Race": "Nord"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Don't cross me, Elf.\"",
-        "Event": "a Guard reacting to players race",
+        "Dialogue": "Don't cross me, Elf.",
+        "Event": "a Guard reacting to the Player's race",
         "Condition": "the Guard is Nord and a Stormcloak",
         "Race": "Altmer, Bosmer, or Dunmer"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Stay out of trouble, Elf.\"",
-        "Event": "a Guard reacting to players race",
+        "Dialogue": "Stay out of trouble, Elf.",
+        "Event": "a Guard reacting to the Player's race",
         "Condition": "the Guard is not a Stormcloak",
         "Race": "Altmer, Bosmer, or Dunmer"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"What is it, Elf?\"",
-        "Event": "a Guard reacting to players race",
+        "Dialogue": "What is it, Elf?",
+        "Event": "a Guard reacting to the Player's race",
         "Condition": "the Guard is not a Stormcloak",
         "Race": "Altmer, Bosmer, or Dunmer"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Stay out of trouble, Khajiit.\"",
-        "Event": "a Guard reacting to players race",
+        "Dialogue": "Stay out of trouble, Khajiit.",
+        "Event": "a Guard reacting to the Player's race",
         "Condition": null,
         "Race": "Khajiit"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"What is it, Khajiit?\"",
-        "Event": "a Guard reacting to players race",
+        "Dialogue": "What is it, Khajiit?",
+        "Event": "a Guard reacting to the Player's race",
         "Condition": null,
         "Race": "Khajiit"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"What do you want... cat?\"",
-        "Event": "a Guard reacting to players race",
+        "Dialogue": "What do you want... cat?",
+        "Event": "a Guard reacting to the Player's race",
         "Condition": "the Guard is a Stormcloak",
         "Race": "Khajiit"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Stay out of trouble, Redguard.\"",
-        "Event": "a Guard reacting to players race",
+        "Dialogue": "Stay out of trouble, Redguard.",
+        "Event": "a Guard reacting to the Player's race",
         "Condition": null,
         "Race": "Redguard"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"What is it, Redguard?\"",
-        "Event": "a Guard reacting to players race",
+        "Dialogue": "What is it, Redguard?",
+        "Event": "a Guard reacting to the Player's race",
         "Condition": null,
         "Race": "Redguard"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Stay out of trouble, Imperial.\"",
-        "Event": "a Guard reacting to players race",
+        "Dialogue": "Stay out of trouble, Imperial.",
+        "Event": "a Guard reacting to the Player's race",
         "Condition": "the Guard is not Imperial (race)",
         "Race": "Imperial"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"What is it, Imperial?\"",
-        "Event": "a Guard reacting to players race",
+        "Dialogue": "What is it, Imperial?",
+        "Event": "a Guard reacting to the Player's race",
         "Condition": "the Guard is not Imperial (race)",
         "Race": "Imperial"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"Stay out of trouble, Orc.\"",
-        "Event": "a Guard reacting to players race",
+        "Dialogue": "Stay out of trouble, Orc.",
+        "Event": "a Guard reacting to the Player's race",
         "Condition": null,
         "Race": "Orc"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "\"What is it, Orc?\"",
-        "Event": "a Guard reacting to players race",
+        "Dialogue": "What is it, Orc?",
+        "Event": "a Guard reacting to the Player's race",
         "Condition": null,
         "Race": "Orc"
     }
