@@ -177,37 +177,37 @@
         "Speaker": "MaleKhajiit",
         "Dialogue": "The roads of Skyrim lead to many dangers.",
         "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
-        "Condition": "the Khajiit is a guard or a merchant"
+        "Condition": null
     },
     {
         "Speaker": "MaleKhajiit",
         "Dialogue": "The warm sand of Elsweyr is far away from here.",
         "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
-        "Condition": "the Khajiit is a guard or a merchant"
+        "Condition": null
     },
     {
         "Speaker": "MaleKhajiit",
         "Dialogue": "The longer we travel the roads of Skyrim, the more empty this land seems.",
         "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
-        "Condition": "the Khajiit is a guard or a merchant"
+        "Condition": null
     },
     {
         "Speaker": "MaleKhajiit",
         "Dialogue": "The wind blows bitter cold in this place.",
         "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
-        "Condition": "the Khajiit is a guard or a merchant"
+        "Condition": null
     },
     {
         "Speaker": "MaleKhajiit",
         "Dialogue": "The road makes this one weary.",
         "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
-        "Condition": "the Khajiit is a guard or a merchant"
+        "Condition": null
     },
     {
         "Speaker": "MaleKhajiit",
         "Dialogue": "We are creatures of the desert. The north wind chills us to the bones.",
         "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
-        "Condition": "the Khajiit is a guard or a merchant"
+        "Condition": null
     },
     {
         "Speaker": "MaleKhajiit",
@@ -309,67 +309,67 @@
         "Speaker": "FemaleKhajiit",
         "Dialogue": "The roads of Skyrim lead to many dangers.",
         "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
-        "Condition": "the Khajiit is a guard or a merchant"
+        "Condition": null
     },
     {
         "Speaker": "FemaleKhajiit",
         "Dialogue": "The warm sand of Elsweyr is far away from here.",
         "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
-        "Condition": "the Khajiit is a guard or a merchant"
+        "Condition": null
     },
     {
         "Speaker": "FemaleKhajiit",
         "Dialogue": "The longer we travel the roads of Skyrim, the more empty this land seems.",
         "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
-        "Condition": "the Khajiit is a guard or a merchant"
+        "Condition": null
     },
     {
         "Speaker": "FemaleKhajiit",
         "Dialogue": "The wind blows bitter cold in this place.",
         "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
-        "Condition": "the Khajiit is a guard or a merchant"
+        "Condition": null
     },
     {
         "Speaker": "FemaleKhajiit",
         "Dialogue": "The road makes this one weary.",
         "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
-        "Condition": "the Khajiit is a guard or a merchant"
+        "Condition": null
     },
     {
         "Speaker": "FemaleKhajiit",
         "Dialogue": "A welcome to you, fellow traveler.",
         "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
-        "Condition": "the Khajiit is a guard or a merchant"
+        "Condition": null
     },
     {
         "Speaker": "FemaleKhajiit",
         "Dialogue": "The air is so clear in Skyrim, one can see forever.",
         "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
-        "Condition": "the Khajiit is a guard or a merchant"
+        "Condition": null
     },
     {
         "Speaker": "FemaleKhajiit",
         "Dialogue": "It is a strange sight, the white flakes that sometimes fall from the sky.",
         "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
-        "Condition": "the Khajiit is a guard or a merchant"
+        "Condition": null
     },
     {
         "Speaker": "FemaleKhajiit",
         "Dialogue": "A peaceful greeting to you.",
         "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
-        "Condition": "the Khajiit is a guard or a merchant"
+        "Condition": null
     },
     {
         "Speaker": "FemaleKhajiit",
         "Dialogue": "How high the mountains of Skyrim rise!",
         "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
-        "Condition": "the Khajiit is a guard or a merchant"
+        "Condition": null
     },
     {
         "Speaker": "FemaleKhajiit",
         "Dialogue": "There is much beauty in this place.",
         "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
-        "Condition": "the Khajiit is a guard or a merchant"
+        "Condition": null
     },
     {
         "Speaker": "FemaleKhajiit",

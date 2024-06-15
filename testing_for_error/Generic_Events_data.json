@@ -2,12 +2,12 @@
     {
         "Speaker": "Any",
         "Dialogue": "You dirty thief!",
-        "Event": "the an NPC witnessing a theft"
+        "Event": "an NPC witnessing a theft"
     },
     {
         "Speaker": "Any",
         "Dialogue": "Stop, thief!",
-        "Event": "the an NPC witnessing a theft"
+        "Event": "an NPC witnessing a theft"
     },
     {
         "Speaker": "Any",

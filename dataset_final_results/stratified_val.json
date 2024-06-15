@@ -101,7 +101,7 @@
     {
         "Speaker": "Any",
         "Dialogue": "Stop, thief!",
-        "Event": "the an NPC witnessing a theft"
+        "Event": "an NPC witnessing a theft"
     },
     {
         "Speaker": "Any",
@@ -763,13 +763,13 @@
         "Speaker": "FemaleKhajiit",
         "Dialogue": "A peaceful greeting to you.",
         "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
-        "Condition": "the Khajiit is a guard or a merchant"
+        "Condition": null
     },
     {
         "Speaker": "FemaleKhajiit",
         "Dialogue": "The warm sand of Elsweyr is far away from here.",
         "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
-        "Condition": "the Khajiit is a guard or a merchant"
+        "Condition": null
     },
     {
         "Speaker": "MaleKhajiit",

@@ -789,7 +789,7 @@
         "Speaker": "FemaleKhajiit",
         "Dialogue": "The roads of Skyrim lead to many dangers.",
         "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
-        "Condition": "the Khajiit is a guard or a merchant"
+        "Condition": null
     },
     {
         "Speaker": "FemaleKhajiit",
@@ -801,7 +801,7 @@
         "Speaker": "FemaleKhajiit",
         "Dialogue": "The road makes this one weary.",
         "Event": "the Player greeting a Khajiit NPC on the Khajiit Caraban",
-        "Condition": "the Khajiit is a guard or a merchant"
+        "Condition": null
     },
     {
         "Speaker": "MaleKhajiit",
