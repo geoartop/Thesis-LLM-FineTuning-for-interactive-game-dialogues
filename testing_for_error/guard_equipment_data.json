@@ -51,49 +51,49 @@
     {
         "Speaker": "Guard",
         "Dialogue": "Some advice, friend. That armor won't offer much protection in a real fight.",
-        "Event": "Guard reacting to the Player's weapon",
+        "Event": "Guard reacting to the Player's armor",
         "Condition": null,
         "Equipment": "Hide Armor"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "You wear the armor of a brigand. Best not cause any trouble on my watch.",
-        "Event": "Guard reacting to the Player's weapon",
+        "Event": "Guard reacting to the Player's armor",
         "Condition": null,
         "Equipment": "Studded Armor"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "Fancy the leather armor, huh? Something to be said for going light.",
-        "Event": "Guard reacting to the Player's weapon",
+        "Event": "Guard reacting to the Player's armor",
         "Condition": null,
         "Equipment": "Leather Armor"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "That's fine scale armor you've got on there. Shiny.",
-        "Event": "Guard reacting to the Player's weapon",
+        "Event": "Guard reacting to the Player's armor",
         "Condition": null,
         "Equipment": "Scaled Armor"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "That's good armor you've got there, friend. Iron, solid and true.",
-        "Event": "Guard reacting to the Player's weapon",
+        "Event": "Guard reacting to the Player's armor",
         "Condition": null,
         "Equipment": "Iron Armor"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "Hmph. You wear that armor well. Iron may be simple, but it'll stop enough to keep you in the fight.",
-        "Event": "Guard reacting to the Player's weapon",
+        "Event": "Guard reacting to the Player's armor",
         "Condition": null,
         "Equipment": "Iron Armor"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "You wear the armor of a mercenary. Now that's the life.",
-        "Event": "Guard reacting to the Player's weapon",
+        "Event": "Guard reacting to the Player's armor",
         "Condition": null,
         "Equipment": "Banded Iron Armor"
     },
@@ -226,7 +226,7 @@
     {
         "Speaker": "Guard",
         "Dialogue": "You wear the garb of a true Nord. I salute you.",
-        "Event": "Guard reacting to the Player's artifacts and unique items",
+        "Event": "Guard reacting to the Player's armor",
         "Condition": null,
         "Equipment": "Wolf Armor"
     },

@@ -888,17 +888,24 @@
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "That Stormcloak armor's getting on my nerves...",
+        "Dialogue": "You come talking to me wearing Imperial armor? You got stew for brains?",
         "Event": "Guard reacting to the Player's armor",
-        "Condition": "the Guard speaking is an Imperial Guard",
-        "Equipment": "Stormcloak Cuirass"
+        "Condition": "the Guard speaking is a Stormcloak Guard",
+        "Equipment": "Imperial Armor"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "That mace... get it away from me. Get it away...",
+        "Dialogue": "That armor... Are you one of the Emperor's protectors? Not very good at your job, are you?",
+        "Event": "Guard reacting to the Player's armor",
+        "Condition": "the emperor is alive",
+        "Equipment": "Penitus Oculatus Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "I know Thieves Guild armor when I see it. You're not fooling anyone.",
         "Event": "Guard reacting to the Player's artifacts and unique items",
         "Condition": null,
-        "Equipment": "Mace of Molag Bal"
+        "Equipment": "Thieves Guild Armor or Guild Master's Armor"
     },
     {
         "Speaker": "Guard",

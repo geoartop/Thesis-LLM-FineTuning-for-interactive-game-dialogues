@@ -909,13 +909,6 @@
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "That's fine scale armor you've got on there. Shiny.",
-        "Event": "Guard reacting to the Player's weapon",
-        "Condition": null,
-        "Equipment": "Scaled Armor"
-    },
-    {
-        "Speaker": "Guard",
         "Dialogue": "Takes a fair bit of strength to carry a greatsword like that. But can you use it?",
         "Event": "Guard reacting to the Player's weapon",
         "Condition": null,
@@ -923,31 +916,38 @@
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "Is your armor made of... dragon scales? By the gods, what I wouldn't do for a set of that.",
+        "Dialogue": "You wear the armor of a mercenary. Now that's the life.",
         "Event": "Guard reacting to the Player's armor",
         "Condition": null,
-        "Equipment": "Dragonscale Armor"
+        "Equipment": "Banded Iron Armor"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "Judging by your armor, I'd say you're an Imperial scout. If so, well met.",
+        "Dialogue": "Aye, now that's some fine armor. Good old-fashioned steel.",
         "Event": "Guard reacting to the Player's armor",
-        "Condition": "the Guard speaking is a Imperial Guard",
-        "Equipment": "Imperial Light Armor"
+        "Condition": null,
+        "Equipment": "Steel Armor or Steel Plate Armor"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "Your shield... Dwarf-make, is it not? But yet it seems so much... more.",
-        "Event": "Guard reacting to the Player's artifacts and unique items",
+        "Dialogue": "Orcish armor, hmm? Had me a set of that once. Ugly and strong, like those that forged it.",
+        "Event": "Guard reacting to the Player's armor",
         "Condition": null,
-        "Equipment": "Spellbreaker"
+        "Equipment": "Orcish Armor"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "Tis a wicked axe you wield there, friend. That blade looks sharp enough to cut through a god.",
+        "Dialogue": "Who did you have to kill to get that blade?",
         "Event": "Guard reacting to the Player's artifacts and unique items",
         "Condition": null,
-        "Equipment": "The Rueful Axe"
+        "Equipment": "Mehrunes Razor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "What manner of staff is that? Such a horror...",
+        "Event": "Guard reacting to the Player's artifacts and unique items",
+        "Condition": null,
+        "Equipment": "Skull of Corruption"
     },
     {
         "Speaker": "Guard",
