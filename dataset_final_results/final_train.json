@@ -7017,31 +7017,10 @@
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "You wear the armor of the bear, my friend. A fine choice.",
-        "Event": "Guard reacting to the Player's weapon",
-        "Condition": "the Guard speaking is a Stormcloak Guard",
-        "Equipment": "Stormcloak Officer Armor"
-    },
-    {
-        "Speaker": "Guard",
         "Dialogue": "Fancy the leather armor, huh? Something to be said for going light.",
         "Event": "Guard reacting to the Player's weapon",
         "Condition": null,
         "Equipment": "Leather Armor"
-    },
-    {
-        "Speaker": "Guard",
-        "Dialogue": "You come talking to me wearing Imperial armor? You got stew for brains?",
-        "Event": "Guard reacting to the Player's weapon",
-        "Condition": "the Guard speaking is a Stormcloak Guard",
-        "Equipment": "Imperial Armor"
-    },
-    {
-        "Speaker": "Guard",
-        "Dialogue": "Is your armor made of... dragon scales? By the gods, what I wouldn't do for a set of that.",
-        "Event": "Guard reacting to the Player's weapon",
-        "Condition": null,
-        "Equipment": "Dragonscale Armor"
     },
     {
         "Speaker": "Guard",
@@ -7052,17 +7031,10 @@
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "That armor... Are you one of the Emperor's protectors? Can't say I envy you that job.",
+        "Dialogue": "Iron sword, huh? What are you killing, butterflies?",
         "Event": "Guard reacting to the Player's weapon",
-        "Condition": "the emperor is alive",
-        "Equipment": "Penitus Oculatus Armor"
-    },
-    {
-        "Speaker": "Guard",
-        "Dialogue": "That's some fine Imperial armor you've got there.",
-        "Event": "Guard reacting to the Player's weapon",
-        "Condition": "the Guard speaking is a Imperial Guard",
-        "Equipment": "Imperial Armor"
+        "Condition": null,
+        "Equipment": "Iron Sword"
     },
     {
         "Speaker": "Guard",
@@ -7073,115 +7045,10 @@
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "Aye, now that there's a beautiful sword. Like a sliver of midnight.",
-        "Event": "Guard reacting to the Player's weapon",
-        "Condition": null,
-        "Equipment": "Ebony Sword"
-    },
-    {
-        "Speaker": "Guard",
-        "Dialogue": "Some advice, friend. That armor won't offer much protection in a real fight.",
-        "Event": "Guard reacting to the Player's weapon",
-        "Condition": null,
-        "Equipment": "Hide Armor"
-    },
-    {
-        "Speaker": "Guard",
-        "Dialogue": "Ebony armor. By Ysmir, 'tis a wondrous sight.",
-        "Event": "Guard reacting to the Player's weapon",
-        "Condition": null,
-        "Equipment": "Ebony Armor"
-    },
-    {
-        "Speaker": "Guard",
-        "Dialogue": "You wear that Stormcloak armor well, friend.",
-        "Event": "Guard reacting to the Player's weapon",
-        "Condition": "the Guard speaking is a Stormcloak Guard",
-        "Equipment": "Stormcloak Cuirass"
-    },
-    {
-        "Speaker": "Guard",
-        "Dialogue": "That iron sword's pretty undependable. You should try steel.",
-        "Event": "Guard reacting to the Player's weapon",
-        "Condition": null,
-        "Equipment": "Iron Sword"
-    },
-    {
-        "Speaker": "Guard",
-        "Dialogue": "Orcish armor, hmm? Had me a set of that once. Ugly and strong, like those that forged it.",
-        "Event": "Guard reacting to the Player's weapon",
-        "Condition": null,
-        "Equipment": "Orcish Armor"
-    },
-    {
-        "Speaker": "Guard",
-        "Dialogue": "Fine armor you've got there. Dwarven make, am I right?",
-        "Event": "Guard reacting to the Player's weapon",
-        "Condition": null,
-        "Equipment": "Dwarven Armor"
-    },
-    {
-        "Speaker": "Guard",
-        "Dialogue": "Iron sword, huh? What are you killing, butterflies?",
-        "Event": "Guard reacting to the Player's weapon",
-        "Condition": null,
-        "Equipment": "Iron Sword"
-    },
-    {
-        "Speaker": "Guard",
         "Dialogue": "Hmph. You wear that armor well. Iron may be simple, but it'll stop enough to keep you in the fight.",
         "Event": "Guard reacting to the Player's weapon",
         "Condition": null,
         "Equipment": "Iron Armor"
-    },
-    {
-        "Speaker": "Guard",
-        "Dialogue": "You dare strut around here, wearing that filthy Stormcloak hide?",
-        "Event": "Guard reacting to the Player's weapon",
-        "Condition": "the Guard speaking is an Imperial Guard",
-        "Equipment": "Stormcloak Officer Armor"
-    },
-    {
-        "Speaker": "Guard",
-        "Dialogue": "You wear the armor of a brigand. Best not cause any trouble on my watch.",
-        "Event": "Guard reacting to the Player's weapon",
-        "Condition": null,
-        "Equipment": "Studded Armor"
-    },
-    {
-        "Speaker": "Guard",
-        "Dialogue": "Judging by your armor, I'd say you're an Imperial scout. If so, well met.",
-        "Event": "Guard reacting to the Player's weapon",
-        "Condition": "the Guard speaking is a Imperial Guard",
-        "Equipment": "Imperial Light Armor"
-    },
-    {
-        "Speaker": "Guard",
-        "Dialogue": "Favor a steel sword, do ya? Good choice for slashing or stabbing.",
-        "Event": "Guard reacting to the Player's weapon",
-        "Condition": null,
-        "Equipment": "Steel Sword"
-    },
-    {
-        "Speaker": "Guard",
-        "Dialogue": "Ah, steel plate. Now that's a solid choice of armor.",
-        "Event": "Guard reacting to the Player's weapon",
-        "Condition": null,
-        "Equipment": "Steel Plate Armor"
-    },
-    {
-        "Speaker": "Guard",
-        "Dialogue": "That armor... Are you one of the Emperor's protectors? Not very good at your job, are you?",
-        "Event": "Guard reacting to the Player's weapon",
-        "Condition": "the emperor is alive",
-        "Equipment": "Penitus Oculatus Armor"
-    },
-    {
-        "Speaker": "Guard",
-        "Dialogue": "Ugh. That armor stinks of death. You been grave robbing?",
-        "Event": "Guard reacting to the Player's weapon",
-        "Condition": null,
-        "Equipment": "Ancient Nord Armor"
     },
     {
         "Speaker": "Guard",
@@ -7192,10 +7059,17 @@
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "For your sake, I hope your [sic] took that armor from a dead Imperial scout...",
+        "Dialogue": "Aye, now that there's a beautiful sword. Like a sliver of midnight.",
         "Event": "Guard reacting to the Player's weapon",
-        "Condition": "the Guard speaking is a Stormcloak Guard",
-        "Equipment": "Imperial Light Armor"
+        "Condition": null,
+        "Equipment": "Ebony Sword"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "You wear the armor of a brigand. Best not cause any trouble on my watch.",
+        "Event": "Guard reacting to the Player's weapon",
+        "Condition": null,
+        "Equipment": "Studded Armor"
     },
     {
         "Speaker": "Guard",
@@ -7203,6 +7077,125 @@
         "Event": "Guard reacting to the Player's weapon",
         "Condition": null,
         "Equipment": "Iron Sword"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "Some advice, friend. That armor won't offer much protection in a real fight.",
+        "Event": "Guard reacting to the Player's weapon",
+        "Condition": null,
+        "Equipment": "Hide Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "That iron sword's pretty undependable. You should try steel.",
+        "Event": "Guard reacting to the Player's weapon",
+        "Condition": null,
+        "Equipment": "Iron Sword"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "For your sake, I hope your [sic] took that armor from a dead Imperial scout...",
+        "Event": "Guard reacting to the Player's armor",
+        "Condition": "the Guard speaking is a Stormcloak Guard",
+        "Equipment": "Imperial Light Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "That's some fine Imperial armor you've got there.",
+        "Event": "Guard reacting to the Player's armor",
+        "Condition": "the Guard speaking is a Imperial Guard",
+        "Equipment": "Imperial Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "Ebony armor. By Ysmir, 'tis a wondrous sight.",
+        "Event": "Guard reacting to the Player's armor",
+        "Condition": null,
+        "Equipment": "Ebony Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "You dare strut around here, wearing that filthy Stormcloak hide?",
+        "Event": "Guard reacting to the Player's armor",
+        "Condition": "the Guard speaking is an Imperial Guard",
+        "Equipment": "Stormcloak Officer Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "That armor... Are you one of the Emperor's protectors? Can't say I envy you that job.",
+        "Event": "Guard reacting to the Player's armor",
+        "Condition": "the emperor is alive",
+        "Equipment": "Penitus Oculatus Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "Ah, steel plate. Now that's a solid choice of armor.",
+        "Event": "Guard reacting to the Player's armor",
+        "Condition": null,
+        "Equipment": "Steel Plate Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "Is your armor made of... dragon bones? By the gods, what I wouldn't do for a set of that.",
+        "Event": "Guard reacting to the Player's armor",
+        "Condition": null,
+        "Equipment": "Dragonplate Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "Aye, now that's some fine armor. Good old-fashioned steel.",
+        "Event": "Guard reacting to the Player's armor",
+        "Condition": null,
+        "Equipment": "Steel Armor or Steel Plate Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "You come talking to me wearing Imperial armor? You got stew for brains?",
+        "Event": "Guard reacting to the Player's armor",
+        "Condition": "the Guard speaking is a Stormcloak Guard",
+        "Equipment": "Imperial Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "That armor... Are you one of the Emperor's protectors? Not very good at your job, are you?",
+        "Event": "Guard reacting to the Player's armor",
+        "Condition": "the emperor is alive",
+        "Equipment": "Penitus Oculatus Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "You wear that Stormcloak armor well, friend.",
+        "Event": "Guard reacting to the Player's armor",
+        "Condition": "the Guard speaking is a Stormcloak Guard",
+        "Equipment": "Stormcloak Cuirass"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "Ugh. That armor stinks of death. You been grave robbing?",
+        "Event": "Guard reacting to the Player's armor",
+        "Condition": null,
+        "Equipment": "Ancient Nord Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "You wear the armor of the bear, my friend. A fine choice.",
+        "Event": "Guard reacting to the Player's armor",
+        "Condition": "the Guard speaking is a Stormcloak Guard",
+        "Equipment": "Stormcloak Officer Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "Fine armor you've got there. Dwarven make, am I right?",
+        "Event": "Guard reacting to the Player's armor",
+        "Condition": null,
+        "Equipment": "Dwarven Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "Orcish armor, hmm? Had me a set of that once. Ugly and strong, like those that forged it.",
+        "Event": "Guard reacting to the Player's armor",
+        "Condition": null,
+        "Equipment": "Orcish Armor"
     },
     {
         "Speaker": "Guard",

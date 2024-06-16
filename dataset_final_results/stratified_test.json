@@ -909,13 +909,6 @@
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "Aye, now that's some fine armor. Good old-fashioned steel.",
-        "Event": "Guard reacting to the Player's weapon",
-        "Condition": null,
-        "Equipment": "Steel Armor or Steel Plate Armor"
-    },
-    {
-        "Speaker": "Guard",
         "Dialogue": "That's fine scale armor you've got on there. Shiny.",
         "Event": "Guard reacting to the Player's weapon",
         "Condition": null,
@@ -923,10 +916,24 @@
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "That Stormcloak armor's getting on my nerves...",
+        "Dialogue": "Takes a fair bit of strength to carry a greatsword like that. But can you use it?",
         "Event": "Guard reacting to the Player's weapon",
-        "Condition": "the Guard speaking is an Imperial Guard",
-        "Equipment": "Stormcloak Cuirass"
+        "Condition": null,
+        "Equipment": "Greatsword"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "Is your armor made of... dragon scales? By the gods, what I wouldn't do for a set of that.",
+        "Event": "Guard reacting to the Player's armor",
+        "Condition": null,
+        "Equipment": "Dragonscale Armor"
+    },
+    {
+        "Speaker": "Guard",
+        "Dialogue": "Judging by your armor, I'd say you're an Imperial scout. If so, well met.",
+        "Event": "Guard reacting to the Player's armor",
+        "Condition": "the Guard speaking is a Imperial Guard",
+        "Equipment": "Imperial Light Armor"
     },
     {
         "Speaker": "Guard",

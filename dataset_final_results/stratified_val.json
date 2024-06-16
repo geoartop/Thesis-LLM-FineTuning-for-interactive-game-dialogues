@@ -881,17 +881,17 @@
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "Takes a fair bit of strength to carry a greatsword like that. But can you use it?",
+        "Dialogue": "Favor a steel sword, do ya? Good choice for slashing or stabbing.",
         "Event": "Guard reacting to the Player's weapon",
         "Condition": null,
-        "Equipment": "Greatsword"
+        "Equipment": "Steel Sword"
     },
     {
         "Speaker": "Guard",
-        "Dialogue": "Is your armor made of... dragon bones? By the gods, what I wouldn't do for a set of that.",
-        "Event": "Guard reacting to the Player's weapon",
-        "Condition": null,
-        "Equipment": "Dragonplate Armor"
+        "Dialogue": "That Stormcloak armor's getting on my nerves...",
+        "Event": "Guard reacting to the Player's armor",
+        "Condition": "the Guard speaking is an Imperial Guard",
+        "Equipment": "Stormcloak Cuirass"
     },
     {
         "Speaker": "Guard",

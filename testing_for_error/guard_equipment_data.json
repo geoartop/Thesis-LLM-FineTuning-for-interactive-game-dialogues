@@ -100,126 +100,126 @@
     {
         "Speaker": "Guard",
         "Dialogue": "Aye, now that's some fine armor. Good old-fashioned steel.",
-        "Event": "Guard reacting to the Player's weapon",
+        "Event": "Guard reacting to the Player's armor",
         "Condition": null,
         "Equipment": "Steel Armor or Steel Plate Armor"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "Fine armor you've got there. Dwarven make, am I right?",
-        "Event": "Guard reacting to the Player's weapon",
+        "Event": "Guard reacting to the Player's armor",
         "Condition": null,
         "Equipment": "Dwarven Armor"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "Ah, steel plate. Now that's a solid choice of armor.",
-        "Event": "Guard reacting to the Player's weapon",
+        "Event": "Guard reacting to the Player's armor",
         "Condition": null,
         "Equipment": "Steel Plate Armor"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "Orcish armor, hmm? Had me a set of that once. Ugly and strong, like those that forged it.",
-        "Event": "Guard reacting to the Player's weapon",
+        "Event": "Guard reacting to the Player's armor",
         "Condition": null,
         "Equipment": "Orcish Armor"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "Ebony armor. By Ysmir, 'tis a wondrous sight.",
-        "Event": "Guard reacting to the Player's weapon",
+        "Event": "Guard reacting to the Player's armor",
         "Condition": null,
         "Equipment": "Ebony Armor"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "Is your armor made of... dragon bones? By the gods, what I wouldn't do for a set of that.",
-        "Event": "Guard reacting to the Player's weapon",
+        "Event": "Guard reacting to the Player's armor",
         "Condition": null,
         "Equipment": "Dragonplate Armor"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "Is your armor made of... dragon scales? By the gods, what I wouldn't do for a set of that.",
-        "Event": "Guard reacting to the Player's weapon",
+        "Event": "Guard reacting to the Player's armor",
         "Condition": null,
         "Equipment": "Dragonscale Armor"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "You come talking to me wearing Imperial armor? You got stew for brains?",
-        "Event": "Guard reacting to the Player's weapon",
+        "Event": "Guard reacting to the Player's armor",
         "Condition": "the Guard speaking is a Stormcloak Guard",
         "Equipment": "Imperial Armor"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "That's some fine Imperial armor you've got there.",
-        "Event": "Guard reacting to the Player's weapon",
+        "Event": "Guard reacting to the Player's armor",
         "Condition": "the Guard speaking is a Imperial Guard",
         "Equipment": "Imperial Armor"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "For your sake, I hope your [sic] took that armor from a dead Imperial scout...",
-        "Event": "Guard reacting to the Player's weapon",
+        "Event": "Guard reacting to the Player's armor",
         "Condition": "the Guard speaking is a Stormcloak Guard",
         "Equipment": "Imperial Light Armor"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "Judging by your armor, I'd say you're an Imperial scout. If so, well met.",
-        "Event": "Guard reacting to the Player's weapon",
+        "Event": "Guard reacting to the Player's armor",
         "Condition": "the Guard speaking is a Imperial Guard",
         "Equipment": "Imperial Light Armor"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "That armor... Are you one of the Emperor's protectors? Can't say I envy you that job.",
-        "Event": "Guard reacting to the Player's weapon",
+        "Event": "Guard reacting to the Player's armor",
         "Condition": "the emperor is alive",
         "Equipment": "Penitus Oculatus Armor"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "That armor... Are you one of the Emperor's protectors? Not very good at your job, are you?",
-        "Event": "Guard reacting to the Player's weapon",
+        "Event": "Guard reacting to the Player's armor",
         "Condition": "the emperor is alive",
         "Equipment": "Penitus Oculatus Armor"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "You wear that Stormcloak armor well, friend.",
-        "Event": "Guard reacting to the Player's weapon",
+        "Event": "Guard reacting to the Player's armor",
         "Condition": "the Guard speaking is a Stormcloak Guard",
         "Equipment": "Stormcloak Cuirass"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "That Stormcloak armor's getting on my nerves...",
-        "Event": "Guard reacting to the Player's weapon",
+        "Event": "Guard reacting to the Player's armor",
         "Condition": "the Guard speaking is an Imperial Guard",
         "Equipment": "Stormcloak Cuirass"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "You wear the armor of the bear, my friend. A fine choice.",
-        "Event": "Guard reacting to the Player's weapon",
+        "Event": "Guard reacting to the Player's armor",
         "Condition": "the Guard speaking is a Stormcloak Guard",
         "Equipment": "Stormcloak Officer Armor"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "You dare strut around here, wearing that filthy Stormcloak hide?",
-        "Event": "Guard reacting to the Player's weapon",
+        "Event": "Guard reacting to the Player's armor",
         "Condition": "the Guard speaking is an Imperial Guard",
         "Equipment": "Stormcloak Officer Armor"
     },
     {
         "Speaker": "Guard",
         "Dialogue": "Ugh. That armor stinks of death. You been grave robbing?",
-        "Event": "Guard reacting to the Player's weapon",
+        "Event": "Guard reacting to the Player's armor",
         "Condition": null,
         "Equipment": "Ancient Nord Armor"
     },
